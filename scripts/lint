@@ -1,0 +1,3 @@
+#!/bin/sh
+
+PIPENV_VERBOSITY=-1 exec pipenv run lint-yaml
