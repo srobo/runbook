@@ -1,0 +1,11 @@
+#!/bin/sh
+
+if [ -z "$VIRTUAL_ENV" ]
+then
+    echo "Refusing to run outside a virtual environment. If you already have"
+    echo "pipenv configured globally you should use it directly."
+    exit 1
+fi
+
+pip install pipenv
+PIPENV_VERBOSITY=-1 pipenv install --dev
