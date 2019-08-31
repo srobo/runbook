@@ -19,7 +19,7 @@ jobs:
 
     deploy:
         docker:
-            - image: circleci/python
+            - image: circleci/python:3
         steps:
             - add_ssh_keys:
                 fingerprints:
