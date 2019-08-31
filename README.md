@@ -10,20 +10,19 @@ Student Robotics Competition Program
 
 - Python (`>=3.5`)
 - `pip`
-- `pipenv` (`pip install pipenv`)
 
 ## Usage
 
 ### Installing dependencies
 
 ```
-pipenv install --dev
+pip install -r requirements.txt
 ```
 
 ### Running development server
 
 ```
-pipenv run serve
+mkdocs serve  # or ./scripts/serve
 ```
 
 This will launch a server on http://localhost:8000. Content in the server will live-reload as changes are made. If large refactors of the site structure are made, it's advisable to stop the server, make the changes, then restart it.
@@ -31,7 +30,7 @@ This will launch a server on http://localhost:8000. Content in the server will l
 ### Production build
 
 ```
-pipenv run build
+mkdocs build  # or ./scripts/build
 ```
 
 This will build the site once, and place it in `site/` in the root of the project. This may be useful to see which files are rendered, and how exactly to access them.
@@ -41,9 +40,20 @@ This will build the site once, and place it in `site/` in the root of the projec
 There are some rudimentary tests in the project. These are all run by the CI, and must pass before deployment.
 
 ```
-pipenv run lint-yaml  # Checks the yaml content is well formatted
+./scripts/lint-yaml  # Checks the yaml content is well formatted
 ```
 
+## Dependency management
+
+Add any new dependencies to `requirements.in`, then run `pip-compile`.
+
+To update existing dependencies, use `pip-compile --upgrade` for all or
+`pip-compile --upgrade-package <name>` for a specific one.
+
+If upgrading a dependency because this project's requirements have actually
+changed (i.e: we now depend on a feature in a particular version), then instead
+update the entry in `requirements.in` and run `pip-compile` as for a new
+dependency.
 
 ## License
 

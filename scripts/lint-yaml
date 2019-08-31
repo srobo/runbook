@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec yamllint -sc yamllint.yml yamllint.yml docs/ mkdocs.yml
