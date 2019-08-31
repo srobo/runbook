@@ -33,7 +33,11 @@ jobs:
                 name: Ensure requirements.txt and requirements.in are in sync
                 command: |
                   . venv/bin/activate
-                  diff -u <(pip-compile --dry-run 2>&1 | grep -v '^Dry-run, so nothing updated\.$') requirements.txt
+                  pip-compile --quiet
+                  # show what the changes are, for nicer debugging
+                  git diff
+                  # error-exit if there are changes
+                  git diff-index --quiet HEAD --
 
     deploy:
         docker:
