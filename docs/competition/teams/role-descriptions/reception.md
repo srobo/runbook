@@ -38,7 +38,7 @@ graph TD
   q-have-mcf{"Do they have<br>a MCF?"}
   q-over-16{"Are they<br>over 16?"}
   fill-mcf[Get them to fill in a MCF]
-  wristband["Give the ma wristband<br>and attach it to them"]
+  wristband["Give them a wristband<br>and attach it to them"]
   q-competitor-allow{"Are they a<br>competitor?"}
   q-guardian{"Is a guardian<br>older than 18<br>present?"}
   q-competitor-deny{"Are they a<br>competitor?"}
