@@ -1,5 +1,5 @@
 site_name: SR RunBook
-site_url: https://srobo.github.io/runbook/
+site_url: https://runbook.studentrobotics.org
 repo_url: https://github.com/srobo/runbook
 strict: true
 edit_uri: blob/master/docs/
