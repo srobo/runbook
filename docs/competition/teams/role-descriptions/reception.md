@@ -22,6 +22,67 @@ When someone enters the building, you should follow the procedure below.
 
 ![Reception Desk Flow](../diagrams/reception-desk-flow.svg)
 
+```mermaid
+graph TD
+  arrives[Guest Arrives]
+  allow-1[Allow Entry]
+  allow-2[Allow Entry]
+  allow-arrivals-desk["Allow Entry & Send them<br>to the arrivals desk<br><strong>with their kit</strong>"]
+  call-coordinator-1["Call competition<br>team coordinator"]
+  call-coordinator-2["Call competition<br>team coordinator"]
+  deny[Deny Entry]
+  q-wristband{"Do they have<br>a wristband?"}
+  q-ticket{"Do they have<br>a ticket?"}
+  scan-ticket[Scan QR code on ticket]
+  q-valid-scan{"Was the<br>scan valid?"}
+  q-have-mcf{"Do they have<br>a MCF?"}
+  q-over-16{"Are they<br>over 16?"}
+  fill-mcf[Get them to fill in a MCF]
+  wristband["Give the ma wristband<br>and attach it to them"]
+  q-competitor-allow{"Are they a<br>competitor?"}
+  q-guardian{"Is a guardian<br>older than 18<br>present?"}
+  q-competitor-deny{"Are they a<br>competitor?"}
+
+  arrives --> q-wristband
+
+  q-wristband -- No --> q-ticket
+  q-wristband -- Yes --> allow-1
+
+  q-ticket -- No --> q-have-mcf
+  q-ticket -- Yes --> scan-ticket
+
+  scan-ticket --> q-valid-scan
+  q-valid-scan -- Yes --> wristband
+  q-valid-scan -- No --> call-coordinator-1
+
+  q-have-mcf -- No --> q-over-16
+  q-have-mcf -- Yes --> wristband
+
+  q-over-16 -- No --> q-guardian
+
+  q-over-16 -- Yes --> fill-mcf
+  fill-mcf --> wristband
+
+  q-guardian -- No --> q-competitor-deny
+  q-guardian -- Yes --> fill-mcf
+
+  q-competitor-deny -- No --> deny
+  q-competitor-deny -- Yes --> call-coordinator-2
+
+  wristband --> q-competitor-allow
+
+  q-competitor-allow -- No --> allow-2
+  q-competitor-allow -- Yes --> allow-arrivals-desk
+
+  style allow-1 fill:#90EE90;
+  style allow-2 fill:#90EE90;
+  style allow-arrivals-desk fill:#90EE90;
+
+  style call-coordinator-1 fill:#EE9090;
+  style call-coordinator-2 fill:#EE9090;
+  style deny fill:#EE9090;
+```
+
 At the start of the competition day, there will be four reception staffers
 covering the entrance. Once the initial influx of people is complete, this
 will reduce to two. Additionally, after the initial influx, receptionists
