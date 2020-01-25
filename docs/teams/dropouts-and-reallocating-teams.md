@@ -5,21 +5,18 @@ original:
 ---
 ## Dropouts
 
-* A Team Leader would email their LTC informing them of their intention to withdraw from the competition.
-* The LTC emails the Team Coordinator (and Kickstart Coordinator if prior to Kickstart).
-* Efforts should be made to identify any issues that are preventing the team from continuing and solutions found if possible.  If they would still like to dropout after discussion, then follow procedure below.
-* LTC spreadsheet should be updated.
-* Team Coordinator to update SRYear Teams spreadsheet and other relevant spreadsheets.
-* Team Coordinator needs to re-allocate space to either new team or if no new teams remain, to allocate a second team to an organisation, if requested (taking into consideration successful participation of a second team in previous years’ competitions, by consulting ‘Team Archive’)
+A team may decide they no longer wish to or are unable to compete in the competition. Efforts should be made to identify any issues that are preventing the team from continuing and solutions found if possible.  If they would still like to dropout after discussion, then follow procedure below.
+
+* Teams spreadsheet should be updated to reflect their status
+* If the team has a kit, pass on their information to the Kit Team, to negotiate its return
+
+When deciding whether to re-allocate a team, it's important to consider whether the team would have a disadvantage after having been in the competition for less time. If a team drops out long after kickstart, prefer allocating second kits to teams over inviting new teams.
 
 ## To re-allocate a team
 
-* Consult Potential Team Leaders MailChimp list, sorted into chronological entries to establish waiting list.
-* Email offer of place (or second team place), asking to confirm contact information to first on the waiting list.
-* Once replied to confirm would still like to participate, update SRYear Teams spreadsheet, assign TLA after checking whether the Organisation has competed before.
-* Assign an LTC (nb. It is difficult to assign an LTC based on geographical location in the re-allocation process, therefore number of teams assigned to each LTC takes priority)
-* Update relevant LTC spreadsheet and email LTC informing them of new team allocation.  They should then allocate the new team a mentor.
-* Update User account info spreadsheet and email relevant person informing them of new team allocation.
-* If before Kickstart: Update Kickstart Teams spreadsheet and email Kickstart Coordinator of new team allocation.
-* If after Kickstart: email Kit Coordinator about new team allocation.
-* Reply to confirmation email from Team Leader with ‘Team Leader Intro’ email edited to ensure up-to-date info re. Kickstart/obtaining kit.
+If a team drops out and a space becomes available before kickstart, the Potential Team Leaders MailChimp list should be used to find those willing to enter a team at the last minute. If a team enquired, but was too late in applying, they should take priority.
+
+* Email offer of place (or second team place), asking to confirm contact information
+* Once replied to confirm would still like to participate, [allocate the team](./allocating-teams.md)
+* If before Kickstart: Find out which [kickstart](./kickstart.md) they wish to attend
+* If shortly after Kickstart: email Kit Team about new team allocation, and request a kit be dispatched to them
