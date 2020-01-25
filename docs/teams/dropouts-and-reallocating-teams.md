@@ -12,6 +12,8 @@ A team may decide they no longer wish to or are unable to compete in the competi
 
 When deciding whether to re-allocate a team, it's important to consider whether the team would have a disadvantage after having been in the competition for less time. If a team drops out long after kickstart, prefer allocating second kits to teams over inviting new teams.
 
+If unavoidable or unfortunate circumstance then email Team Leader acknowledging drop-out, offering further assistance if applicable or suggesting that they come to the competition anyway for experience and explain procedure for Kit Return.
+
 ## To re-allocate a team
 
 If a team drops out and a space becomes available before kickstart, the Potential Team Leaders MailChimp list should be used to find those willing to enter a team at the last minute. If a team enquired, but was too late in applying, they should take priority.
