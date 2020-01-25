@@ -29,6 +29,8 @@ Once signup has closed, teams need to be informed they have a place in the year'
 
 If possible, confirm places in batches before the deadline, rather than all at once after the deadline. This provides an insentive for signing up sooner, as it confirms places quicker, enabling team leaders to organise kickstart trips with more notice.
 
+The email should contain which [kickstart](./kickstart.md) event they've been allocated. If they cannot get their desired location, ask which they'd prefer.
+
 ### Example emails
 
 * [SR2020](https://github.com/srobo/team-emails/blob/master/SR2020/2019-09-25-confirm-competition-place.md)
