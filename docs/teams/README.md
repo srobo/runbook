@@ -6,5 +6,5 @@ them.
 
 Generally a single person (the Team Coordinator) takes on the overall
 responsibility for teams, though during the competition year it is often
-advantageous to delegate geographical areas to other volunteers to ensure prompt
+advantageous to delegate to other volunteers to ensure prompt
 responses to enquiries and avoid overloading a single person.
