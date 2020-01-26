@@ -5,7 +5,7 @@ Student Robotics has 2 teams which organise the operations regarding the wider c
 - [Competition Team](https://opsmanual.studentrobotics.org/annual-robotics-competition/competition-team)
 - [Kit Team](https://opsmanual.studentrobotics.org/annual-robotics-competition/kit-team)
 
-## 2020
+## SR2020
 
 ### Competition Team
 
@@ -36,9 +36,9 @@ Student Robotics has 2 teams which organise the operations regarding the wider c
 
 TBC
 
-## 2019
+## SR2019
 
-In 2019, the Competition Team was known as the Core Team.
+During SR2019, the Competition Team was known as the Core Team.
 
 ### Core Team
 
