@@ -22,4 +22,6 @@ The teams are responsible for arranging and paying for a courier to return the k
 
 When leaving the competition, teams should also be issued with [this form](https://github.com/srobo/kit-coordination-documents/tree/master/authorized-to-keep-kit), ensuring they've got all the information they need to return the kit back to us.
 
+[Example email prompting teams about kit return](https://github.com/srobo/team-emails/blob/master/SR2019/2019-05-15-kit-chase-round-1.md)
+
 [rules]: https://studentrobotics.org/docs/rules/
