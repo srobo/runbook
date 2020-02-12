@@ -103,10 +103,6 @@ Begin by requesting the following information from the Team Coordinator for the 
 
 At the end of the competition we have the majority of the kits returned to us. The Competition Team Coordinator is responsible for managing the return process. The Kit Logistics Coordinator can aid in this process and is responsible for shipping the kits to storage after they have been returned. TBD.
 
-## Ensuring the timely return of kits not returned at the competition
-
-Some teams will have been given permission to retain their kit for a while after the competition. The teams are responsible for arranging and paying for a courier to return the kit to us. The Kit Logistics Coordinator is responsible for assisting teams in this process and ensuring that all kits are returned by the 1st June of the same year that the competition was held in. TBD.
-
 ## Shipping of non-team kits and development tools to volunteers
 
 Non-team kits (those that are classed as development, support, PR or local) and development tools need to be shipped around as deemed appropriate by the person responsible for their allocation. That being the Kit Coordinator for development kits and tools, the Kit Support Coordinator for support kits, the PR coordinator for PR kits and the Team Coordinator for local kits. TBD.
