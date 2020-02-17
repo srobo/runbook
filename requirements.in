@@ -1,0 +1,11 @@
+mkdocs
+mkdocs-material
+pymdown-extensions
+mdx-include
+mkdocs-markdownextradata-plugin
+git+https://github.com/pugong/mkdocs-mermaid-plugin@abf14392b0ed0c7022210b32c4e7c9c3e4c5c68a
+
+# Development tooling
+yamllint
+
+pip-tools
