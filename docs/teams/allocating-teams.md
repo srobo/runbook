@@ -27,7 +27,7 @@ If this is the first year a given institution is competing, they are considered 
 
 Once signup has closed, teams need to be informed they have a place in the year's competition.
 
-If possible, confirm places in batches before the deadline, rather than all at once after the deadline. This provides an insentive for signing up sooner, as it confirms places quicker, enabling team leaders to organise kickstart trips with more notice.
+If possible, confirm places in batches before the deadline, rather than all at once after the deadline. This provides an incentive for signing up sooner, as it confirms places quicker, enabling team leaders to organise kickstart trips with more notice.
 
 The email should contain which [kickstart](./kickstart.md) event they've been allocated. If they cannot get their desired location, ask which they'd prefer.
 
