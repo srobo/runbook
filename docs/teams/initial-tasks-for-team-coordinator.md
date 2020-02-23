@@ -19,4 +19,6 @@ original:
 ## Once deadline reached
 
 * Need to change website (email PR) to reflect now ‘registering interest’ if a space becomes available or for future competitions. So when click on COMPETE button on website, registers interest for next year.
-    * [Example PR from SR2020](https://github.com/srobo/website/pull/189)
+* To say at top:  have to be over 18 then relevant info – name, email address, organization, confirm that they’re over 18, which feeds into Potential Team Leaders MailChimp list.
+
+[Example PR from SR2020](https://github.com/srobo/website/pull/189)

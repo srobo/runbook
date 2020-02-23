@@ -1,27 +1,17 @@
----
-original:
-  authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
-  url: https://bitbucket.org/rspanton/sr-comp-programme/wiki/Home
----
-# Competition Programme Operations Documentation
+# Competition Programme
 
-This is the Competition Programme Coordinator's operations
-documentation.
+Student Robotics primary activity is the running of the annual Competition
+Programme which culminates in the [Competition Event][competition-event].
 
-## Subordinate Roles
+This section outlines the running that programme, though note that some aspects
+(notably the competition event and [competitor teams][teams]) are large enough
+to have their own sections.
 
-Role | Volunteer | Documentation
------|-----------|--------------
-Competition Event Coordinator | Rob Spanton | [Docs](/competition/event)
-Game Design Coordinator | [unfilled] | [Overview](/programme/roles/game-design-coord)
-Kickstart Events Coordinator | Thomas Scarsbrook
-Team Coordinator | Fiona Gillan | [Docs](/teams)
-Kit Coordinator | Richard Barlow | [Docs](/kit-coord)
-Ancillary Software Coordinator |
+## Timeline
 
-## Things
+* Kickstart, usually around October/November
+* [Tech Days](./tech-days.md), to help teams throughout the year
+* [Competition][competition-event], usually a weekend in April
 
- * Kickstart
-     * [Review process](./kickstart/review.md)
- * Competition
- * [Tech Days](./tech-days.md)
+[teams]: ../teams/README.md
+[competition-event]: ../competition/README.md

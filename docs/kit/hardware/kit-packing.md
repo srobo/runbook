@@ -5,7 +5,7 @@ original:
 ---
 # Kit Packing
 
-The purpose Kit Packing is to take the tested parts from the [Kit Collation](/kit/hardware/kit-collation) Event and pack them into kits ready for use by teams. There is roughly a month between the two events to allow for repairs to be made and replacement parts purchased. At the end of Kit Packing the kits are loaded onto a pallet and shipped to our post handling provider. The kits will later be forwarded to the various Kickstart locations once the number of teams at each location has been confirmed.
+The purpose Kit Packing is to take the tested parts from the [Kit Collation](./kit-collation.md) Event and pack them into kits ready for use by teams. There is roughly a month between the two events to allow for repairs to be made and replacement parts purchased. At the end of Kit Packing the kits are loaded onto a pallet and shipped to our post handling provider. The kits will later be forwarded to the various Kickstart locations once the number of teams at each location has been confirmed.
 
 ## Process
 
@@ -29,8 +29,8 @@ Once the preparation tasks have been completed the packing can commence. The pro
 
 Each kit contains 3 lengths of thick (1mm²) wire and 4 lengths of thin (0.5mm²) wire. Since the wire is purchased on 100m reels it needs to be cut to length and folded/knotted ready for packing. The wire needs to be cut into the following:
 
- * 1.8m lengths of 1mm² wire (red, black and blue)
- * 3m lengths of 0.5mm² wire (red, black, blue and yellow)
+* 1.8m lengths of 1mm² wire (red, black and blue)
+* 3m lengths of 0.5mm² wire (red, black, blue and yellow)
 
 After being cut the wires should be folded and knotted. A demonstration on how to do this will be given at the event.
 
@@ -38,20 +38,20 @@ After being cut the wires should be folded and knotted. A demonstration on how t
 
 Each kit contains various 'Camcon' pluggable terminal block connectors. These must be counted/weighed out and bagged up. Fill resealable plastic bags with the following:
 
- * 10x 7.5mm camcons
- * 7x 5mm camcons
- * 1x 3.81mm camcon
+* 10x 7.5mm camcons
+* 7x 5mm camcons
+* 1x 3.81mm camcon
 
 ## LAYOUT
 
-To help with the filling of kits, boxes of each constituent part should be placed around the room such that one can easily walk around filling a kit box without missing a part. All parts should be laid out, including the wire and camcons, in 'part stations'. See the [canonical kit list](/kit-coord/Kit_Definition) for reference. Each part station must have a sign by it indicating the quantity to be packed. See the kit list for these quantities.
+To help with the filling of kits, boxes of each constituent part should be placed around the room such that one can easily walk around filling a kit box without missing a part. All parts should be laid out, including the wire and camcons, in 'part stations'. See the [canonical kit list](../kit-definition.md) for reference. Each part station must have a sign by it indicating the quantity to be packed. See the kit list for these quantities.
 
 Some parts are designated for development use only and should not be shipped to teams. Since the parts processed at the Kit Collation Event are a mix of development and non-development the development ones need to be filtered out from the part stations. The following types of part have some designated for development and they must be removed before commencing the FILL task:
 
- * Power Board: Development have red PCBs
- * Servo Board: Development have red PCBs
- * Motor Board: Development have red PCBs
- * USB Hub: Development have a sticker on them stating so
+* Power Board: Development have red PCBs
+* Servo Board: Development have red PCBs
+* Motor Board: Development have red PCBs
+* USB Hub: Development have a sticker on them stating so
 
 ## FILL
 
@@ -69,12 +69,12 @@ After the tracked parts have been moved in the Inventory the box contents should
 
 A checked kit (one that has a completed check list in it) is ready to have its parts safely wrapped for transport. This is done by putting the vulnerable parts of the kit into Jiffy bags. There are two sizes of Jiffy bags: small brown ones and large white ones. Place the following parts into the specified bags and do NOT seal them. Place the filled bags back into the box.
 
- * Small brown: 2x motor boards, 1x ruggeduino
- * Small brown: 1x power board, 1x servo board, 2x WiFi dongles, 1x USB stick
- * Small brown: 2x USB hubs, 1x Odroid
- * Large white: 1x tablet
- * Large white: 1x battery charger
- * Large white: 1x battery charger PSU, 1x webcam, 1x tablet charger
+* Small brown: 2x motor boards, 1x ruggeduino
+* Small brown: 1x power board, 1x servo board, 2x WiFi dongles, 1x USB stick
+* Small brown: 2x USB hubs, 1x Odroid
+* Large white: 1x tablet
+* Large white: 1x battery charger
+* Large white: 1x battery charger PSU, 1x webcam, 1x tablet charger
 
 ## PACK
 

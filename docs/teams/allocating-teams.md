@@ -29,6 +29,8 @@ Once signup has closed, teams need to be informed they have a place in the year'
 
 If possible, confirm places in batches before the deadline, rather than all at once after the deadline. This provides an incentive for signing up sooner, as it confirms places quicker, enabling team leaders to organise kickstart trips with more notice.
 
+Create a spreadsheet noting which teams are attending which kickstart location, for use at kickstart events when checking whether everyone is there and at the right event. This should contain both the list of teams, and contact details for the team leader.
+
 The email should contain which [kickstart](./kickstart.md) event they've been allocated. If they cannot get their desired location, ask which they'd prefer.
 
 ### Example emails

@@ -5,7 +5,7 @@ original:
 ---
 # Kit Collation
 
-The purpose of Kit Collation is to gather together all kit parts from the previous Competition Programme year, test them and store them ready for packing at the [Kit Packing](/kit/hardware/kit-packing) Event. See [SR2017 Kit Collation Plan](/kit/hardware/sr2017-kit-collation-plan) for a detailed plan. See [SR2018 Kit Collation Plan](/kit/hardware/sr2018-kit-collation-plan) for a details of the upcoming KCE.
+The purpose of Kit Collation is to gather together all kit parts from the previous Competition Programme year, test them and store them ready for packing at the [Kit Packing](./kit-packing.md) Event. See [SR2017 Kit Collation Plan](./sr2017-kit-collation-plan.md) for a detailed plan.
 
 ## Process
 
@@ -119,14 +119,14 @@ Allocate a box or two for storage of broken parts. Allocate a box or two for sto
 
 Also, count the following untracked items and note down the totals. Bag the CamCon connectors up by size and write the number of connectors contained on the bag.
 
- * USB Memory Stick
- * Micro USB Cable
- * Full-size USB Cable
- * 7.5mm CamCon
- * 5mm CamCon
- * 3.81mm CamCon
- * Odroid Power Cable
- * Screw Driver
+* USB Memory Stick
+* Micro USB Cable
+* Full-size USB Cable
+* 7.5mm CamCon
+* 5mm CamCon
+* 3.81mm CamCon
+* Odroid Power Cable
+* Screw Driver
 
 ## CHASEUP
 

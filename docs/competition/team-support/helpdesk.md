@@ -9,23 +9,23 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
 
 ## Equipment
 
- * Two copies of the rules - one attached to a desk by some means
- * A copy of this document
- * Issue forms for both Helpdesk Volunteers and Roving Helpers
- * Kit Swap Forms
- * Spare kit in the 'spare kit box'
- * List of spare kit
- * Broken kit box
- * Issue Form box
- * Laptop to view documentation and the IDE
- * Red insulating tape
- * Permanent marker
- * Large post-it notes
- * Radio
- * Emergency contact number for the Health and Safety Coordinator
- * Spare robot flags/badges for teams to borrow to try for size (must be clearly marked and returned to helpdesk ASAP)
- * Spare robot flag pipe fittings to give to teams
- * Saturday evening battery/charger loans
+* Two copies of the rules - one attached to a desk by some means
+* A copy of this document
+* Issue forms for both Helpdesk Volunteers and Roving Helpers
+* Kit Swap Forms
+* Spare kit in the 'spare kit box'
+* List of spare kit
+* Broken kit box
+* Issue Form box
+* Laptop to view documentation and the IDE
+* Red insulating tape
+* Permanent marker
+* Large post-it notes
+* Radio
+* Emergency contact number for the Health and Safety Coordinator
+* Spare robot flags/badges for teams to borrow to try for size (must be clearly marked and returned to helpdesk ASAP)
+* Spare robot flag pipe fittings to give to teams
+* Saturday evening battery/charger loans
 
 ## Volunteer Requirements
 
@@ -49,21 +49,24 @@ The robots require safety checking before they are allowed to compete in the com
 
 Many teams will come to Helpdesk requesting help with the development of their robot or, more likely, help using the Student Robotics kit and associated software. As mentioned earlier, Helpdesk volunteers are not expected to tell teams what to do, but rather offer advice. Helpdesk volunteers should strive to answer questions about the use of the kit and software.
 
-Some queries may require a volunteer to visit the team in their pit to observe behaviour in situ. This must only be done by a Helpdesk volunteer if it will leave no fewer than two volunteers actively manning Helpdesk. If it is not possible for a Helpdesk volunteer to visit a team then a [Roving Helper](/competition/team-support/Roving_Helper) should be summoned, via radio if necessary.
+Some queries may require a volunteer to visit the team in their pit to observe behaviour in situ. This must only be done by a Helpdesk volunteer if it will leave no fewer than two volunteers actively manning Helpdesk. If it is not possible for a Helpdesk volunteer to visit a team then a [Roving Helper](./roving-helper.md) should be summoned, via radio if necessary.
 
 In some rare situations it may be necessary to request the assistance of a person with more in-depth knowledge of the kit to help solve an issue. This should only be done if the issue is non-trivial, Here is a list of people to contact for further help:
 
 List for SR2019:
 
-Electronic Hardware:
--   Rob Gilton
+Electronic Hardware
+
+: - Rob Gilton
 
 IDE
--   Peter Law
+
+: - Peter Law
 
 Python API
--   Peter Law
--   Rob Gilton
+
+: - Peter Law
+  - Rob Gilton
 
 ### Handling suspected damaged kit requests
 
