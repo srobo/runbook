@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e0c78fb5f479459e74405adb5e9b77d6af34a5cf121da8447113f3e3f6a08d77"
+            "sha256": "95b4c2ac4f19df4803e723acdf082c1cd5b991c501a679227b855744256eade6"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -30,12 +30,24 @@
             ],
             "version": "==1.0.0"
         },
+        "htmlmin": {
+            "hashes": [
+                "sha256:50c1ef4630374a5d723900096a961cff426dff46b48f34d194a81bbe14eca178"
+            ],
+            "version": "==0.1.12"
+        },
         "jinja2": {
             "hashes": [
                 "sha256:93187ffbc7808079673ef52771baa950426fd664d3aad1d0fa3e95644360e250",
                 "sha256:b0eaf100007721b5c16c1fc1eecb87409464edc10469ddc9a22a27a99123be49"
             ],
             "version": "==2.11.1"
+        },
+        "jsmin": {
+            "hashes": [
+                "sha256:b6df99b2cd1c75d9d342e4335b535789b8da9107ec748212706ef7bbe5c2553b"
+            ],
+            "version": "==2.2.2"
         },
         "livereload": {
             "hashes": [
@@ -123,6 +135,14 @@
         "mkdocs-mermaid-plugin": {
             "git": "https://github.com/pugong/mkdocs-mermaid-plugin",
             "ref": "abf14392b0ed0c7022210b32c4e7c9c3e4c5c68a"
+        },
+        "mkdocs-minify-plugin": {
+            "hashes": [
+                "sha256:12fc10173f1e13470e8ac66564dd43a33326b911c9d5c4bf92be62fe06ff19f4",
+                "sha256:14cdee6dd71b149a47e8d8dc3630e8c1c3bc8ada3ba159bea9990bf382651e2c"
+            ],
+            "index": "pypi",
+            "version": "==0.2.3"
         },
         "pathspec": {
             "hashes": [

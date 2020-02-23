@@ -71,3 +71,5 @@ plugins:
   - search
   - markdownextradata
   - markdownmermaid
+  - minify:
+      minify_html: true
