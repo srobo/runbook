@@ -1,6 +1,6 @@
 # Safeguarding 2020
 
-Unforeseeable circumstances in SR2020 has created a situation where we need to give further thought to safeguarding as our normal processes no longer  cover all eventualities.
+Unforeseeable circumstances in SR2020 has created a situation where we need to give further thought to safeguarding as our normal processes no longer cover all eventualities.
 
 This guidance is purely for SR2020, and must be reviewed for applicability and appropriateness before any future events.
 
