@@ -6,7 +6,7 @@ original:
 
 # Mentoring
 
-When collecting information on volunteers wanting to be mentors, it needs to collect:
+When collecting information on volunteers wanting to be mentors, we needs to collect:
 
 * Confirmation that the volunteer is over 18
 * Name
