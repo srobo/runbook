@@ -8,7 +8,7 @@ original:
 
 When collecting information on volunteers wanting to be mentors, it needs to collect:
 
-* Confirm over 18
+* Confirmation that the volunteer is over 18
 * Name
 * Email address
 * Location
