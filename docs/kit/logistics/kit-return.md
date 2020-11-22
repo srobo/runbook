@@ -4,7 +4,7 @@
 
 At the end of the competition, teams are asked to return their kits to reception. Appendix A.1 of the [rules](https://studentrobotics.org/docs/rules/) notes the list of items expected back, items on this list are not expected back, but it's fine for them to be. At reception, the contents of the RUB should be checked to ensure it contains at least all the items on this list. Ensure there is nothing else left in the RUB the team may want back.
 
-The [Kit Contents Checklist](https://github.com/srobo/kit-coordination-documents/tree/master/kit-contents-checklist) should be used to ensure all the items are present and correct. 1 form should be used per team, and this form should be kept to prove the kit was returned correctly. Once completed, keep the form with its respective kit.
+The [Kit Contents Checklist](https://github.com/srobo/kit-coordination-documents/tree/master/kit-contents-checklist) should be used to ensure all the items are present and correct. One form should be used per team, and this form should be kept to prove the kit was returned correctly. Once completed, keep the form with its respective kit.
 
 ### Missing Items
 
