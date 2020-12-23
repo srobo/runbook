@@ -29,6 +29,14 @@ During the competition, there are a number of [hosted services](./competitor-ser
 which the competitors use. These have thier own managed configuration and are
 typically hosted for the duration of the competition "year" only.
 
+### Competition Services
+
+During the competition event we use the [SRComp suite][srcomp-suite] of tools to
+help run the matches, including a VM to host a public-facing copy of the HTTP
+API for use on the website.
+
+[srcomp-suite]: https://github.com/PeterJCLaw/srcomp/wiki
+
 ## Development: GitHub
 
 Our hardware and software development takes place on GitHub, within our
