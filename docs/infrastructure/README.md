@@ -23,6 +23,12 @@ and TLS termination. Our domains are registered with Namecheap.
 [slash-docs]: https://studentrobotics.org/docs
 [reverse-proxy]: https://github.com/srobo/reverse-proxy
 
+### Competitor Services
+
+During the competition, there are a number of [hosted services](./competitor-services.md)
+which the competitors use. These have thier own managed configuration and are
+typically hosted for the duration of the competition "year" only.
+
 ## Development: GitHub
 
 Our hardware and software development takes place on GitHub, within our
