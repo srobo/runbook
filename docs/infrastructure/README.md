@@ -28,7 +28,7 @@ TLS termination. Our domains are registered with Namecheap.
 
 During the competition, there are a number of [hosted services](./competitor-services.md)
 which the competitors use. These have their own managed configuration and are
-typically hosted for the duration of the competition "year" only.
+typically hosted for the duration of the *competition year* only.
 
 ### Competition Services
 
