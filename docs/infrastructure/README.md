@@ -40,7 +40,8 @@ API for use on the website.
 
 ## Development: GitHub
 
-Our hardware and software development takes place on GitHub, within our
+A lot of our collaborative work (including hardware and software development, as
+well as general task management) takes place [on GitHub][git-and-github], within our
 [`srobo`](https://github.com/srobo) organisation.
 
 We also have a separate [`srobo-legacy`](https://github.com/srobo-legacy)
@@ -48,6 +49,7 @@ organisation which contains some archived git repositories that pre-date our use
 of GitHub. Moving these over to the main organisation and de-duplicating the
 repositories is an [ongoing project][legacy-repository-migration].
 
+[git-and-github]: ../volunteering/git-and-github.md
 [legacy-repository-migration]: https://github.com/srobo/tasks/issues/179
 
 ## Email, Documents: Google
