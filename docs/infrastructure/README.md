@@ -1,6 +1,6 @@
 # Overview
 
-Student Robotics has a variety of infrastrcture in order to support its mission.
+Student Robotics has a variety of infrastructure in order to support its mission.
 This document aims to provide an outline of the general structure.
 
 Currently our infrastructure as a whole does not have a designed owner, instead
