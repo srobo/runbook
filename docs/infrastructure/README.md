@@ -55,7 +55,7 @@ repositories is an [ongoing project][legacy-repository-migration].
 ## Email, Documents: Google
 
 For our email (`@studentrobotics.org`) accounts as well as document sharing we
-use Google's G-Suite. Google Groups are used for various mailing lists.
+use Google Workspace. Google Groups are used for various mailing lists.
 
 ## External mailing lists: Mailchimp
 
