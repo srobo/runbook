@@ -57,6 +57,16 @@ repositories is an [ongoing project][legacy-repository-migration].
 For our email (`@studentrobotics.org`) accounts as well as document sharing we
 use Google Workspace. Google Groups are used for various mailing lists.
 
-## External mailing lists: Mailchimp
+## Mailing lists
 
-For sending some batch emails we use Mailchimp.
+For sending some batch emails we use Mailchimp and Google Groups.
+
+For many of our mailing lists we compose the emails in the form of pull requests
+to repositories on GitHub, enabling review & feedback before sending as well as
+providing a history which acts as a wealth of templates for sending similar
+emails in the future.
+
+Some such repositories are:
+
+* [team-emails](https://github.com/srobo/team-emails/): Emails to competitor teams
+* [volunteer-emails](https://github.com/srobo/volunteer-emails/): Emails to volunteers from other volunteers
