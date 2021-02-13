@@ -16,12 +16,13 @@ competitor-facing documentation which appears at [`/docs`][slash-docs].
 
 These sub sites (and the main website itself) are hosted as GitHub Pages, with a
 separate NGINX instance acting as a [reverse-proxy][reverse-proxy] to facade
-these onto the root domain. Currently we use Digital Ocean for the hosting of
-our [infrastructure](https://github.com/srobo/infrastructure) as well as for DNS
-and TLS termination. Our domains are registered with Namecheap.
+these and other services onto the root domain. Currently we use Digital Ocean
+for the hosting of our [infrastructure][infrastructure] as well as for DNS and
+TLS termination. Our domains are registered with Namecheap.
 
 [slash-docs]: https://studentrobotics.org/docs
 [reverse-proxy]: https://github.com/srobo/reverse-proxy
+[infrastructure]: https://github.com/srobo/infrastructure
 
 ### Competitor Services
 
