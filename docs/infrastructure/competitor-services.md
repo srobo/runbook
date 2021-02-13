@@ -11,7 +11,7 @@ The services typically include:
 **Forums**
 :   A space which the competitors can use to chat with each other and with
     mentors and to ask for help with developing their robots.
-    Historically we have used [PHPBB](https://phpbb.com), though for SR2021 we
+    Historically we have used [PHPBB](https://phpbb.com), although for SR2021 we
     have moved to using Discord with a bot to [gate entry](discord-gated-entry).
 
 **[IDE](https://github.com/srobo/srobo-ide/)**
