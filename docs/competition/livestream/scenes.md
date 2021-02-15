@@ -2,6 +2,8 @@
 
 This page documents a few of the core scenes which are used for livestreams. Not all of them are applicable to all events, but most are.
 
+The various assets useful for creating these scenes can be found [here](https://drive.google.com/drive/folders/1pr1vKpnonxFoO8O5chsH5DF7Vsd0Tfih?usp=sharing).
+
 ## Technical difficulties
 
 Things occasionally go wrong during events, so wrong it may be necessary to cut the whole feed. In this case, we show a "Technical difficulties" screen, comprised of a single image, and mute audio whilst we work on a solution.
