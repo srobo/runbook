@@ -1,6 +1,6 @@
 # Livestream
 
-Some events, such as the [competition](../README.md) online-only events are livestreamed.
+Some events are livestreamed, such as kickstart events to archive the presentation and get a wider audience, or competitions so family and friends can follow along too.
 
 ## Platforms
 
