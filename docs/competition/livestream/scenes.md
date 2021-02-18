@@ -30,7 +30,7 @@ If they're communicating using Google Meet, or another video chat service, a scr
 
 If they're in the same room, a simple video capture is enough.
 
-In the case there's a hybrid, it depends on the nature. Often webcam devices can't be captured by OBS and used in a video call. Depending on the layout and number of people, passing the webcam to Google Meet and capturing your own feed through it may be the best option.
+In the case there's a hybrid, it depends on the nature. Often webcam devices can't be captured by OBS and used in a video call simultaneously. Depending on the layout and number of people, passing the webcam to Google Meet and capturing your own feed through it may be the best option.
 
 When showing camera feeds, it may also be helpful to show the [overlay](./matches.md#overlay) to add some additional context, reference and timing information.
 
