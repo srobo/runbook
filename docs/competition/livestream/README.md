@@ -4,7 +4,7 @@ Some events, such as the [competition](../README.md) online-only events are live
 
 ## Platforms
 
-Events are streamed to the Student Robotics [YouTube](https://www.youtube.com/user/studentrobotics) account.
+Events are streamed to the Student Robotics [YouTube](https://www.youtube.com/user/studentrobotics) channel.
 
 ## Software
 
