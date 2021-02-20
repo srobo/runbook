@@ -15,6 +15,9 @@ In that regard, the runbook aims to be _descriptive_ rather than _prescriptive_.
 We are always open to new ways to do things, though by recording the reasons
 for our current approach we aim to avoid needing to rediscover that repeatedly.
 
+For more detailed guidance for editors, please see our
+[contribution guide](./contributing.md).
+
 ### Scope Limitations
 
 The runbook aims to provide general information as far as our own specific
@@ -29,10 +32,6 @@ There are many cases where it should not contain the actual documentation:
   Note: the runbook _may_ contain guidance on our approach to using external
   tooling, or recipes for using tooling which are common to us but too specific
   for general documentation.
-
-## A note on links
-
-`mkdocs` has the power to resolve and validate links, however only when they're in a specific format. Links to pages inside the runbook should be relative, and end with the `.md` file extension (ie `[some other page](./volunteering/tasks.md)` produces [some other page](./volunteering/tasks.md)). This way, `mkdocs` will correctly validate these links. Links which don't follow this format are not validated.
 
 [competition-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/competition-team
 [kit-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/kit-team
