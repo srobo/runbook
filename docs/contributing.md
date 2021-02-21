@@ -1,6 +1,6 @@
 # Contributing
 
-Contributions to Student Robitics' Runbook should follow Student Robitics'
+Contributions to Student Robotics' Runbook should follow Student Robotics'
 [Code of Conduct][code-of conduct] and made under a compatible [license][license].
 
 You may also find the [Zen of Python][pep-20] provides useful guidance.
@@ -19,11 +19,11 @@ therefore needs careful consideration to ensure that their workflows are not
 disrupted unduly.
 
 It's a good idea therefore to raise any large changes as a [new issue][new-issue]
-before commiting to them.
+before committing to them.
 
 Alternatively, if your change is more easily explained as a demonstration of the
 outcome, it's fine to raise a pull request showing that. Note however that your
-suggestion will still be discsused and may not be accepted, so you may wish to
+suggestion will still be discussed and may not be accepted, so you may wish to
 focus on a small example of the change first.
 
 [new-issue]: https://github.com/srobo/runbook/issues/new
@@ -55,7 +55,7 @@ group.
 This is a deliberate change from a previous approach where content was arranged
 around the people who worked on specific areas. Unfortunately that approach lead
 to isolated silos of information which varied wildly in their internal
-structure, content approach, utility and discoverablity. While the runbook was
+structure, content approach, utility and discoverability. While the runbook was
 pulled together from a number of those sources, it
 
 ## Content Guidance
@@ -89,7 +89,7 @@ themselves needing to contact someone else. (Note that contact-by-proxy is ok,
 as long as the eventual recipient meets the preceding criteria)
 
 This does _not_ mean that the runbook needs to exhaustively document all
-possible outcomes! For examepl: it may be the case that someone needs to use
+possible outcomes! For example: it may be the case that someone needs to use
 their judgement to resolve something. In that case it would be reasonable for
 the runbook to document that that's the case.
 
@@ -103,7 +103,7 @@ separate file prefixed by e.g: sr2019 is a good way to mark this sort of thing.
 ### Reference existing documentation
 
 For any tooling, software, hardware or the like it's a good idea to reference
-its own documentation (rather than duplicaing it). This applies to our own tools
+its own documentation (rather than duplicating it). This applies to our own tools
 as well as third party ones.
 
 However, It's a good idea to provide a brief guide towards applicable usage
