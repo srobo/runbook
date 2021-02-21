@@ -1,0 +1,7 @@
+# Virtual Competitions
+
+Due to Covid-19 Student Robotics has held the competition for the SR2020 and SR2021 competition cycles online.
+
+[A simulator][simulator] has been developed that can be distributed to competitors so they can program their virtual robot. Teams then submit their code to us and we broadcast the matches.
+
+[simulator]: https://github.com/srobo/competition-simulator
