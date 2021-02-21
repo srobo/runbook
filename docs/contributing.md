@@ -56,7 +56,8 @@ This is a deliberate change from a previous approach where content was arranged
 around the people who worked on specific areas. Unfortunately that approach lead
 to isolated silos of information which varied wildly in their internal
 structure, content approach, utility and discoverability. While the runbook was
-pulled together from a number of those sources, it
+pulled together from a number of those sources (and may have sections which are
+show that heritage) it aims to be topic-oriented.
 
 ## Content Guidance
 
