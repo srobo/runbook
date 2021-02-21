@@ -1,8 +1,8 @@
 # Contributing
 
-Contributions to Student Robitics' Runbook should:
+Contributions to Student Robotics' Runbook should:
 
-* follow Student Robitics' [Code of Conduct][code-of conduct]
+* follow Student Robotics' [Code of Conduct][code-of conduct]
 * be made under a compatible [license][license]
 * follow the Runbook [Contribution Guide][contribution-guide]
 
