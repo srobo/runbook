@@ -62,6 +62,7 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 
 ## Post Livestream
 
+- Archive the livestream so that it can be watched as a Video on Demand (VOD)
 - Cut down the VOD on YouTube to remove the countdown
 - Add chapters to the VOD
 - Distribute logs and animation files to teams
