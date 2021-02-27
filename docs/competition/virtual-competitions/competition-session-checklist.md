@@ -23,7 +23,7 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 
 ## After the Code Submission Deadline
 
-- Check for any no shows
+- Check for any no-shows
 - Construct the league for the session
 - Import the league into the compstate
 
