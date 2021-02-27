@@ -40,7 +40,8 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 - Put the website into competition mode
 - Producer downloads the recordings and configures the video scheduler to find the files correctly
 - Scorer downloads the match files
-- Presenters join a pre-livestream call to rehearse
+- Presenters rehearse any presentations they need to give
+- Presenters join a pre-livestream call to rehearse their interactions
 
 ## Go Live
 
