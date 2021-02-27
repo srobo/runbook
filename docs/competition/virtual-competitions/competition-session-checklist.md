@@ -66,6 +66,7 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 - Add chapters to the VOD
 - Distribute logs and animation files to teams
 - Schedule a Retro after a brief break
+- Announce the final scores, VOD, and next competition time to the teams
 
 ## Retro
 
