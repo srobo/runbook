@@ -6,7 +6,7 @@ The Student Robotics (Almost) Weekly Newsletter (SR(A)WN) is a semi-regular news
 
 SR(A)WN can be consumed electronically from several places:
 
-- Join the `#srawn` channel on [Slack](https://app.slack.com/client/T0EEPF1LH/C01GBT8NMSN) _recommended_
+- Join the [`#srawn` channel](https://app.slack.com/client/T0EEPF1LH/C01GBT8NMSN) on Slack _recommended_
 - Join the `srawn` mailing list on [Google Groups](https://groups.google.com/g/srawn)
 - Read historical issues on the [SR(A)WN Archive](https://studentrobotics.org/srawn)
 - Subscribe to the [SR(A)WN RSS Feed](https://studentrobotics.org/srawn/rss.xml)
@@ -41,7 +41,7 @@ Production is performed on the [SR(A)WN GitHub repository][srawn-github].
 
 ### Managing Issue
 
-The first stage in the production of an issue of SR(A)WN is the creation of the *managing issue* on [GitHub][srawn-github].
+The first stage in the production of an issue of SR(A)WN is the creation of the *managing issue* on [GitHub](https://github.com/srobo/srawn/issues?q=is%3Aissue).
 
 The *managing issue* should be based on the [submission thread template](https://github.com/srobo/srawn/blob/master/.github/ISSUE_TEMPLATE/submission-thread.md). The dates, times and issue numbering in the template should be updated appropriately. The editor will decide on a deadline for submissions for that issue, which is included in the template.
 
@@ -73,7 +73,7 @@ There are two stages to publication:
     - The Slack channel will post automatically.
 - Email the `srawn` Google Group.
     - This email should contain the HTML from the archive.
-    - The subject line should be: `[SRAWN] SR20XX Issue XX`, with the year and issue number appropriately filled in.
+    - The subject line should be: `[SRAWN] SR20XX Issue XX`, with the _competition year_ and issue number appropriately filled in.
     - The email should be sent from the editor's SR email address.
 
 [srawn-github]: https://github.com/srobo/srawn
