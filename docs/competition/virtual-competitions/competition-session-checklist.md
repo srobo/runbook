@@ -46,7 +46,7 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 
 - Presenters present
 - Scorer commits and pushes match files to the compstate as they are broadcast
-- Chat Mods to monitor chat and forward on any relevant messages to presenters or producer via Slack
+- Chat Mods to monitor chat and forward on any relevant messages to presenters or producer via Slack (the `@commentators` group may be useful for this)
 
 ## Module Announcement
 
