@@ -59,7 +59,6 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 - Release the simulator update
 - Publish the prepared website article with the module announcement
 - End the livestream
-- Revert the website back to non competition mode
 
 ## Post Livestream
 
@@ -69,6 +68,7 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 - Distribute logs and animation files to teams
 - Schedule a Retro after a brief break
 - Announce the final scores, VOD, and next competition time to the teams
+- Revert the website back to non competition mode
 
 ## Retro
 
