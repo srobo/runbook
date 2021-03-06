@@ -31,7 +31,7 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 
 - Get a copy of the updated compstate
 - Run the simulations
-- Transcode the outputted video files to WebM
+- Transcode the generated video files to WebM
 - Upload the entire output to our Google Drive Folder
 
 ## Pre Go Live
@@ -65,6 +65,7 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 - Archive the livestream so that it can be watched as a Video on Demand (VOD)
 - Cut down the VOD on YouTube to remove the countdown
 - Add chapters to the VOD
+- Create and set thumbnail for the VOD
 - Distribute logs and animation files to teams
 - Schedule a Retro after a brief break
 - Announce the final scores, VOD, and next competition time to the teams
