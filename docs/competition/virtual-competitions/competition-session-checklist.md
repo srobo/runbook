@@ -37,6 +37,7 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 ## Pre Go Live
 
 - Check the compbox services are still running
+- Create and set thumbnail for the VOD
 - Put the website into competition mode
 - Producer downloads the recordings and configures the video scheduler to find the files correctly
 - Scorer downloads the match files
@@ -65,7 +66,6 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 - Archive the livestream so that it can be watched as a Video on Demand (VOD)
 - Cut down the VOD on YouTube to remove the countdown
 - Add chapters to the VOD
-- Create and set thumbnail for the VOD
 - Distribute logs and animation files to teams
 - Schedule a Retro after a brief break
 - Announce the final scores, VOD, and next competition time to the teams
