@@ -7,6 +7,7 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 - Advertise the code submission deadline to teams
 - Create the YouTube livestream
 - Update the event page on the website with the correct livestream URL
+- Update the compstate with the correct livestream URL
 - Create a folder for session uploads in Google Drive
 - Create a presentation detailing the new module
 - Assign roles for this session
