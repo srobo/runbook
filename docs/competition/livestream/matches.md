@@ -23,15 +23,4 @@ The overlay should be present on all scenes which display matches, and perhaps a
 
 ## Video Scheduler
 
-In a simulator-based competition, matches are pre-recorded. To assist with the automatic queueing and playback of matches in line with the competition schedule, we have a [video scheduler](https://github.com/RealOrangeOne/livestream-video-scheduler).
-
-The video scheduler is currently a fork of the [overlay](#overlay), with much of the functionality removed. Therefore, it's brought into OBS in the same way, just without the chroma key.
-
-### Playback issues
-
-Due to issues with the OBS browser, some videos will not play directly through it. This manifests as it requesting the video file, but not being able to play it. There are a few solutions to this:
-
-- Transcode the videos to `webm`, as this can be played correctly
-- Open the scheduler in an external browser, and add to OBS via a screen share.
-
-This issue has mostly been seen on Linux, and a long-term solution is being looked for.
+In a simulator-based competition, matches are pre-recorded. To assist with the automatic queueing and playback of matches in line with the competition schedule, we use [SRComp Mixtape](https://github.com/srobo/srcomp-mixtape). Mixtape can also control the scene transitions at either end of each match. See [Mixtape's documentation](https://github.com/srobo/srcomp-mixtape#configuration) for how to create a suitable playlist file to configure mixtape.

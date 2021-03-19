@@ -32,7 +32,6 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 
 - Get a copy of the updated compstate
 - Run the simulations
-- Transcode the generated video files to WebM
 - Upload the entire output to our Google Drive Folder
 
 ## Pre Go Live
