@@ -10,6 +10,10 @@ mdx-include = "==1.3.3"
 mkdocs-markdownextradata-plugin = "==0.0.5"
 mkdocs-mermaid-plugin = {git = "https://github.com/pugong/mkdocs-mermaid-plugin"}
 
+# Something in 3.3 (specifically `(3.2.2, 3.3.4]`) breaks mermaid rendering.
+# Haven't looked into what just yet.
+markdown = "<3.3"
+
 [dev-packages]
 yamllint = "==1.15.0"
 
