@@ -13,7 +13,7 @@ and [Kit Team][kit-team], as well as other activities.
 
 To run this project locally, you'll need:
 
-- Python (`>=3.5`)
+- Python (`>=3.6`)
 - `pip`
 - `pipenv` (`pip install pipenv`)
 
