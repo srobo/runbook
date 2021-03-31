@@ -26,7 +26,7 @@ Depending on the length of a livestream, we may take a break in the middle. Cutt
 
 If the livestream is going to have a few key presenters, it's helpful to have a scene which shows their faces on stream. Depending on how the presenters are communicating, this may be implemented in a few different ways.
 
-If they're communicating using Google Meet, or another video chat service, a screen capture of that can be cropped and embedded into OBS.
+If they're communicating using Google Meet, or another video chat service, a screen capture of that can be cropped and embedded into OBS. When cropping, it's preferred to aim for a more landscape layout than portrait.
 
 If they're in the same room, a simple video capture is enough.
 
