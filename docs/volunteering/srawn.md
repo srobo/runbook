@@ -73,7 +73,7 @@ There are two stages to publication:
     - The Slack channel will post automatically.
 - Email the `srawn` Google Group.
     - This email should contain the HTML from the archive.
-    - The subject line should be: `[SRAWN] SR20XX Issue XX`, with the _competition year_ and issue number appropriately filled in.
+    - The subject line should be: `SR20XX Issue XX`, with the _competition year_ and issue number appropriately filled in.
     - The email should be sent from the editor's SR email address.
 
 [srawn-github]: https://github.com/srobo/srawn
