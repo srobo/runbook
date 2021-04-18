@@ -27,6 +27,7 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 - Check for any no-shows
 - Construct the league for the session
 - Import the league into the compstate
+- Set a volunteer start time for the day of the live stream (10am seems to work well for livestreams happening around lunchtime)
 
 ## Match Running
 
