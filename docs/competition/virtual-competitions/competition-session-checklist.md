@@ -21,6 +21,7 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 - Revise the rules for the new module
 - Update the simulator for the new module in the private repo
 - Draft a post-event website article with details of the new module (any game sensitive content to be reviewed via Google Drive)
+- Set a volunteer start time for the day of the live stream (10am seems to work well for livestreams happening around lunchtime)
 
 ## After the Code Submission Deadline
 
