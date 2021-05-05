@@ -2,12 +2,9 @@
 
 [![CircleCI](https://circleci.com/gh/srobo/runbook.svg?style=svg)](https://circleci.com/gh/srobo/runbook)
 
-The runbook aims to be a single source for all Student Robotics internal
-documentation. This includes information for the [Competition Team][competition-team]
-and [Kit Team][kit-team], as well as other activities.
+The runbook aims to be a single source for all Student Robotics [Competition Team][competition-team] internal documentation.
 
 [competition-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/competition-team
-[kit-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/kit-team
 
 ## Installation
 

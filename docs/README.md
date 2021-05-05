@@ -1,8 +1,7 @@
 # Home
 
 Welcome to our runbook. This aims to be a single source for all Student Robotics
-internal documentation, including information for the [Competition Team][competition-team]
-and [Kit Team][kit-team] as well as other activities.
+[Competition Team][competition-team] internal documentation.
 
 ## Content Guidance
 
@@ -26,6 +25,8 @@ There are many cases where it should not contain the actual documentation:
 
 * Information about Student Robotics' structure as a charity. This instead is
   documented by the trustees in the [ops manual][ops-manual].
+* Information covered under the scope of the [Kit Team][kit-team]. This is 
+  instead documented by the Kit Team in the [Kitbook][kitbook]
 * Detailed information about internal (or external) tooling. These instead live
   with the tooling so that the runbook is not coupled tightly to the
   development of that tooling.
@@ -34,5 +35,6 @@ There are many cases where it should not contain the actual documentation:
   for general documentation.
 
 [competition-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/competition-team
+[kitbook]: https://studentrobotics.org/kitbook
 [kit-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/kit-team
 [ops-manual]: https://opsmanual.studentrobotics.org
