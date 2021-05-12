@@ -46,6 +46,6 @@ Mods and viewers must follow these rules:
 - No inappropriate comments; this is a family-friendly chat.
 - No links without asking for permission.
 - Be respectful to other teams and other chat members.
-- No spamming
+- No spamming.
 - The moderator's decision is final.
-- English only in the chat
+- English only in the chat.
