@@ -12,7 +12,7 @@ Below is the escalation steps for dealing with a problem chat user
 
 ### Engage
 
-First, try and engage with the user, talk about robots or other benign small-talk. In the ideal case, the user will start engaging with the stream and stop causing problems.
+First, try and engage with the user, talk about robots, the topic of the stream or other benign small-talk. In the ideal case, the user will start engaging with the stream and stop causing problems.
 
 ### Warn
 
