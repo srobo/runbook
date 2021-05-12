@@ -10,7 +10,7 @@ to have their own sections.
 ## Timeline
 
 * Kickstart, usually around October/November
-* Tech Days, to help teams throughout the year
+* [Tech Days](./tech-days.md), to help teams throughout the year
 * [Competition][competition-event], usually a weekend in April
 
 [teams]: ../teams/README.md

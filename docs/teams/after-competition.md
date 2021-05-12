@@ -3,14 +3,6 @@ original:
   authors: Fiona Gillan
   url: https://github.com/fgillan/sr-team-coord/wiki/After-competition
 ---
-## Kit Return
-
-* Coordinated by Kit Coordinator who will produce a list of unreturned kit following the competition, including those teams who have applied and been granted a Kit Extension.
-
-* Email LTCs with a list of their teams who still have their kit and ask them to contact the Team Leader for contact details of where to send the Kit Return Pack to.  They should pass on these contact details to the Kit Coordinator who will send a Kit Return pack to the team.
-
-* This process may require repeated prompting from the Team Coordinator to the LTCs, and from the LTCs to the Team Leaders to ensure kit is all returned as promptly as possible.
-When the Kit Extension time as elaspsed Kit Coordinator will notify Team Coordinator who will alert relevant LTC to inform the teams concerned and obtain contact information for sending the Kit Return pack.
 
 ## Miscellaneous tasks related to Teams
 
@@ -26,6 +18,8 @@ Include information/link requesting completion of Team feedback form and advise 
 
 ## Write to the organisation associated with teams who dropped out without notifying SR in advance.
 
+This email only needs sending if teams don't respond to initial rounds of chaseup emails.
+
 Example of email sent to non-informed dropout teams in 2017:
 
 > Dear Head Teacher,
@@ -40,10 +34,4 @@ Example of email sent to non-informed dropout teams in 2017:
 
 ## Feedback
 
-The Team Coordinator should seek feedback from the Team Leaders, LTCs and Mentors on their experiences and consider updating and refining processes.  In addition, the Team Coordinator should also reflect on own processes and update and refine as appropriate.  The Team Coordinator should liaise with relevant members of the SR team to improve processes.
-
-## Update Team Archive
-
-Update Team Archive document with outcome of teams from this year's competition, i.e. whether dropped out (and when) or competed.
-
-Ideally this Archive would capture more and different types of information from each team during the SR programme which would be a relevant and useful resource for future years.  This would help to generate statistics about the teams involved in SR each year which would help to identity trends and to inform future organisation of SR.
+The Team Coordinator should seek feedback from the Team Leaders on their experiences and consider updating and refining processes. In addition, the Team Coordinator should also reflect on own processes and update and refine as appropriate. The Team Coordinator should liaise with relevant members of the SR team to improve processes.
