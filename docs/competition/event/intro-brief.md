@@ -7,7 +7,8 @@ original:
     Creative Commons Attribution 4.0 License.  To view a copy of this license,
     visit <a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a>.
 ---
-# Introductory Briefer
+
+# Introductory Brief
 
 The introductory and H&S briefer gives a ~10m talk at the beginning of the
 competition regarding matters of importance, which at a high level are:
