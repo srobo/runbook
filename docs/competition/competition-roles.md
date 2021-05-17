@@ -4,6 +4,9 @@ To run a successful competition, there are a number of roles which need to be as
 
 Depending on the nature of the event, some of these roles may not be applicable.
 
+!!! note
+  This list may not be complete
+
 ## Miscellaneous
 
 - [Intro Briefer](./event/intro-brief.md)
@@ -53,6 +56,3 @@ Depending on the nature of the event, some of these roles may not be applicable.
 - [Door Guard](./teams/role-descriptions/door-guard.md)
 - [Kit Return](./teams/role-descriptions/kit-return.md)
 - [Reception](./teams/role-descriptions/reception.md)
-
-!!! note
-  This list may not be complete
