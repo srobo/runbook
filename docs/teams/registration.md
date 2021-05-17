@@ -41,7 +41,7 @@ The form needs to be distributed to those who may be interested in competing. Th
 
 ## Collection
 
-From the form responses, create a spreadsheet. At this point, a few things need doing:
+From the form responses, create [a spreadsheet](./organisation.md). At this point, a few things need doing:
 
 First, assign the team a TLA (Three-Letter Acronym). If the team has competed before, reuse their previously allocated one. If they haven't, make one up based on their institution name, ensuring it's clean and sufficiently different from other competing teams.
 
