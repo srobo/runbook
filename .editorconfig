@@ -9,6 +9,3 @@ trim_trailing_whitespace = true
 # Needs to be 4 so that nested lists are properly interpreted by
 # Python-Markdown, which insists on four-space indents.
 indent_size = 4
-
-[Pipfile.lock]
-indent_size = 4
