@@ -1,25 +1,14 @@
----
-original:
-  authors: Fiona Gillan
-  url: https://github.com/fgillan/sr-team-coord/wiki/Dropouts-and-reallocating-teams
----
-## Dropouts
+# Dropouts
 
-* A Team Leader would email their LTC informing them of their intention to withdraw from the competition.
-* The LTC emails the Team Coordinator (and Kickstart Coordinator if prior to Kickstart).
-* Efforts should be made to identify any issues that are preventing the team from continuing and solutions found if possible.  If they would still like to dropout after discussion, then follow procedure below.
-* LTC spreadsheet should be updated.
-* Team Coordinator to update SRYear Teams spreadsheet and other relevant spreadsheets.
-* Team Coordinator needs to re-allocate space to either new team or if no new teams remain, to allocate a second team to an organisation, if requested (taking into consideration successful participation of a second team in previous years’ competitions, by consulting ‘Team Archive’)
+Throughout a competition, teams may decide they no longer wish to compete. Depending on circumstances, we should try and encourage them to continue, understand their problems and offer them more direct support.
 
-## To re-allocate a team
+Update the teams organisation spreadsheet noting that the team is no longer active.
 
-* Consult Potential Team Leaders MailChimp list, sorted into chronological entries to establish waiting list.
-* Email offer of place (or second team place), asking to confirm contact information to first on the waiting list.
-* Once replied to confirm would still like to participate, update SRYear Teams spreadsheet, assign TLA after checking whether the Organisation has competed before.
-* Assign an LTC (nb. It is difficult to assign an LTC based on geographical location in the re-allocation process, therefore number of teams assigned to each LTC takes priority)
-* Update relevant LTC spreadsheet and email LTC informing them of new team allocation.  They should then allocate the new team a mentor.
-* Update User account info spreadsheet and email relevant person informing them of new team allocation.
-* If before Kickstart: Update Kickstart Teams spreadsheet and email Kickstart Coordinator of new team allocation.
-* If after Kickstart: email Kit Coordinator about new team allocation.
-* Reply to confirmation email from Team Leader with ‘Team Leader Intro’ email edited to ensure up-to-date info re. Kickstart/obtaining kit.
+# Reallocating
+
+If the drop out is close enough to kickstart, allocate their place to another team which was unable to enter. If there aren't any, reach out to the teams who requested an additional team, to see if they are still interested. Reach out to teams in the order they signed up.
+
+If the team is interested, update the teams organisation spreadsheet with their number of teams, and ensure they are allocated an additional team on the forums / IDE.
+
+!!!note
+    When allocating additional teams, ensure the team leader is aware that separate teams should be entirely separate, competitors should only be in a single team. Just because they're from the same school, doesn't make them any less rivals.
