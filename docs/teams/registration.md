@@ -19,7 +19,7 @@ To collect details for a team, a signup form needs to be created to capture:
 - Team leader email address
 - Whether they've competed in Student Robotics before
 - How many teams they would like to enter (usually 1)
-- Which kickstart they wish to attend (if there are multiple)
+- Which (if any) kickstart they wish to attend (if there are multiple)
 
 !!!warning
     Signing up does not guarantee a team's place in Student Robotics.
@@ -52,3 +52,5 @@ Additionally, ensure their rookie status is correct. If they claim they've compe
 As kickstart gets closer, it's useful to start confirming teams and sending them relevant information ([example email](https://github.com/srobo/team-emails/blob/master/SR2019/2018-10-10-place-confirmation.md)). Confirming early allows team leaders to plan and schedule transport on their end.
 
 If the forum and IDE are being used, then create the team leader's account and send them their credentials to log in and start setting up their team(s).
+
+When confirming their place in the competition, it's also necessary to confirm which kickstart to expect them at. At this point, ensure the [Kit Team](https://studentrobotics.org/kitbook/kit-team/logistics/kit-transport/) are aware of how many kits are needed at each kickstart venue and how many need dispatching directly to teams.
