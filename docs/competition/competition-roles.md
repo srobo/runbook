@@ -4,12 +4,15 @@ To run a successful competition, there are a number of roles which need to be as
 
 Depending on the nature of the event, some of these roles may not be applicable.
 
+## Miscellaneous
+
 - [Intro Briefer](./event/intro-brief.md)
 - [Refreshments](./volunteers/refreshments.md)
 - [Team Pit Manager](./team-pits/README.md)
 - [Robot Safety Inspector](./matches/README.md#robot-safety-inspections)
 - Group Photo Photographer
 - Health and Safety Coordinator
+
 ## Matches
 
 - [Commentators](./matches/commentating.md)
