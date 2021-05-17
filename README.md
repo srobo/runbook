@@ -51,14 +51,6 @@ mkdocs build
 
 This will build the site once, and place it in `site/` in the root of the project. This may be useful to see which files are rendered, and how exactly to access them.
 
-### Tests
-
-There are some rudimentary tests in the project. These are all run by the CI, and must pass before deployment.
-
-```
-pipenv run lint-yaml  # Checks the yaml content is well formatted
-```
-
 
 ## License
 
