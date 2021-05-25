@@ -12,3 +12,5 @@ If the team is interested, update the [teams organisation](./organisation.md) sp
 
 !!!note
     When allocating additional teams, ensure the team leader is aware that separate teams should be entirely separate, competitors should only be in a single team. Just because they're from the same school, doesn't make them any less rivals.
+
+If the team drops out shortly before the competition, we should attempt to encourage them to stay on and compete. If there is a problem that can be resolved, then this should be done.
