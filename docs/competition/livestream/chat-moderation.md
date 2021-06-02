@@ -40,9 +40,12 @@ If the user posts a disruptive number of messages in a short period of time, tim
 
 ## Rules
 
-If the livestreaming platform does not enforce users accepting the rules before gaining chat access, these rules should be posted periodically in the chat.
+All volunteers, competitors and any chat users must abide by the Student Robotics
+[Code of Conduct](https://opsmanual.studentrobotics.org/about-the-charity/code-of-conduct).
 
-Mods and viewers must follow these rules:
+If the livestreaming platform does not enforce users accepting the rules before gaining chat access, the below rules should be posted periodically in the chat.
+
+Mods and viewers must follow these rules in addition to the Code of Conduct:
 
 - No racism, sexism, homophobia etc.
 - No inappropriate comments; this is a family-friendly chat.
