@@ -6,6 +6,8 @@ For each livestreamed event, a 'Head Moderator' should be chosen. In the event o
 
 If a moderator needs to enforce the rules against a user, a discussion between the moderators is encouraged to ensure a consistent moderation approach.
 
+It's important that chat moderators actively participate in the chat to keep viewers engaged and to help steer the conversation to more relevant topics if necessary.
+
 ## Dealing with a problem user
 
 Below is the escalation steps for dealing with a problem chat user
