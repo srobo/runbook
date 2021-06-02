@@ -36,7 +36,7 @@ Any comments of this kind should result in an instant ban. Delete the message an
 
 ### Flooding
 
-Timeout the user and remind everyone of the rules. The second offence should result in a ban.
+If the user posts a disruptive number of messages in a short period of time, timeout the user and remind everyone of the rules. The second offence should result in a ban.
 
 ## Rules
 
