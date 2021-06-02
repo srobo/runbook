@@ -47,10 +47,8 @@ If the livestreaming platform does not enforce users accepting the rules before 
 
 Mods and viewers must follow these rules in addition to the Code of Conduct:
 
-- No racism, sexism, homophobia etc.
+- No racism, sexism, homophobia, transphobia, bigotry, misogynism, ableism, xenophobia etc.
 - No inappropriate comments; this is a family-friendly chat.
-- No links without asking for permission.
 - Be respectful to other teams and other chat members.
 - No spamming.
 - The moderator's decision is final.
-- English only in the chat.
