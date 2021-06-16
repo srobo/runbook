@@ -80,7 +80,7 @@ If the match is stopped immediately, if safe to do so, the Marshals should hit t
 
 In either scenario; the Badgers should ask all competitors to leave the staging area. Robots to remain where they are, power cut offs to be hit.
 
-#### Resuming/cancelling the competition
+### Resuming/cancelling the competition
 
 Resuming the competition requires the consent of all involved in stopping it.
 
