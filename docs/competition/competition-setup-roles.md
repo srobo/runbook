@@ -5,7 +5,7 @@ There are specific roles which are needed for the setup phase of a competition. 
 Depending on the nature of the event, some of these roles may not be applicable.
 
 !!! note
-  This list may not be complete
+    This list may not be complete
 
 ## Organisation
 

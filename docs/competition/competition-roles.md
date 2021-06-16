@@ -5,7 +5,7 @@ To run a successful competition, there are a number of roles which need to be as
 Depending on the nature of the event, some of these roles may not be applicable.
 
 !!! note
-  This list may not be complete
+    This list may not be complete
 
 ## Miscellaneous
 
