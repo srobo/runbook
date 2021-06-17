@@ -29,6 +29,9 @@ questions or introducing concepts they may not have considered. We also have
 [separate documentation][mentor-guidance] on how to ask those questions for
 those who have not mentored before. This may include suggesting ways for the
 team to think about a problem so that they better solve it themselves.
+A regular mentor will also build rapport with the team and act as someone to
+bounce ideas off that has context on the team's robot while also being outside
+the team enough to provide a slightly different perspective.
 
 _Helping solve specific issues_:
 
