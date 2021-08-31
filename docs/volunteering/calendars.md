@@ -14,6 +14,8 @@ Creating and customizing the event should be the same as any other Google Calend
 
 If the event is intended to have people attend (most probably are), be sure to invite the correct people / group. Committees and teams have their own email aliases, along with the one for all volunteers. This allows individuals to RSVP to the events they intend to attend, as well as notifying them about the event itself.
 
+It is implied that if the event is in the shared calendar, any volunteer is welcome. If this isn't the case, it's best to use a regular private event outside the shared calendar.
+
 ## Website
 
 Our [website](https://studentrobotics.org) emits a calendar feed, which can be used to keep track of [public events](https://studentrobotics.org/events/) in the [competition programme](../competition/README.md).
