@@ -43,6 +43,11 @@ In general reviewers are encouraged to bias in favour of merging unless they
 feel that the change is particularly sensitive or would be a net negative to the
 runbook.
 
-After review the contributor is typically responsible for performing the merge
-themselves. New contributors (who may not have write access) should ping one of
-the maintainers or reviewers to do this instead.
+### Practicalities of Review
+
+* Please do choose reviewers when opening a PR, ideally by subject matter but if
+  in doubt pick one of the maintainers and they can redirect
+* Please do use GitHub's tooling to ask for re-review after changes
+* After review the contributor is typically responsible for performing the merge
+  themselves. New contributors (who may not have write access) should ping one
+  of the maintainers or reviewers to do this instead.
