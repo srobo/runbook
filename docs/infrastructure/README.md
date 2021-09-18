@@ -7,6 +7,11 @@ Currently our infrastructure as a whole does not have a designed owner, instead
 individual pieces are looked after by volunteer Teams or just by volunteers who
 have historically maintained them.
 
+Since September 2021 SR has had an Infrastructure Team which is responsible for
+maintaining the common aspects of the organisation's infrastructure. That team's
+remit has signficant overlap with the services mentioned in this section, though
+there are things mentioned here which other teams are responsible for.
+
 ## Website
 
 Our website consists of a main public facing site at https://studentrobotics.org
