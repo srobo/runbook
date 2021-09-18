@@ -37,7 +37,9 @@ therefore proposed for review:
   indicate a review only of some part of the content.
 
 * _Request changes_: responses are blocking and indicate that changes are needed
-  before content can be merged. Such responses should be rare.
+  before content can be merged. The review should indicate, either in the
+  summary comment or in the inline comments, which of the issues raised are
+  blocking. Such responses should be rare.
 
 In general reviewers are encouraged to bias in favour of merging unless they
 feel that the change is particularly sensitive or would be a net negative to the
