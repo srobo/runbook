@@ -48,7 +48,8 @@ runbook.
 ### Practicalities of Review
 
 * Please do choose reviewers when opening a PR, ideally by subject matter but if
-  in doubt pick one of the maintainers and they can redirect
+  in doubt pick one of the maintainers (@PeterJCLaw or @RealOrangeOne) and they
+  can redirect
 * Please do use GitHub's tooling to ask for re-review after changes
 * After review the contributor is typically responsible for performing the merge
   themselves. New contributors (who may not have write access) should ping one
