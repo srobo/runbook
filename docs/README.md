@@ -50,7 +50,7 @@ from the previous documentation which it subsumed.
 
 ## Ownership
 
-While the runbook contains documentation relevant to the activities of the
+While the runbook contains documentation relevant to the activities of
 all SR teams, no one team owns it any more than any other
 volunteer. Instead the runbook aims to be a collaborative venture by all
 volunteers.
