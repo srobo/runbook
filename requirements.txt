@@ -6,4 +6,4 @@ mkdocs-mermaid2-plugin==0.5.1
 
 # Something in 3.3 (specifically `(3.2.2, 3.3.4]`) breaks mermaid rendering.
 # Haven't looked into what just yet.
-markdown<=3.3"
+markdown<=3.3
