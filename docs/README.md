@@ -44,7 +44,7 @@ documentation for it.
 It is hoped that this approach will make the documentation more approachable to
 newcomers, for both reading and contributing.
 
-It's worth noting that, as of early 2020, the runbook is still a way off
+It's worth noting that, as of late 2021, the runbook is still a way off
 achieving this aim as it contains considerable left-over structure & content
 from the previous documentation which it subsumed.
 
