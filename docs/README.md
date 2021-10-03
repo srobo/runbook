@@ -51,7 +51,7 @@ from the previous documentation which it subsumed.
 ## Ownership
 
 While the runbook contains documentation relevant to the activities of the
-Competition and Kit Teams, neither Team owns it any more than any other
+all SR teams, no one team owns it any more than any other
 volunteer. Instead the runbook aims to be a collaborative venture by all
 volunteers.
 
