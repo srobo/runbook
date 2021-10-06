@@ -66,6 +66,8 @@ The following components are not maintained by SR and we do not substantially co
 
 ### Mosquitto MQTT Broker
 
+[Mosquitto Website](https://mosquitto.org/)
+
 We use Mosquitto as a MQTT broker on the robots. This is a requirement for Astoria.
 
 ### Arch Linux ARM
