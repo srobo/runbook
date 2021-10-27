@@ -13,7 +13,7 @@ and [Kit Team][kit-team], as well as other activities.
 
 To run this project locally, you'll need:
 
-- Python (`>=3.6`)
+- Python (`>=3.6, <3.10`)
 - `pip`
 
 ## Usage

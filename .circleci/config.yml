@@ -3,7 +3,7 @@ version: 2.0
 jobs:
     build:
         docker:
-            - image: circleci/python:3
+            - image: circleci/python:3.9
         steps:
             - checkout
 
@@ -18,7 +18,7 @@ jobs:
 
     deploy:
         docker:
-            - image: circleci/python:3
+            - image: circleci/python:3.9
         steps:
             - add_ssh_keys:
                 fingerprints:
