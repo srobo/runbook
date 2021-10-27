@@ -5,7 +5,7 @@ original:
 ---
 # Logistics Software
 
-To fulfil the multitude of responsibilities, the Kit Logistics Coordinator uses various pieces of custom software. The software projects used and maintained by the Kit Logistics Coordinator are listed below.
+To fulfil the multitude of responsibilities, the Kit Team uses various pieces of custom software. Some of the software projects used by the Team are listed below.
 
 ## Software Projects
 

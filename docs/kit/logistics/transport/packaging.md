@@ -5,7 +5,7 @@ original:
 ---
 # Packaging
 
-This information on packaging of kits and kit parts is for internal use only. The Kit Logistics Coordinator will use this information to instruct volunteers and third parties as necessary.
+This information on packaging of kits and kit parts is for internal use only. The Kit Team will use this information to instruct volunteers and third parties as necessary.
 
 ## Packaging Info
 
@@ -38,7 +38,7 @@ When teams have to return a kit to us we provide them with a return shipping pac
 
 ### Instruction Notes
 
-1. Check all parts are present (use list provided and notify the local teams coordinator of any missing items).
+1. Check all parts are present (use list provided and notify Student Robotics of any missing items).
 2. Place parts into jiffy bags (do not seal unless specified):
    1. Large white **\[photo of four bags with the parts in front\]:**
       1. 1x tablet
@@ -61,4 +61,4 @@ When teams have to return a kit to us we provide them with a return shipping pac
 11. Stick the LiPo sticker onto the bag
 12. Place the supplied shipping label into the document wallet and stick the document wallet onto the bag (don't forget to remove the narrow backing strip too) **\[photo of lipo sticker and shipping label in document wallet\]**.
 13. Hand the package to reception/who ever it will be collected from.
-14. Notify your local teams coordinator that the kit is ready for collection.
+14. Notify Student Robotics that the kit is ready for collection.
