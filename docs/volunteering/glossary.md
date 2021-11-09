@@ -37,6 +37,10 @@ _Kickstart_:
 
 : the start of the competition year, when we hand out kits to teams
 
+[_Kit Logistics Issue (KLI)_](https://github.com/srobo/kit-logistics/):
+
+: a ticket tracking the assignment of a kit to a team
+
 [_Kit Team_](https://opsmanual.studentrobotics.org/annual-robotics-competition/kit-team):
 
 : the group of volunteers responsible for maintenance and development of the
