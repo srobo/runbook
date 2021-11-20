@@ -14,6 +14,9 @@ their teams' committees to each run through this checklist.
   important they know that they're welcome back and we're grateful for the
   support they have given us in the past.
 
+- Arrange for the volunteer to return any equipment which belongs to the
+  charity.
+
 - If possible, ask why they're leaving. This should be conversational to build
   understanding, it's not about trying to convince them to stay.
 
