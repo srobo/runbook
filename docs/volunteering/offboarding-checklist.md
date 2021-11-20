@@ -5,7 +5,17 @@ organisation to focus on other things. When this happens we should try to ensure
 that anything they're responsible for is handed over to another volunteer.
 
 This checklist aims to provide prompts for things which might need to be handed
-over.
+over. When a volunteer leaves the organisation, it is the responsibility of
+their teams' committees to each run through this checklist.
+
+## The Volunteer
+
+- Thank the volunteer for their support. While they may be leaving us, it's
+  important they know that they're welcome back and we're grateful for the
+  support they have given us in the past.
+
+- If possible, ask why they're leaving. This should be conversational to build
+  understanding, it's not about trying to convince them to stay.
 
 ## Third Party Services
 
