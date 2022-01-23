@@ -70,12 +70,11 @@ The following components are not maintained by SR and we do not substantially co
 
 We use Mosquitto as a MQTT broker on the robots. This is a requirement for Astoria.
 
-### Arch Linux ARM
+### Yocto Project
 
-[Arch Linux ARM Website](https://archlinuxarm.org/)
+[Yocto Project Website](https://yoctoproject.org/)
 
-Arch Linux ARM (ALARM) is used to build the underlying operating system and Linux distribution for the ODROID. It is based on [Arch Linux](https://archlinux.org/).
+Yocto is used for building the OS for our brain boards. 
 
-We have a [custom set of scripts](https://github.com/srobo/robot-image) that can be used to build an image.
+All of our yocto layers and configuration can be found on our GitHub tagged with the [yocto topic](https://github.com/search?q=topic%3Ayocto+org%3Asrobo&type=Repositories).
 
-We also build [software packages](https://github.com/srobo/kit-packages) that can be installed on Arch Linux for various other components in the Kit Stack.
