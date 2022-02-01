@@ -9,8 +9,8 @@ have historically maintained them.
 
 Since September 2021 SR has had an Infrastructure Team which is responsible for
 maintaining the common aspects of the organisation's infrastructure. That team's
-remit has signficant overlap with the services mentioned in this section, though
-there are things mentioned here which other teams are responsible for.
+remit has significant overlap with the services mentioned in this section,
+though there are things mentioned here which other teams are responsible for.
 
 ## Website
 
