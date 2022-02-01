@@ -51,3 +51,19 @@ Please be aware that:
 - the Infrastructure Team will initially setup the resource in a secure manner
   and provide guidance on how to keep it that way, however it is your
   responsibility to ensure that the resource remains secure
+
+## On Call availability
+
+It is expected that during some events within the competition calendar there
+will be a need for members of the Infrastructure Team to be available to quickly
+respond to any infrastructure issues.
+
+See [On Call availability](./operations.md#on-call-availability) for more
+details of what this is.
+
+Please include:
+
+- what the event is (Competition, Kickstart, etc.)
+- the dates and times of the event
+- the location of the event
+- whether you expect it will be necessary for the volunteers to attend in person
