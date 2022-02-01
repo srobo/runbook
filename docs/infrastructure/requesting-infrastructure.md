@@ -27,6 +27,12 @@ When requesting changes related to GitHub, please include the GitHub username of
 the users affected as well as the names of any teams or repos those people will
 need access to.
 
+## Google
+
+**Note:** As of early 2022, the Infrastructure Team do not have administrative
+access to Google Suite, so account management requests must be made to the
+trustees instead.
+
 ## Mythic Beasts
 
 [Mythic Beasts](https://www.mythic-beasts.com/) are a hosting provider.
