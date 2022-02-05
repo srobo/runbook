@@ -29,9 +29,10 @@ need access to.
 
 ## Google
 
-**Note:** As of early 2022, the Infrastructure Team do not have administrative
-access to Google Suite, so account management requests must be made to the
-trustees instead.
+**Note:** The Infrastructure Team do not yet have administrative access to
+Google Suite, so account management requests must be made to the trustees
+instead. The Infrastructure team will be taking this over at some point in the
+future.
 
 ## Mythic Beasts
 
