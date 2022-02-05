@@ -43,6 +43,10 @@ When requesting changes related to GitHub, please include the GitHub username of
 the users affected (if applicable) as well as the names of any teams or repos
 those people will need access to.
 
+Note that in general you are encouraged to add individuals to teams and grant
+teams access to repos (rather than adding individuals to repos) as this makes it
+easier to maintain consistency.
+
 ## Google
 
 **Note:** The Infrastructure Team do not yet have administrative access to
