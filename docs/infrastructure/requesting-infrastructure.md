@@ -68,3 +68,8 @@ Please include:
 - the location of the event
 - which services or infrastructure you're expecting to depend upon
 - whether you expect it will be necessary for the volunteers to attend in person
+
+It may be the case that members of the Infrastructure Team who are on call will
+also volunteer at the event in other roles. When planning the staffing you
+should consider the need for those individuals to step away from other roles
+should an infrastructure incident occur.
