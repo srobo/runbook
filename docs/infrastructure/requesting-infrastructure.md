@@ -40,8 +40,8 @@ services.
 ## GitHub
 
 When requesting changes related to GitHub, please include the GitHub username of
-the users affected as well as the names of any teams or repos those people will
-need access to.
+the users affected (if applicable) as well as the names of any teams or repos
+those people will need access to.
 
 ## Google
 
