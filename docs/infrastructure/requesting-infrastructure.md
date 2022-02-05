@@ -66,4 +66,5 @@ Please include:
 - what the event is (Competition, Kickstart, etc.)
 - the dates and times of the event
 - the location of the event
+- which services you're expecting to depend upon
 - whether you expect it will be necessary for the volunteers to attend in person
