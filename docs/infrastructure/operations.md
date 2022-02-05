@@ -27,4 +27,4 @@ the Infrastructure Team does not guarantee that it will always be able to
 support every event.
 
 To request on call availability for an event, please follow the same process as
-for requesting any other infrastructure.
+for [requesting other infrastructure](./requesting-infrastructure.md).
