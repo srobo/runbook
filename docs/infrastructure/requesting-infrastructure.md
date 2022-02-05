@@ -21,6 +21,22 @@ Team's budget to which that spending would relate.
 
 [slack-infra]: https://studentrobotics.slack.com/messages/infrastructure
 
+## Container hosting
+
+In the future the Infrastructure Team hope to offer a shared hosting platform
+for small services. These services will need to be provided as Docker
+containers, however the exact details (both technical and budgetary) of this
+setup have not yet been worked out.
+
+For now we encourage the use of containers for ease of deployment and the
+Infrastructure Team can help in running the host machine, but note that you will
+need to budget for your own machine for the containers to run on.
+
+Think of this as the "contact our Sales team for pricing" option where the other
+items listed here are much more "off the shelf" offerings, so please allow for
+some discussion around how container hosting will work when planning your
+services.
+
 ## GitHub
 
 When requesting changes related to GitHub, please include the GitHub username of
