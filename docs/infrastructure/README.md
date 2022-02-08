@@ -62,11 +62,6 @@ repositories is an [ongoing project][legacy-repository-migration].
 For our email (`@studentrobotics.org`) accounts as well as document sharing we
 use Google Workspace. Google Groups are used for various mailing lists.
 
-**Note:** The Infrastructure Team do not yet have administrative access to
-Google Suite, so account management requests must be made to the trustees
-instead. The Infrastructure team will be taking this over at some point in the
-future.
-
 ## Mailing lists
 
 For sending some batch emails we use Mailchimp and Google Groups.

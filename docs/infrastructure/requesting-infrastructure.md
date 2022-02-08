@@ -49,10 +49,12 @@ easier to maintain consistency.
 
 ## Google
 
-**Note:** The Infrastructure Team do not yet have administrative access to
-Google Suite, so account management requests must be made to the trustees
-instead. The Infrastructure team will be taking this over at some point in the
-future.
+For new accounts please include:
+
+- the full (first & last) name of the volunteer
+- their existing email address (suggest directly messaging this once you have a
+  response rather than including this in a public Slack message)
+- any email groups they should be part of
 
 ## Mythic Beasts
 
