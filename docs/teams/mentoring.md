@@ -1,8 +1,8 @@
 # Mentoring
 
-Where possible we try to arrange that competitor teams recieve a regular mentor.
+Where possible we try to arrange that competitor teams receive a regular mentor.
 As well as providing support and guidance to the team, this volunteer typically
-becomes the competitors' main contact with Studdent Robotics.
+becomes the competitors' main contact with Student Robotics.
 
 For this role, mentors need good access to information which may be pertinent to
 competitors and compliment the information we send directly to team leaders.

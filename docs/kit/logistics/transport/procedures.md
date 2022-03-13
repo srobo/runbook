@@ -91,7 +91,7 @@ Begin by requesting the following information from the Team Coordinator for the 
 
 * Identify the replacement parts to be shipped in the Inventory (as defined by the Kit Support Coordinator) and move them to an appropriate `in-transit` sub directory (e.g. `in-transit/to-srz`).
 
-* Package the parts into a cardboard box, using Jiffy bags, bubblewrap or similar to protect the parts.
+* Package the parts into a cardboard box, using Jiffy bags, bubble-wrap or similar to protect the parts.
 
 * Once the details have been confirmed, arrange for the package to be collected from yourself and delivered to the team.
 

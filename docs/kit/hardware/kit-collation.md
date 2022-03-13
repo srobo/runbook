@@ -9,20 +9,20 @@ The purpose of Kit Collation is to gather together all kit parts from the previo
 
 ## Process
 
-Each kit must go through the following process. Once the CHECKIN task has been performed for a given kit the remaining tasks can be run in parallel - especially the testing of different parts. The sequence of tasks is the same for all parts, however the specific requirements vary depending upon the part.
+Each kit must go through the following process. Once the CHECK-IN task has been performed for a given kit the remaining tasks can be run in parallel - especially the testing of different parts. The sequence of tasks is the same for all parts, however the specific requirements vary depending upon the part.
 
-1. [CHECKIN](#checkin) - Unpack each kit and scan its contents into a single location in the Inventory. Any kit expected back from teams but not found is marked as missing.
+1. [CHECK-IN](#check-in) - Unpack each kit and scan its contents into a single location in the Inventory. Any kit expected back from teams but not found is marked as missing.
 1. [VISUAL](#visual) - Visually inspect each part for damage.
 1. [CLEAN](#clean) - Clean each part.
 1. [TEST](#test) - Test each part, where possible.
 1. [CHECKOUT](#checkout) - Pack parts of the same type into boxes and update the Inventory.
-1. [CHASEUP](#chaseup) - \[after event\] Chase up missing parts.
+1. [CHASE-UP](#chase-up) - \[after event\] Chase up missing parts.
 
 Throughout the process the state of each part is tracked through two fields: `functional_condition` (currently `condition` for backwards compatibility) and `physical_condition`. The `functional_condition` field has a value of either `unknown`, `broken` or `working` and is set based upon the outcome of the testing procedure carried out in the TEST task. The `physical_condition` field has one of the same three values that the `functional_condition` field can have, but it is set based upon a visual inspection of the part during the VISUAL task.
 
 We will only ship parts that have both a `functional_condition` and `physical_condition` of `working`. After the Kit Collation Event any parts with either a `functional_condition` or `physical_condition` of `broken` will be assessed to see whether they can be repaired or need to be replaced.
 
-## CHECKIN
+## CHECK-IN
 
 Tools:
 : Laptop, barcode/QR scanner
@@ -46,7 +46,7 @@ Inspect parts for visible physical damage - mild cosmetic damage is not a concer
 
 | Part | Examples of physical damage |
 |------|-------------------------------|
-| Power board | cuts, nicks or exposed copper on wires; large heatshrink slipping off of XT 60; loose screw terminal; case cracked/broken/missing screws; charring on board; connectors broken/full of stuff |
+| Power board | cuts, nicks or exposed copper on wires; large heat-shrink slipping off of XT 60; loose screw terminal; case cracked/broken/missing screws; charring on board; connectors broken/full of stuff |
 | Motor board | case cracked/broken, charring on board, connectors broken/full of stuff, button held down (try pressing the button - it should click) |
 | Servo board | case cracked/broken, charring on board, blackened pins, connectors broken/full of stuff |
 | Ruggeduino | case cracked/broken/missing screws, charring on board, connectors broken/full of stuff |
@@ -57,7 +57,7 @@ Inspect parts for visible physical damage - mild cosmetic damage is not a concer
 | USB hub | cracked case, damaged connector, loose parts rattling around inside |
 | WiFi dongle | cracked case, damaged connector |
 | Webcam | cracked case, damaged cable, damaged connector (missing stand is OK) |
-| Battery charger | cracked case, damaged wires, large heatshrink slipping off of XT 60, missing cable tie, missing buttons |
+| Battery charger | cracked case, damaged wires, large heat-shrink slipping off of XT 60, missing cable tie, missing buttons |
 | Battery charger supply | cracked case, damaged strain relief |
 | Battery bag | torn stitching |
 | Battery | Damaged wires, swollen to the point of being hard (squidgy is OK) |
@@ -128,6 +128,6 @@ Also, count the following untracked items and note down the totals. Bag the CamC
 * Odroid Power Cable
 * Screw Driver
 
-## CHASEUP
+## CHASE-UP
 
 After the event the parts left in the `kit-collation-venue/missing` directory need to be chased up. Each part should be traced back to the team it belonged to and the team leader notified of the missing items. Note that they may be missing due to parts being swapped at the competition, etc, so they may not have any knowledge of the parts whereabouts.
