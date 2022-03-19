@@ -9,7 +9,6 @@ This is the Competition Team Support Coordinator's documentation. The Competitio
 
 * [Helpdesk](./helpdesk.md) Volunteers
 * [Battery Shuffler](./battery-shuffler.md)
-* [Battery Charging](./battery-charging.md) Volunteers
 * [Roving Helper](./roving-helper.md)
 
 These roles will be filled by various people throughout the competition. All volunteers filling these roles report to the Competition Team Support Coordinator and may not create subordinate roles.
@@ -21,10 +20,6 @@ The main source of support for teams is Helpdesk. Helpdesk is always manned by a
 ## Battery Shufflers
 
 When teams arrive at the competition we take their batteries, chargers and battery bags off of them at the arrival desk. These parts need ferrying from the arrival desk to the battery charging station. Also, at the end of the competition, teams that have a loan extension approval will need to be given batteries, a charger and a battery bag before they leave. These parts need ferrying from the battery charging station to the kit return desk. Further details can be found in the [Battery Shuffler](./battery-shuffler.md) docs. One person is required to shuffle batteries/chargers on Saturday morning and one person is required to shuffle them on Sunday afternoon.
-
-## Battery Charging
-
-Student Robotics takes responsibility for charging of batteries throughout the competition. The battery charging station is located next to [Helpdesk](./helpdesk.md). The battery charging station is always manned by at least one volunteer and ideally two volunteers. Further details can be found in the [Battery Charging](./battery-charging.md) docs.
 
 ## Roving Helpers
 

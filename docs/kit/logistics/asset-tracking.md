@@ -9,8 +9,6 @@ One of the responsibilities of the Kit Team is to maintain a record of the locat
 
 This chapter documents the high-level organisation aspects around SR asset tracking. It is not intended as a comprehensive user manual for the Inventory system, but rather how SR uses the system to track its assets.
 
-See the page on [logistics-software](./logistics-software.md) for details of the inventory's datastore and tooling required to use it.
-
 ## The Inventory
 
 To record all of the necessary information regarding SR assets, all[^1] assets are tracked in the Inventory. Unfortunately, due to historical use of the term, SR uses the term *Inventory* to refer to its asset tracking system. Normally inventory refers to a record of things that an organisation sells whereas assets are things that an organisation owns and uses to operate; tracked in its asset tracking system. It is not a big problem, but it is an unusual quirk to be aware of.
@@ -24,6 +22,14 @@ The Inventory primarily records the location of each asset, its value, its physi
 To provide the one-to-one mapping between assets and their Inventory records, each asset/record pair have an *asset code*, which uniquely identifies them. An important part of maintaining this one-to-one mapping is ensuring that the asset code is suitably marked onto the asset such that it can be read in the future.
 
 Only property of SR is tracked in the Inventory; meaning that property of third parties must not be tracked in the Inventory.
+
+### Inventory Software
+
+| Name            | Project URL | Notes |
+| --------------- | ----------- | ----- |
+| Inventory Tools | [https://github.com/srobo/tools/](https://github.com/srobo/tools/) | This project currently contains a mishmash of tools. The Inventory tools need teasing out. See https://srtools.readthedocs.io/en/latest/inventory/ for details of the inventory related commands |
+| Inventory       | [https://github.com/srobo/inventory](https://github.com/srobo/inventory) | This is not a software project in itself. It represents the current state of all SR assets. |
+
 
 ### Asset Lifecycle
 
@@ -87,7 +93,7 @@ The Inventory should, as far as is possible, represent the current state of all 
 
 As in the *commission* stage, an asset's physical and functional condition must be updated appropriately in its record once it has been tested. If the asset is in full working order it is ready for use. If the asset is broken then it may be possible to repair it. In some situations it is either not cost effective or not possible to repair an asset. When this occurs, the asset is no longer useful to SR and will be *decommissioned* and *disposed* of.
 
-[kit-collation-event]: ../hardware/kit-collation.md
+[kit-collation-event]: ./kit-collation/README.md
 [hardware]: ../hardware/README.md
 
 #### Repair

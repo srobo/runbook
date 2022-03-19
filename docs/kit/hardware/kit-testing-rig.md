@@ -3,13 +3,9 @@ original:
   authors: Richard Barlow
   url: https://bitbucket.org/richardbarlow/sr-comp-team-support-coord/wiki/kit-testing-rig
 ---
-** This page is WIP. The Kit Testing Rig will not be deployed at SR2016 **
-
 # Kit Testing Rig
 
-To help with checking of potentially faulty kit, [Helpdesk](./helpdesk.md) has a kit testing rig to allow quick and easy testing of some parts of the kit. Not all parts of the kit can be tested with the rig and so more traditional debugging methods must be employed, as documented on the [Helpdesk](./helpdesk.md) page.
-
-**Under no circumstances must any of the kit testing rig parts be removed from the designated table at Helpdesk. Teams must bring the part to be tested to Helpdesk.**
+To help with checking of potentially faulty kit, we has a kit testing rig to allow quick and easy testing of some parts of the kit. 
 
 The testing rig consists of the following parts:
 
