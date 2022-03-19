@@ -5,7 +5,7 @@ original:
 ---
 # Research
 
-The following sections document various bits of research that have been carried out by the Kit Logistics Coordinator while fulfilling their responsibilities.
+The following sections document various bits of research that have been carried out.
 
 ## Return Shipping Bag
 
