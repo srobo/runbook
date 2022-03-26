@@ -1,68 +1,177 @@
----
-original:
-  authors: Fiona Gillan
-  url: https://github.com/fgillan/sr-team-coord/wiki/Mentoring
----
 # Mentoring
 
-* Contact the Volunteer Coordinator asking for potential Mentors.
-* A Google Form can be used to obtain the following information:
-    * Confirm over 18
-    * Name
-    * Email address
-    * Location
-    * How far willing to travel to mentor
-    * Roughly how often could commit to visiting a team
-    * What skills do you possess making you suitable mentor
-    * Previous SR experience
+Where possible we try to arrange that competitor teams recieve a regular mentor.
+As well as providing support and guidance to the team, this volunteer typically
+becomes the competitors' main contact with Studdent Robotics.
 
-## Example of email sent to potential Mentors asking for volunteers in 2017
+For this role, mentors need good access to information which may be pertinent to
+competitors and compliment the information we send directly to team leaders.
 
-> Hello – would you like to be a Mentor for a Student Robotics team for this year’s competition?  Here’s what it involves and requirements for volunteering for this crucial role.
->
-> Mentors must be 18 years old or over. They must also possess skills that will help to further the teams’ learning and understanding of engineering, science and team work. For example, a mentor may be an engineering or science undergraduate, graduate or professional (note that this example is not an exhaustive list).
->
-> Each mentor should assist a team in achieving their full potential within the competition.
->
-> Responsibilities
->
-> 1. Assisting a team by consulting them about issues they are having, or may have, that relate to their involvement in the competition.
->
-> 2. Regularly meeting with their team (this would likely need to be during or close to school hours i.e. 9am-4pm and so if you have a day job would this commitment be possible for you?)
->
-> 3. Providing a report to their supervisor (their Local Team Co-ordinator) when they have visited a team.
->
-> 4. Notifying their supervisor if they are unable to mentor a team for a significant period of time.
->
-> There are currently five Local Team Coordinators who cover a rough geographic area of the country.  They will be responsible for you as a Mentor and will hopefully be able to arrange social events throughout the year where you can meet other Mentors.
->
-> Think this is something you would like to be involved in?  We would ideally allocate a Mentor to each of the 54 teams so we need as many of you to volunteer as possible…so get involved and help guide a team to success in this year’s competition!
->
-> If you would like to be considered for this role we require the following information:
->
-> Name?
->
-> Location (where you live/work if this is different)?
->
-> How far are you willing to travel?
->
-> Roughly how often could you commit to visiting a school?
->
-> What skills do you possess which would make you a suitable mentor?
->
-> Have you had any previous experience with SR kits/teams e.g. as a volunteer or a participant?
->
-> Please confirm that you are over 18.
+This page provides an overview of how we organise mentoring and is intended both
+for potential mentors and a team coordinator looking to organise mentoring.
 
+## What mentoring entails
 
-* Once replies obtained, make ‘Mentor Sign-Up’ spreadsheet with this info and share with LTCs so that they can review and match Mentors with their teams.
+It's important to convey to potential mentors that even a small amount of their
+time can make a really big impact to the teams they're supporting.
 
-* LTCs should:
-    * contact their team leaders to ask them about when, where and how often they meet to be able to match with a potential mentor (might want to produce a Google Form to streamline the information captured)
-    * plot potential mentors on a map and plot the location of your teams
-    * once received the details of the Team meeting times/locations etc. match up geographically close potential mentors to teams
-    * enter the potential TLA by the mentor on the Mentor Sign-Up spreadsheet to identify any clashes.
-    * contact potential Mentor to inform them of their matched team to confirm availability etc. with Team Leader contact info, HIGHLIGHT that mentor should only be interacting with the Team Leader as the responsible adult (i.e over 18) for the team.  DIRECT them to Page 27 of Ops Manual for further info re. being a Mentor.
-    * provide the Mentor with guidance about what the role entails (our [general guidance](../volunteering/mentor-guidance.md) helps with this)
-    * contact Team Leader to inform them of mentor, giving Mentor contact info.
-    * check up on progress of Mentoring relationship through email updates.
+While we do have teams whose team leader is well able to support their
+development, many teams are supervised by adults with little or no engineering,
+electronics or software expertise and the mentor thus provides valuable access
+to knowledge and experience.
+
+There are two main parts to mentoring:
+
+_Guiding the team's thinking_:
+
+: Helping the team work through a specific problem, perhaps by asking leading
+questions or introducing concepts they may not have considered. We also have
+[separate documentation][mentor-guidance] on how to ask those questions for
+those who have not mentored before. This may include suggesting ways for the
+team to think about a problem so that they better solve it themselves.
+A regular mentor will also build rapport with the team and act as someone to
+bounce ideas off that has context on the team's robot while also being outside
+the team enough to provide a slightly different perspective.
+
+_Helping solve specific issues_:
+
+: If a team have a specific issue, either with their robot, code or kit, then an
+in-person mentor is likely to be able to help the team resolve that issue much
+faster than a remote mentor or a post in the forums. This is primarily because
+the mentor is so much closer to the issue, greatly reducing the cycle time for
+any information about the issue and potential fixes. However it does not mean
+that the mentor needs to understand how to fix every issue they hit -- even
+during a mentored session, more involved issues might be posted to the forums or
+the mentor might post in Slack to ask questions from other volunteers. In this
+regard the mentor may be a conduit to the fix for an issue rather than directly
+solving it for the team.
+
+### In person schedule
+
+For a typical in person mentoring session the mentor might:
+
+* Arrange the timings with the team leader (initially this will be handled by
+  the SR teams coordinator as part of matching up mentors with teams)
+* Arrive at the school/college/etc.
+* Present themselves at reception, stating that they're a mentor from Student
+  Robotics and giving the team leader's name (as well as their own)
+* Be met by the team leader, who will guide them to where the team are
+* Guide the team for an hour
+* Leave
+* Post in [#teams][slack#teams] in Slack a quick update on how the team is doing
+
+### Remote/virtual schedule
+
+For a typical remote mentoring session the mentor might:
+
+* Arrange the timings & video-call link with the team leader (initially this
+  will be handled by the SR teams coordinator as part of matching up mentors
+  with teams)
+* Join the video call
+* Guide the team for an hour
+* Leave
+* Post in [#teams][slack#teams] in Slack a quick update on how the team is doing
+
+[mentor-guidance]: ../volunteering/mentor-guidance.md
+[slack#teams]: https://studentrobotics.slack.com/messages/teams
+
+<!-- TODO: should we include safeguarding information in this document? -->
+
+## Information we gather from potential mentors
+
+* Confirmation that they are over 18
+* Name
+* Email address
+* Roughly how often could commit to mentor a team
+* Time (of day, days of week) available to mentor a team
+* What skills they possess that makes them a suitable mentor
+* Previous SR experience
+
+For mentors who would be visiting teams in person, we also need:
+
+* Location (approximate)
+* How far they are willing to travel to mentor
+
+### Example recruitment emails
+
+* [Mentoring and Game Design Opportunities][sr2017-mentoring-game-design] (SR2017)
+* [Student Robotics January Update][sr2021-january-update] (SR2021)
+
+[sr2017-mentoring-game-design]: https://github.com/srobo/volunteer-emails/blob/sr2017-mentoring-game-design/SR2017/2016-09-28-mentoring-game-design.md
+[sr2021-january-update]: https://github.com/srobo/volunteer-emails/blob/master/SR2021/2021-01-23-mentors.md
+
+## Information we provide to mentors
+
+Aside from guidance on [how to encourage learners][mentor-guidance] and our
+safeguarding requirements, we don't currently have any structured training for
+mentors on technical topics, though we have in the past run mentor days.
+
+Mentor days involved a one-day competition for the mentors, with volunteers
+grouped into teams of mixed experience and using pre-built robot bases. They
+provided a way for the mentors to learn about the kits by using them as well as
+to get to know other volunteers.
+
+## Information we gather from teams
+
+* Team
+* When (time of day, day of week) and how often they meet
+* Where they meet
+
+### Example emails
+
+For SR2021 we sent several emails to teams at varying levels of activity, first
+offering mentoring to those who seemed to be struggling more before offering to
+everyone.
+
+* [Would you like a mentor?](https://github.com/srobo/team-emails/blob/master/SR2021/2021-02-14-league-2-followup-inactive.md) (less active teams)
+* [Preparing for league 3](https://github.com/srobo/team-emails/blob/master/SR2021/2021-02-14-league-2-followup.md)
+
+## Organising mentoring
+
+### Process
+
+When organising mentoring you are encouraged to reach out to both teams and
+potential mentors as early as possible. We haven't found that there's
+substantial advantage in trying to gather information from one group first,
+rather that because it takes a while for everyone to respond starting early and
+following up (particularly with teams) several times tends to work better.
+
+Typically you will have more teams who are interested in a mentor than mentors
+available, so you likely want to wait until you have a good feel for which teams
+would like mentors and the mentor availability you can begin assigning mentors
+to teams. This allows you to make best use of mentor availability while reducing
+the chances you need to swap mentors around later.
+
+While doing this you're encouraged to reply to teams/mentors promptly to
+acknowledge their request for a mentor/offer to be a mentor.
+
+Once you've worked out which mentors match with which teams, you should email
+the team leader introducing the mentor and helping to set up their attendance at
+the first meeting. More experience mentors may be willing/able to handle this
+introduction themselves, though for newer mentors an explicit introduction is
+encouraged.
+
+During the competition year, when mentoring is ongoing, you should keep in
+contact with mentors to understand both how their teams are doing and how the
+mentor is doing.
+
+### Schema
+
+In SR2021 information from teams and mentors were captured into a fresh
+worksheet within the internal teams spreadsheet, with rows by team and columns
+of:
+
+* **TLA**
+* **Want Mentor?** (primarily to disambiguate negative replies from lack of reply)
+* **Where messaged** (typically email/Discord; for easy later reference)
+* **Meeting time**
+* **Platform**
+* **Assigned** (the mentor assigned to the team)
+* **Notes**
+
+A later section in the same sheet contain mentor information with columns of:
+
+* **Mentors** (name)
+* **Assigned** (TLA)
+* **Notes**
+* **Availability**

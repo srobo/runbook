@@ -5,17 +5,18 @@ original:
 ---
 # Packaging
 
-This information on packaging of kits and kit parts is for internal use only. The Kit Logistics Coordinator will use this information to instruct volunteers and third parties as necessary.
+This information on packaging of kits and kit parts is for internal use only. The Kit Team will use this information to instruct volunteers and third parties as necessary.
 
 ## Packaging Info
 
-* Kits should generally be shipped in the while 18l Really Useful Box (RUB).
+* Kits should generally be shipped in the white 18l Really Useful Box (RUB).
+* The 18L RUB may also need to be packed in an appropriately sized double-walled cardboard box. Any space between the RUB and the cardbox box should be packed with an appropriate paper-based filler material.
 * All parts of the kit should be suitably protected either in Jiffy bags or bubble wrap. The Return Shipping Pack includes a new set of jiffy bags.
-* Batteries **must** be placed inside a small brown jiffy bag and the jiffy bag placed inside the charging bag.
+* Batteries **must** be placed individually inside a small jiffy bags and the jiffy bags placed inside the charging bag.
 * In general no more than two batteries should be shipped in each RUB (to ease shipping restrictions).
 * Damaged batteries must not be shipped.
 * Any empty space in the box should be filled with paper or bubble wrap. No packing peanuts; They're messy. The Return Shipping Pack includes sufficient paper.
-* The box should be sealed with cable ties and, if available high quality tape over the handles (not selotape or insulating tape). The Return Shipping Pack includes cables ties, but no tape (as it's difficult to obtain a tiny roll of high quality tape).
+* If not in a cardboard box, the RUB should be sealed with cable ties and, if available high quality tape over the handles (not selotape or insulating tape). The Return Shipping Pack includes cables ties, but no tape (as it's difficult to obtain a tiny roll of high quality tape).
 
 ## Return Shipping Pack
 
@@ -23,7 +24,7 @@ When teams have to return a kit to us we provide them with a return shipping pac
 
 | Item | Quantity | URL | Notes |
 | :--- | :--- | :--- | :--- |
-| 575x700mm polythene bag | 1 | [UK Packaging ref 08220](http://www.ukpackaging.com/postal-packaging/polythene-mailing-bags/grey-polythene-mailing-bags-575x700mm-60mu) | [Bag size research](../research.md#return-shipping-bag) |
+| 575x700mm polythene bag | 1 | [UK Packaging ref 08220](http://www.ukpackaging.com/postal-packaging/polythene-mailing-bags/grey-polythene-mailing-bags-575x700mm-60mu) | |
 | 160x4.8mm cable tie | 5 | [Cableties Online](https://www.cabletiesonline.co.uk/cable-ties-b-w/cable-ties-160mm-x-4.html) | Two per handle. One spare. |
 | 112x80mm caution lithium ion battery label | 1 | [Limpet Labels](http://www.limpetlabels.co.uk/shop/view/293_Caution_Lithium_Battery_Labels/755_Caution_Lithium_Ion_Battery_Labels_%28112_x_80mm%29) |  |
 | A6 plain document wallet | 2 | [UK Packaging ref 10008](http://www.ukpackaging.com/document-wallets-a6-document-enclosed-wallets-plain) | One to use for address label. One spare. |
@@ -33,11 +34,11 @@ When teams have to return a kit to us we provide them with a return shipping pac
 | 220x320mm (internal) white jiffy bag | 1 | [UK Packaging ref 09314](http://www.ukpackaging.com/postal-packaging/jiffy-bags/jiffy-earth-aware-airkraft-white-ak3-220x320mm-50-pack) | To put the whole return shipping pack into. |
 | Return shipping pack instructions | 1 | [Revision SR2017-2](https://github.com/srobo/return-shipping-pack/releases/download/SR2017-2/return-shipping-pack-instructions.pdf) |  |
 | Loan extension instructions | 1 | [Revision SR2017-2](https://github.com/srobo/return-shipping-pack/releases/download/SR2017-2/loanext-instructions.pdf) | Only included in return shipping packs handed out at the end of the competition. |
-| Kit list | 1 | [Kit Definition](../../kit-definition.md) | Only included in return shipping packs handed out at the end of the competition. Remove 'disclaimer'  and the wire from the list. |
+| Kit list | 1 | [Kit Definition](../../hardware/kit-definition.md) | Only included in return shipping packs handed out at the end of the competition. Remove 'disclaimer'  and the wire from the list. |
 
 ### Instruction Notes
 
-1. Check all parts are present (use list provided and notify the local teams coordinator of any missing items).
+1. Check all parts are present (use list provided and notify Student Robotics of any missing items).
 2. Place parts into jiffy bags (do not seal unless specified):
    1. Large white **\[photo of four bags with the parts in front\]:**
       1. 1x tablet
@@ -60,4 +61,4 @@ When teams have to return a kit to us we provide them with a return shipping pac
 11. Stick the LiPo sticker onto the bag
 12. Place the supplied shipping label into the document wallet and stick the document wallet onto the bag (don't forget to remove the narrow backing strip too) **\[photo of lipo sticker and shipping label in document wallet\]**.
 13. Hand the package to reception/who ever it will be collected from.
-14. Notify your local teams coordinator that the kit is ready for collection.
+14. Notify Student Robotics that the kit is ready for collection.

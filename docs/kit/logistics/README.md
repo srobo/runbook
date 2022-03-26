@@ -5,15 +5,11 @@ original:
 ---
 # Kit Logistics Documentation
 
-This is the documentation of the Student Robotics Kit Logistics Coordinator.
+This is the documentation about how we handle logistics of Kit.
 
-The responsibilities of the Kit Logistics Coordinator are as follows:
+Information is included about:
 
-* To store the kit
-* To manage the transportation/shipping of the kit
-* To manage the organisation's third party post handling service
-* To maintain a record of the location and state of all Student Robotics assets
-
-To fulfil these responsibilities the Kit Logistics Coordinator also does the following
-
-* Maintain a suite of logistics software
+* How to store the kit
+* How to manage the transportation/shipping of the kit
+* How to manage the organisation's third party post handling service
+* How to maintain a record of the location and state of all Student Robotics assets

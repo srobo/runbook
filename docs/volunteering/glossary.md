@@ -37,6 +37,10 @@ _Kickstart_:
 
 : the start of the competition year, when we hand out kits to teams
 
+[_Kit Logistics Issue (KLI)_](https://github.com/srobo/kit-logistics/):
+
+: a ticket tracking the assignment of a kit to a team
+
 [_Kit Team_](https://opsmanual.studentrobotics.org/annual-robotics-competition/kit-team):
 
 : the group of volunteers responsible for maintenance and development of the
@@ -59,6 +63,10 @@ _SR_:
 
 : an abbreviation for 'Student Robotics'
 
+[_SR(A)WN_](./srawn.md):
+
+: Student Robotics (Almost) Weekly Newsletter; a semi-regular newsletter written by volunteers for volunteers.
+
 [_SRComp_](https://github.com/PeterJCLaw/srcomp/wiki):
 
 : a software stack which we use to run competition events
@@ -74,7 +82,7 @@ the year number is the calendar year in which the competition event takes place,
 so SR2019 was the _competition programme_ which ran from November 2018 until
 April 2019
 
-[_Team Kits_](../kit/kit-definition.md):
+[_Team Kits_](../kit/README.md):
 
 : we provide a kit of parts which form the starting point for robots built by
 the competing teams

@@ -1,4 +1,4 @@
-# SR2019 Incident Management Procedure
+# Incident Management Procedure
 
 This page is primarily for internal use. If you are a team competing in Student Robotics, you probably want [our main website](https://studentrobotics.org/).
 
@@ -8,7 +8,7 @@ What constitutes an incident is rather unpredictable, and as such is not fully d
 
 This procedure is superseded by any requirements of the venue, e.g. in the event of a fire follow the venues' fire evacuation procedure.
 
-# Minor Incidents
+## Minor Incidents
 
 A minor incident is anything that needs some kind of response but has minimal impact on the event.
 
@@ -22,7 +22,7 @@ Procedure here is simple;
 * Notify relevant coordinator,
 * Follow their instructions
 
-# Major Incidents
+## Major Incidents
 
 A major incident is anything that causes a significant impact on the event as a whole.
 
@@ -34,7 +34,7 @@ Examples might include;
 If first aid is required the First Aid Provider should __always__ be notified first.
 Following that, as with minor incidents, the reaction should be to notify the relevant coordinator and follow their instructions.
 
-## Stopping the competition
+### Stopping the competition
 
 A major incident may call for the competition to be stopped. This may be at the end of a current match or in the middle of a match.
 
@@ -58,7 +58,7 @@ At this point the following should occur;
 
 The aim of these is to prevent any other issues occurring whilst the current incident is being dealt with, and to prevent attendees from getting in the way of the handling the incident.
 
-## Shift in roles
+### Shift in roles
 
 In the event of a major incident, the Head Shepherd becomes the point of contact between the main radio network and the shepherd radio network. They are also responsible for managing the Shepherds and Badgers. To avoid confusion, all radios should remain on their normal network.
 
@@ -70,7 +70,7 @@ All other roles should remain in location and await further instructions.
 
 Further instructions will be given when appropriate, and should not be requested.
 
-## Stopping matches
+### Stopping matches
 
 With stopping matches, the Head Judge should make a decision about whether to stop the match part way through, or to stop the matches once the current match is finished. This decision should be based on the proximity of the incident to the arena, and any further information received regarding the incident.
 
@@ -80,7 +80,7 @@ If the match is stopped immediately, if safe to do so, the Marshals should hit t
 
 In either scenario; the Badgers should ask all competitors to leave the staging area. Robots to remain where they are, power cut offs to be hit.
 
-## Resuming/cancelling the competition
+### Resuming/cancelling the competition
 
 Resuming the competition requires the consent of all involved in stopping it.
 

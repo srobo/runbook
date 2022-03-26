@@ -1,0 +1,9 @@
+mkdocs==1.0.4
+mkdocs-material==4.1.1
+mdx-include==1.3.3
+mkdocs-markdownextradata-plugin==0.0.5
+mkdocs-mermaid2-plugin==0.5.1
+
+# Something in 3.3 (specifically `(3.2.2, 3.3.4]`) breaks mermaid rendering.
+# Haven't looked into what just yet.
+markdown<=3.3
