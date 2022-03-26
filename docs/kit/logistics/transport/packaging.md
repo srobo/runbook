@@ -10,7 +10,7 @@ This information on packaging of kits and kit parts is for internal use only. Th
 ## Packaging Info
 
 * Kits should generally be shipped in the white 18l Really Useful Box (RUB).
-* The 18L RUB may also need to be packed in an appropriately sized double-walled cardboard box. Any space between the RUB and the cardbox box should be packed with an appropriate paper-based filler material.
+* The 18L RUB may also need to be packed in an appropriately sized double-walled cardboard box. Any space between the RUB and the cardboard box should be packed with an appropriate paper-based filler material.
 * All parts of the kit should be suitably protected either in Jiffy bags or bubble wrap. The Return Shipping Pack includes a new set of jiffy bags.
 * Batteries **must** be placed individually inside a small jiffy bags and the jiffy bags placed inside the charging bag.
 * In general no more than two batteries should be shipped in each RUB (to ease shipping restrictions).
