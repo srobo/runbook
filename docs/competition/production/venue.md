@@ -72,6 +72,6 @@ internet connection must feature suitable upload bandwidth.
 
 The arenas at the event need to be well lit, so it must be possible to
 fit some stage lighting to the ceiling above where the areas will be
-situated.  The venue must either have a prefitted truss on the ceiling
+situated.  The venue must either have a pre-fitted truss on the ceiling
 for this purpose, or it must be possible to mount a truss on the
 ceiling.

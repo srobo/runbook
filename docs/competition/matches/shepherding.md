@@ -21,7 +21,7 @@ Here is a description of the roles related to shepherding.
 - Brief volunteers.
 - Supervise shepherds and adjust shepherding procedures where necessary.
   Notably: consider whether the "roving shepherd" and "timekeeper" roles are needed for the venue. It was noted during SR2019 that it wasn't clear that these roles provided much additional benefit given the layout of the venue and having only a single arena respectively.
-- Debrief roving shepherds to record locations of teams bases to then pass on to the next roving shepherd. They should also check for any immediately obvious Health and Saftey issues (blocking fire exit, walkway etc.).
+- Debrief roving shepherds to record locations of teams bases to then pass on to the next roving shepherd. They should also check for any immediately obvious Health and Safety issues (blocking fire exit, walkway etc.).
 
 ### Shepherd
 
@@ -59,7 +59,7 @@ More specifically the guard should not allow anyone into the staging area unless
 
 The responsibility of the badgers is to supervise the staging as well as to hand out and return robot badges and USB-keys.
 
-More specifically, the badgers should make sure that teams follow the direction of travel through the staging area. Once the teams have entered staging the badgers then hand out the robot badges and match keys to the teams, making sure that a team has staged in the correct slot and is receiving the correct badges. The teams leaving the arena should be advised to place their robots on the destaging desks for badge and USB key removal. The badgers need to collect the badges and keys and sort them, ready to be handed out in the next round of staging. The badgers need to ensure that teams do not leave the staging area with markers or USB-keys. The badgers should also clear any items left on the staging tables at this point to prepare for the next round of staging.
+More specifically, the badgers should make sure that teams follow the direction of travel through the staging area. Once the teams have entered staging the badgers then hand out the robot badges and match keys to the teams, making sure that a team has staged in the correct slot and is receiving the correct badges. The teams leaving the arena should be advised to place their robots on the de-staging desks for badge and USB key removal. The badgers need to collect the badges and keys and sort them, ready to be handed out in the next round of staging. The badgers need to ensure that teams do not leave the staging area with markers or USB-keys. The badgers should also clear any items left on the staging tables at this point to prepare for the next round of staging.
 
 ### Roving Shepherd
 

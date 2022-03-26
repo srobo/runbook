@@ -7,7 +7,7 @@ original:
 
 The SR2017 Kit Collation Event follows the general plan outlined on the [Kit Collation](./README.md) page. This page is to document any deviations from this plan or to document more details.
 
-## CHECKIN
+## CHECK-IN
 
 All parts, excluding RUBs, are to be scanned into the `kit-collation-venue/checked-in` directory in the Inventory.
 
@@ -19,7 +19,7 @@ All `usb-stick*` assets should be deleted. We are no longer going to track these
 
 Once all parts have been moved their `condition` and `physical_condition` are to be set to 'unknown'.
 
-CHECKIN completed at 15:11 on 4th August (day 2)
+CHECK-IN completed at 15:11 on 4th August (day 2)
 
 ## VISUAL
 

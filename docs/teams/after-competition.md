@@ -10,7 +10,7 @@ original:
 * Email LTCs with a list of their teams who still have their kit and ask them to contact the Team Leader for contact details of where to send the Kit Return Pack to.  They should pass on these contact details to the Kit Coordinator who will send a Kit Return pack to the team.
 
 * This process may require repeated prompting from the Team Coordinator to the LTCs, and from the LTCs to the Team Leaders to ensure kit is all returned as promptly as possible.
-When the Kit Extension time as elaspsed Kit Coordinator will notify Team Coordinator who will alert relevant LTC to inform the teams concerned and obtain contact information for sending the Kit Return pack.
+When the Kit Extension time as elapsed Kit Coordinator will notify Team Coordinator who will alert relevant LTC to inform the teams concerned and obtain contact information for sending the Kit Return pack.
 
 ## Miscellaneous tasks related to Teams
 

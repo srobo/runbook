@@ -26,7 +26,7 @@ The following rules must be observed at all times in the pits:
 A wireless network is available, connection details:
 
 * **SSID:** SR
-* **Password:** easyasabc
+* **Password:** ~redacted~
 
 You will find the following pages on the website useful:
 

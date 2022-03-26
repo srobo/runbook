@@ -23,7 +23,7 @@ BOTH days of the competition. Training will be available from jmorse on the
 morning of each day; don't operate the crimper without it, they can be harmful.
 
 Crimped wristbands should be secure but comfortable: the aim is for them to not
-constrict bloodflow but to also not fall off peoples wrists.
+constrict blood-flow but to also not fall off peoples wrists.
 
 Some people may ask that their wristband is not crimped on: you should default
 to crimping, but use common sense. People who don't wish the wristband to be

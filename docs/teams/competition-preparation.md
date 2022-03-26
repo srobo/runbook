@@ -25,7 +25,7 @@ Example email sent to potential dropout Team Leader:
 
 ## Information about the competition
 
-Liaise with Competition Coordinator about information that they would like relayed to the Team Leaders prior to the competition and send email via MailChimp Team Leaders mailist. To include information such as the following:
+Liaise with Competition Coordinator about information that they would like relayed to the Team Leaders prior to the competition and send email via MailChimp Team Leaders mailing list. To include information such as the following:
 
 1. Teams should bring some laptops as we will not be providing any computers/laptops.
 2. Teams should bring any tools that they require to work on their robot while at the competition as we will not be providing any tools.
