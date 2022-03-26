@@ -5,11 +5,9 @@ original:
 ---
 # Asset Tracking
 
-One of the responsibilities of the Kit Logistics Coordinator is to maintain a record of the location and state of all SRs assets. This is generally referred to as asset tracking. To allow SR to operate it is important that the location and state of all of its assets are known at all times.
+One of the responsibilities of the Kit Team is to maintain a record of the location and state of all SRs assets. This is generally referred to as asset tracking. To allow SR to operate it is important that the location and state of all of its assets are known at all times.
 
 This chapter documents the high-level organisation aspects around SR asset tracking. It is not intended as a comprehensive user manual for the Inventory system, but rather how SR uses the system to track its assets.
-
-See the page on [logistics-software](./logistics-software.md) for details of the inventory's datastore and tooling required to use it.
 
 ## The Inventory
 
@@ -24,6 +22,14 @@ The Inventory primarily records the location of each asset, its value, its physi
 To provide the one-to-one mapping between assets and their Inventory records, each asset/record pair have an *asset code*, which uniquely identifies them. An important part of maintaining this one-to-one mapping is ensuring that the asset code is suitably marked onto the asset such that it can be read in the future.
 
 Only property of SR is tracked in the Inventory; meaning that property of third parties must not be tracked in the Inventory.
+
+### Inventory Software
+
+| Name            | Project URL | Notes |
+| --------------- | ----------- | ----- |
+| Inventory Tools | [https://github.com/srobo/tools/](https://github.com/srobo/tools/) | This project currently contains a mishmash of tools. The Inventory tools need teasing out. See https://srtools.readthedocs.io/en/latest/inventory/ for details of the inventory related commands |
+| Inventory       | [https://github.com/srobo/inventory](https://github.com/srobo/inventory) | This is not a software project in itself. It represents the current state of all SR assets. |
+
 
 ### Asset Lifecycle
 
@@ -83,11 +89,11 @@ During the *use* stage of an assets lifetime the majority of the updates to its 
 
 #### Test
 
-The Inventory should, as far as is possible, represent the current state of all assets. However as time passes, the recorded physical and functional condition of a given asset will diverge from reality. To help rectify this, assets are regularly tested. For most assets this occurs once each year at the [Kit Collation Event][kit-collation-event], run by the [Hardware Production Coordinator][hardware]. Assets that have been repaired or modified must also undergo testing.
+The Inventory should, as far as is possible, represent the current state of all assets. However as time passes, the recorded physical and functional condition of a given asset will diverge from reality. To help rectify this, assets are regularly tested. For most assets this occurs once each year at the [Kit Collation Event][kit-collation-event]. Assets that have been repaired or modified must also undergo testing.
 
 As in the *commission* stage, an asset's physical and functional condition must be updated appropriately in its record once it has been tested. If the asset is in full working order it is ready for use. If the asset is broken then it may be possible to repair it. In some situations it is either not cost effective or not possible to repair an asset. When this occurs, the asset is no longer useful to SR and will be *decommissioned* and *disposed* of.
 
-[kit-collation-event]: ../hardware/kit-collation.md
+[kit-collation-event]: ./kit-collation/README.md
 [hardware]: ../hardware/README.md
 
 #### Repair
@@ -96,13 +102,13 @@ If an asset is found to be broken, it may be possible to repair it. An example o
 
 #### Modify
 
-Throughout the lifetime of an asset it may be necessary to perform modifications to it. This may be to add extra functionality, improve reliability or to fix a known problem. For most assets the opportunity to perform these modifications is at the Kit Collation Event, run by the Hardware Production Coordinator. If modifications are required they will perform them as necessary.
+Throughout the lifetime of an asset it may be necessary to perform modifications to it. This may be to add extra functionality, improve reliability or to fix a known problem. For most assets the opportunity to perform these modifications is at the Kit Collation Event. If modifications are required they will perform them as necessary.
 
 When modifications are made to an asset it is important to track the changes in its Inventory record. These generally take the form of *modification flags* that indicate if a particular asset has been modified. If a modification across all assets of a given type is planed, for example soldering on an extra component to all motor boards, then all motor board Inventory records should be updated to indicate that none of them have received the modification. Once each asset is modified, its Inventory record must be updated appropriately.
 
 #### Decommission
 
-If an asset is broken and unrepairable or if an asset is simply no longer required then it must be decommissioned and then disposed of. The Kit Logistics Coordinator must only decommission and dispose of an asset when explicitly instructed to do so by the person responsible for the asset. **TODO: Define who is responsible for each type of asset**
+If an asset is broken and unrepairable or if an asset is simply no longer required then it must be decommissioned and then disposed of. An asset must be only decommissioned and disposed of  when explicitly instructed to do so by the person responsible for the asset. **TODO: Define who is responsible for each type of asset**
 
 It must first be determined if the asset is to be sold/given away or if it is to be thrown away, as this affects the decommissioning process. Some assets will have specific decommissioning requirements, however in all cases there are common steps that must be taken.
 
@@ -114,9 +120,9 @@ Once an asset has been fully decommissioned its Inventory record must be updated
 
 Once an asset has been decommissioned, it must be either sold/given away or thrown away, depending upon what was previously agreed when starting the decommissioning process.
 
-If an asset is to be sold the Kit Logistics Coordinator will work with the person previously responsible for that asset to determine the best way to sell the asset. If the estimated value of the asset at the time of selling is above £50 then the trustees are to be be consulted.
+If an asset is to be sold the Kit Team will work with the person previously responsible for that asset to determine the best way to sell the asset. If the estimated value of the asset at the time of selling is above £50 then the trustees are to be be consulted.
 
-If an asset is to be thrown away the Kit Logistics Coordinator will work with the person previous responsible for that asset to determine if there are any special requirements regarding its disposal; for example WEEE regulations for electronics. Also if the value of the asset, as shown in its Inventory record, is above £50 then the trustees are to be consulted.
+If an asset is to be thrown away the Kit Team will work with the person previous responsible for that asset to determine if there are any special requirements regarding its disposal; for example WEEE regulations for electronics. Also if the value of the asset, as shown in its Inventory record, is above £50 then the trustees are to be consulted.
 
 Once an asset has been disposed of, either via selling/giving away or by throwing away, its Inventory record must be removed from the Inventory. Only records that have a decommissioned modification flag should be removed from the Inventory.
 
