@@ -51,9 +51,10 @@ This call should be repeated at least once, and every minute or so until acknowl
 At this point the following should occur;
 
 * Matches stop,
+* Test arena to be powered down and vacated,
 * Power tools area to be vacated,
 * Battery charging to be turned off,
-* Competitors, Team Leaders, and members of the public should be asked to remain in their current location,
+* Competitors, Team Supervisors, and Visitors should be asked to remain in their current location,
 * Competitors to be asked to stop testing on robots.
 
 The aim of these is to prevent any other issues occurring whilst the current incident is being dealt with, and to prevent attendees from getting in the way of the handling the incident.
