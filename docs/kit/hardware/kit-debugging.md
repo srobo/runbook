@@ -34,6 +34,17 @@ Note: The boards pictured below are early prototypes and may differ from the cur
 
 ### Motor Board LEDs
 
+- A (DS1/DS6 - green/red)
+  - green is lit when USB or UART power is present
+  - red is lit when there is USB activity to the USB-UART IC.
+- B (DS7 - red/green)
+- C (DS2/4 - red)
+- D (DS3/5 - blue)
+- E (DS2/4 - red)
+- F (DS3/5 - blue)
+- G/H (DS9 - red/blue)
+- I/J (DS8 - red/blue)
+
 ## Servo Board
 
 ![Servo Board LEDs](https://raw.githubusercontent.com/srobo/servo-v4-hw/master/test/figure1.png)
