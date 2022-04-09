@@ -10,13 +10,13 @@ This information on packaging of kits and kit parts is for internal use only. Th
 ## Packaging Info
 
 * Kits should generally be shipped in the white 18l Really Useful Box (RUB).
-* The 18L RUB may also need to be packed in an appropriately sized double-walled cardboard box. Any space between the RUB and the cardbox box should be packed with an appropriate paper-based filler material.
+* The 18L RUB may also need to be packed in an appropriately sized double-walled cardboard box. Any space between the RUB and the cardboard box should be packed with an appropriate paper-based filler material.
 * All parts of the kit should be suitably protected either in Jiffy bags or bubble wrap. The Return Shipping Pack includes a new set of jiffy bags.
 * Batteries **must** be placed individually inside a small jiffy bags and the jiffy bags placed inside the charging bag.
 * In general no more than two batteries should be shipped in each RUB (to ease shipping restrictions).
 * Damaged batteries must not be shipped.
 * Any empty space in the box should be filled with paper or bubble wrap. No packing peanuts; They're messy. The Return Shipping Pack includes sufficient paper.
-* If not in a cardboard box, the RUB should be sealed with cable ties and, if available high quality tape over the handles (not selotape or insulating tape). The Return Shipping Pack includes cables ties, but no tape (as it's difficult to obtain a tiny roll of high quality tape).
+* If not in a cardboard box, the RUB should be sealed with cable ties and, if available high quality tape over the handles (not sellotape or insulating tape). The Return Shipping Pack includes cables ties, but no tape (as it's difficult to obtain a tiny roll of high quality tape).
 
 ## Return Shipping Pack
 
@@ -47,9 +47,9 @@ When teams have to return a kit to us we provide them with a return shipping pac
       4. 1x power board, 1x servo board
    2. Small brown **\[photo of four bags with the parts in front\]**:
       1. 2x batteries
-      2. 2x motor boards, 1x ruggeduio with screw shields plugged in
+      2. 2x motor boards, 1x Ruggeduino with screw shields plugged in
       3. 2x USB hubs, 1x brain board
-      4. Remaining loose items: wifi dongles, usb memory stick, camcons (7.5, 5 and 3.81mm), screwdriver, brain board power cable. **seal**.
+      4. Remaining loose items: WiFi dongles, usb memory stick, camcons (7.5, 5 and 3.81mm), screwdriver, brain board power cable. **seal**.
 3. Place jiffy bag containing the batteries into the battery charging bag **\[photo of jiffy bag partially in charging bag\]**
 4. Tear the brown paper into two equally sized pieces
 5. Scrunch up one piece of brown paper and place in the bottom of the RUB **\[photo of scrunched up paper in the bottom of RUB\]**
@@ -59,6 +59,6 @@ When teams have to return a kit to us we provide them with a return shipping pac
 9. Place the sealed RUB into the bag **\[photo of RUB partially in the bag\]**
 10. Seal the bag closed **\[photo of the sealed bag highlighting it being tight\]**
 11. Stick the LiPo sticker onto the bag
-12. Place the supplied shipping label into the document wallet and stick the document wallet onto the bag (don't forget to remove the narrow backing strip too) **\[photo of lipo sticker and shipping label in document wallet\]**.
+12. Place the supplied shipping label into the document wallet and stick the document wallet onto the bag (don't forget to remove the narrow backing strip too) **\[photo of Lipo sticker and shipping label in document wallet\]**.
 13. Hand the package to reception/who ever it will be collected from.
 14. Notify Student Robotics that the kit is ready for collection.

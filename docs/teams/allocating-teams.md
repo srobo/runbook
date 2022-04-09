@@ -63,7 +63,7 @@ original:
 >
 > If you have any queries from now on, please do the following:
 > 1. Look on the website.
-> 2. Post on the forum (once you’ve received your SR user account information) NB. Please do not post sensitive personal information on the forum as this is publically accessible.  The forum is a great way to share information and get answers to your questions - if you’re wondering about something, chances are someone else is too or has done and posted on the forum – you’ll hear more about this resource at Kickstart.
+> 2. Post on the forum (once you’ve received your SR user account information) NB. Please do not post sensitive personal information on the forum as this is publicly accessible.  The forum is a great way to share information and get answers to your questions - if you’re wondering about something, chances are someone else is too or has done and posted on the forum – you’ll hear more about this resource at Kickstart.
 > 3. Email your Local Team Coordinator.
 > 4. Ask your Mentor – this is something your LTC can help with organising.  (Ideally all teams would have a Mentor to help with the technical aspects of the Programme.  We have a limited number of volunteers who are available to mentor teams, but if there’s not one near to you, we can help support you to find your own from local industry etc.)
 > 5. If after all that your query still has not been answered email me, Fiona at teams@studentrobotics.org.

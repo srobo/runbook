@@ -2,7 +2,7 @@
 
 The Student Robotics (Almost) Weekly Newsletter (SR(A)WN) is a semi-regular newsletter written by volunteers for volunteers.
 
-## Availablility
+## Availability
 
 SR(A)WN can be consumed electronically from several places:
 

@@ -43,5 +43,5 @@ For SR2022, we shipped kits via the UPS Business account of a friendly company, 
   * LiPo are manually checked before shipping
 * S5-UPS kindly provided LiPo warning stickers for SR2022
 * Boxes must be unsealed so that the contents can be checked before shipping.
-* SR Partcode must be clearly printed on the box, ideally with a 2D barcode available to scan.
-* Addresses must be provided in CSV format, with the SR Partcode of each box and the destination.
+* SR part code must be clearly printed on the box, ideally with a 2D barcode available to scan.
+* Addresses must be provided in CSV format, with the SR part code of each box and the destination.
