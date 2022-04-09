@@ -13,7 +13,7 @@ Note: The boards pictured below are early prototypes and may differ from the cur
 - Power
   - lit when the barrel jack is supplying 5V to the board.
 - Alive
-  - flashes when the operationg system is running.
+  - flashes when the operating system is running.
 
 ## Power Board
 
@@ -80,4 +80,4 @@ __Note:__ The schematic has motors 0 and 1 reversed from the silkscreen and code
 - DS15 - green
   - lit when 12V is present and the correct polarity, this is connected to the 5.5V SMPS output so shows it is functional as well. If the 12V input is wired backward this will not light.
 - DS16 - green
-  - lit when either an input is provided to the auxilliary header or the 5V regulator is linked to the power output for the top 4 servos. __NOTE__ The firmware is hard-coded to enable this link, __do not attach a power source to the auxilliary header__.
+  - lit when either an input is provided to the auxiliary header or the 5V regulator is linked to the power output for the top 4 servos. __NOTE__ The firmware is hard-coded to enable this link, __do not attach a power source to the auxiliary header__.

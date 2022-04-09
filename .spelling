@@ -63,3 +63,6 @@ VESA
 WEEE
 yocto
 zoloto
+overcurrent
+undervoltage
+SMPS
