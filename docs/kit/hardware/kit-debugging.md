@@ -10,6 +10,11 @@ Note: The boards pictured below are early prototypes and may differ from the cur
 
 ### Odroid LEDs
 
+- Power
+  - lit when the barrel jack is supplying 5V to the board.
+- Alive
+  - flashes when the operationg system is running.
+
 ## Power Board
 
 ![Power Board LEDs](https://raw.githubusercontent.com/srobo/power-v4-hw/master/test/figure1.png)
