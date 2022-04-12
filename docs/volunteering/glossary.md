@@ -31,8 +31,9 @@ _Competition programme_; this has since been replaced by the _Competition Team_
 
 _Doing_:
 
-: an event where people do stuff; contrast with "meetings" which are typically
-where discussions happen
+: an event where volunteers work together to progress the tasks of the
+organisation, such as preparing for the competition or testing the kit; contrast
+with "meetings" which are typically where discussions happen
 
 [_GitHub_](./git-and-github.md):
 
