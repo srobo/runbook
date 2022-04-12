@@ -29,6 +29,11 @@ _Core Team_:
 : the group of 8 or so volunteers responsible for delivering the _SR2019_
 _Competition programme_; this has since been replaced by the _Competition Team_
 
+_Doing_:
+
+: an event where people do stuff; contrast with "meetings" which are typically
+where discussions happen
+
 [_GitHub_](./git-and-github.md):
 
 : a development platform, used to host code repositories and to coordinate tasks
