@@ -17,7 +17,7 @@ Here is a flow chart summarising the details below:
 
 **Everyone** must complete a Media Consent Form, Under 16's must have this form completed by a parent or guardian. If they have signed a form, or if they bring a pre-signed form, give them a wristband and ensure you see them put it on.
 
-Please strongly dissuade them from rejecting media consent, as it causes a lot of pains with regards to taking photos of the event. However, they do have the right to reject it. In that case, give them a red lanyard to wear the entire time in addition to their wristband.
+Please strongly dissuade them from rejecting media consent, as it causes a lot of pains with regards to taking photos of the event. However, they do have the right to reject it. In that case, give them a red lanyard to wear the entire time instead of their wristband.
 
 At the start of the competition day, there will be four reception staffers
 covering the entrance. Once the initial influx of people is complete, this
@@ -25,8 +25,7 @@ will reduce. Additionally, after the initial influx, receptionists
 should allow people wearing SR wristbands to enter the building at will (they
 should check that people walking in have one, or follow the procedure above).
 
-Throughout the competition, receptionists will likely get a lot of questions by the public. Feel free to answer, and refer any technical or kit questions
-to the helpdesk. Any member of the public should be allowed into the building if they sign a Media Consent Form.
+Throughout the competition, receptionists typically get a lot of questions by the public. Any member of the public should be allowed into the building if they sign a Media Consent Form. Feel free to answer, give them a booklet, and send them to Helpdesk (let them sign in) if they seem interested.
 
 # Handling Team Arrivals
 When a team first arrives or leaves, your role as reception is to log this and confiscate items on entry, see below:
