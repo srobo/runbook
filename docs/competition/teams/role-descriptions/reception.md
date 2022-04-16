@@ -15,9 +15,9 @@ Here is a flow chart summarising the details below:
 
 ![Reception Desk Flow](../diagrams/reception-desk-flow.svg)
 
-**Everyone** must complete a Media Consent Form, Under 16's must have this form completed by a parent or guardian. If they have signed a form, or if they bring a pre-signed form, give them a wristband and ensure you see them put it on.
+**Everyone** must complete a Media Consent Form, Under 16's must have this form completed by a parent or guardian. If they have signed a form, or if they bring a pre-signed form, give them a wristband and ensure you see them put it on. Also, give each competitor a competition leaflet.
 
-Please strongly dissuade them from rejecting media consent, as it causes a lot of pains with regards to taking photos of the event. However, they do have the right to reject it. In that case, give them a red lanyard to wear the entire time instead of their wristband.
+Please strongly dissuade them from rejecting media consent, as it causes a lot of pains with regards to taking photos of the event. However, they do have the right to reject it. In that case, give them a red lanyard to wear the entire time instead of their wristband. Remember to give them a leaflet too.
 
 At the start of the competition day, there will be four reception staffers
 covering the entrance. Once the initial influx of people is complete, this
@@ -31,15 +31,14 @@ Throughout the competition, receptionists typically get a lot of questions by th
 When a team first arrives or leaves, your role as reception is to log this and confiscate items on entry, see below:
 
 * Team entry/exit recording
- 	* Arrival desk staff will have sign-in / sign-out sheet for team supervisors to
-record that their teams have arrived and when they leave. Reception will direct
-team supervisors and robot kit to the desk; you should get the team supervisor to sign the sheet.
+ 	* You will have a sign-in/sign-out sheet for team supervisors to
+record that their teams have arrived and when they leave you should get the team supervisor to sign the sheet.
 * Removing batteries, chargers, and bags:
  	* When on-site, we handle battery charging and robot safety, this means we should take all of the following items from each team:
- 		* 1 x Battery (Teams have 2 batteries, please take their least-bulgy one).
+ 		* 1 x Battery (Teams have 2 batteries, please take their most-bulgy one).
  		* 1 x Battery charger.
 		* 1 x Battery charging bag.
-		* 1 x Battery charging power supply unit (PSU).
+		* 1 x Battery charging Power Supply Unit (PSU).
 
 # Handling Volunteer Arrivals
 Volunteers will be turning up throughout the competition, it's important to make sure they do what is needed before entering:
@@ -57,8 +56,6 @@ You should have the following items present for your duties. If you do not, plea
 * Pens to fill in forms.
 * Wristbands to give to entrants.
 * Competitor booklets to give to teams.
-* Venue maps.
-* Guest visitor flyers.
 * This documentation and flow chart.
 * Sign-in/out sheet.
 * Boxes to store battery charging kits.
