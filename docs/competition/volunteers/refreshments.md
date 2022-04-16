@@ -9,7 +9,7 @@ It is the responsibility of the refreshments role to offer and provide refreshme
 To do this, you should grab a tray, fill it with a mix of drinks and food, and go to all volunteer positions, offering refreshments.
 Please also fill some cups with water from a nearby water fountain, and brew coffee/tea if available.
 
-People at the following locations aare usually unable to leave their posts to fetch refreshments for themselves, so it is important to take refreshments to them regularly:
+People at the following locations are usually unable to leave their posts to fetch refreshments for themselves, so it is important to take refreshments to them regularly:
 
 - Tech desks
 - Reception
@@ -26,7 +26,7 @@ If your role is after lunch, it's very important to make sure everyone has had t
 
 If we're running low on refreshments, it's your responsibility to make sure someone gets more from the nearby shops. Find someone or speak to the volunteer manager to find someone who is free to go get more. There should be cash by the refreshment storage for you to buy more. It's intended to last for the whole competition, so do not spend it all. If the money has ran out, please speak to the Volunteer Manager.
 
-The nearest food shop for SR2022 is the Sainsburys Local on Burgess road: https://goo.gl/maps/rPHsNnL1aSEH5WQT7
+The nearest food shop for SR2022 is the Sainsbury's Local on Burgess road: https://goo.gl/maps/rPHsNnL1aSEH5WQT7
 
 Items we should keep in constant supply:
 
