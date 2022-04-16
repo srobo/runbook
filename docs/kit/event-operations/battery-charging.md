@@ -90,3 +90,10 @@ Batteries are charged as follows:
 After about 1 hour the battery should complete charging - the screen will display a charge complete message. Simply disconnect the battery from the charger and place it in the charged battery box.
 
 If at any point throughout the charging cycle the charger indicates an issue (e.g. a timeout, capacity or cable error), disconnect the battery from the charger, apply a piece of red tape to the yellow XT60 connector on the battery and place it in the damaged battery box. Inevitably there will be a small number of faulty chargers. If you suspect that a particular charger is faulty (lots of batteries fail to charge on it), disconnect it from its power supply, apply red tape to its yellow XT60 connector and place it in the damaged battery box.
+
+### Discharging batteries
+
+At the end of an event batteries should be discharged. The process for this is identical to the charging process except the mode should be changed to "Storage" by pressing the Inc/Dec buttons prior to pressing Start/Enter.
+
+Some damaged batteries may be able to be safely discharged to render them inert before they are disposed of. Check with a member of the Kit Team before doing this. In this instance change the mode to "Discharge".
+
