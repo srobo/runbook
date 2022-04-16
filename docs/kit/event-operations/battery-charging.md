@@ -46,6 +46,7 @@ The biggest risk of damage or injury is from the banana plugs coming unplugged f
 The batteries themselves have many built-in safety features and, unless abused, are completely safe. All batteries undergoing charging must be placed inside a fireproof charging bag. In the extremely unlikely event of a fire due to a battery:
 - DO NOT use a fire extinguisher - the batteries contain hazardous materials which cannot be safely tackled by most fire extinguishers.
 - DO NOT open or attempt to remove anything from the charging bag.
+
 ONLY IF SAFE TO DO SO:
 - A fire bucket full of water will be supplied, get the battery into the bucket. This should be performed complete with the charging bag, and any other contents of the charging bag. This battery must not be removed from the bucket.
 - Remove power from all other batteries and chargers, and move all undamaged equipment away from the faulty battery/charger.
