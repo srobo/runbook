@@ -50,7 +50,7 @@ Volunteers will be turning up throughout the competition, it's important to make
 
 ## Required Items
 
-You should have the following items present for your duties. If you do not, please let the competition team coordinator know as soon as possible.
+You should have the following items present for your duties. If you do not, please let the competition event coordinator know as soon as possible.
 
 * Spare Media Consent Forms (MCFs) to allow visitors to enter.
 * Pens to fill in forms.
@@ -59,3 +59,4 @@ You should have the following items present for your duties. If you do not, plea
 * This documentation and flow chart.
 * Sign-in/out sheet.
 * Boxes to store battery charging kits.
+* Red Lanyards for MCF denials.
