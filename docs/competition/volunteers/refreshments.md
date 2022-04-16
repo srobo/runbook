@@ -24,7 +24,7 @@ If your role is after lunch, it's very important to make sure everyone has had t
 
 ## Running low on refreshments
 
-If we're running low on refreshments, it's your responsibility to make sure someone gets more from the nearby shops. Find someone or speak to the volunteer manager to find someone who is free to go get more. There should be cash by the refreshment storage for you to buy more. It's intended to last for the whole competition, so do not spend it all. If the money has ran out, please speak to the Volunteer Manager.
+If we're running low on refreshments, it's your responsibility to make sure someone gets more from the nearby shops. Find someone or speak to the Event Coordinator to find someone who is free to go get more. There should be cash by the refreshment storage for you to buy more. It's intended to last for the whole competition, so do not spend it all. If the money has ran out, please speak to the Event Coordinator.
 
 The nearest food shop for SR2022 is the Sainsbury's Local on Burgess road: https://goo.gl/maps/rPHsNnL1aSEH5WQT7
 
