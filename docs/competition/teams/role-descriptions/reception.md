@@ -11,11 +11,11 @@ original:
 
 Reception staff control entry to the building and validate people's Media Consent Forms (MCFs) and/or wristbands. Each reception staffer has their own desk and chair.
 
-**Everyone** must complete a MCF, Under 16's must have this form completed by a parent or guardian. If someone denies Media Consent, write down which team they are in, and hand them a red lanyard. If someone is under-16 and has no pre-signed form, speak to the Volunteer in charge.
-
-When someone enters the building, you should follow the procedure below.
+Here is a flow chart summarising the details below:
 
 ![Reception Desk Flow](../diagrams/reception-desk-flow.svg)
+
+**Everyone** must complete a Media Consent Form, Under 16's must have this form completed by a parent or guardian. Please strongly dissuade them from rejecting media consent, as it causes a lot of pains with regards to taking photos of the event. however, they do have the right to reject it. In that case, give them a red lanyard to wear the entire time, in addition to a wristband.
 
 At the start of the competition day, there will be four reception staffers
 covering the entrance. Once the initial influx of people is complete, this
@@ -23,11 +23,8 @@ will reduce. Additionally, after the initial influx, receptionists
 should allow people wearing SR wristbands to enter the building at will (they
 should check that people walking in have one, or follow the procedure above).
 
-Throughout the competition, reception staffers will encounter a variety of
-members of the public enquiring what the event is, or otherwise receiving
-questions. Please answer as fully as possible, but refer any technical or kit questions
-to the helpdesk. Any member of the public should be allowed into the building if they sign a media consent
-form.
+Throughout the competition, receptionists will likely get a lot of questions by the public. Feel free to answer, and refer any technical or kit questions
+to the helpdesk. Any member of the public should be allowed into the building if they sign a Media Consent Form.
 
 # Handling Team Arrivals
 When a team first arrives or leaves, your role as reception is to log this and confiscate items on entry, see below:
@@ -38,17 +35,12 @@ record that their teams have arrived and when they leave. Reception will direct
 team supervisors and robot kit to the desk; you should get the team supervisor to sign the sheet.
 * Removing batteries, chargers, and bags:
  	* When on-site, we handle battery charging and robot safety, this means we should take all of the following items from each team:
- 		* 2 x Battery
- 		* 1 x Battery chargers
-		* 1 x Battery charging bags
-		* 1 x Battery charging power supply unit (PSU)
+ 		* 1 x Battery (Teams have 2 batteries, please take their least-bulgy one).
+ 		* 1 x Battery charger.
+		* 1 x Battery charging bag.
+		* 1 x Battery charging power supply unit (PSU).
 
-
-The following flow is an outline of the processes described above:
-
-![Arrival Desk Flow (Arrivals)](../diagrams/arrival-desk-arrivals-flow.svg)
-
-# Volunteer Arrivals
+# Handling Volunteer Arrivals
 Volunteers will be turning up throughout the competition, it's important to make sure they do what is needed before entering:
 - Strongly recommend that they wear a face covering.
 - Ensure they have filled out an MCF.
