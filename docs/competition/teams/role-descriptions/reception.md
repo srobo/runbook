@@ -17,7 +17,7 @@ Here is a flow chart summarising the details below:
 
 **Everyone** must complete a Media Consent Form, Under 16's must have this form completed by a parent or guardian. If they have signed a form, or if they bring a pre-signed form, give them a wristband and ensure you see them put it on. Also, give each competitor a competition leaflet.
 
-Please strongly dissuade them from rejecting media consent, as it causes a lot of pains with regards to taking photos of the event. However, they do have the right to reject it. In that case, give them a red lanyard to wear the entire time instead of their wristband. Remember to give them a leaflet too.
+If they refuse, we should double check they understand what they are refusing. Media consent means that we can take photos or videos with them in and use this media to advertise ourselves. We should explain that photos and videos are being taken around the event and that it would be best for them to avoid the arena as we are also livestreaming. If they still refuse media consent provide them with a red lanyard to wear **instead** of a wristband. Instruct them they must wear this lanyard at all times around the event. Remember to give them a booklet too.
 
 At the start of the competition day, there will be four reception staffers
 covering the entrance. Once the initial influx of people is complete, this
