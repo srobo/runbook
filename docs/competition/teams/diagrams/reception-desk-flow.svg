@@ -29,12 +29,12 @@
      id="namedview337"
      showgrid="false"
      inkscape:zoom="0.98890193"
-     inkscape:cx="466.42824"
-     inkscape:cy="241.3457"
+     inkscape:cx="470.98932"
+     inkscape:cy="309.13118"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="id1214_Graphic-9-1-9"
+     inkscape:current-layer="id1214_Graphic-9-1-7"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -640,21 +640,21 @@
          id="title34">Layer 1</title>
       <line
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-2-0-1)"
-         x1="467.09277"
-         y1="139.79211"
-         x2="467.09277"
-         y2="154.65015"
+         x1="462.59277"
+         y1="133.79211"
+         x2="462.59277"
+         y2="148.65015"
          id="line66-6-8-8-1-5" />
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1253_Graphic-2-3"
-         transform="translate(266.42568,72.258065)">
+         transform="translate(261.92568,66.258065)">
         <rect
            style="opacity:1;vector-effect:none;fill:#68bc36;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
            id="rect4932-8-9"
-           width="90"
-           height="36.000008"
-           x="155.776"
+           width="115.02777"
+           height="53.443596"
+           x="145.15817"
            y="92.241997"
            rx="19.038"
            ry="19.038" />
@@ -662,28 +662,49 @@
            id="text327-1-2"
            style="line-height:0%;fill:#000000"
            x="151.52649"
-           y="103.35919">
+           y="98.859192">
           <tspan
              font-size="10"
              font-weight="500"
              x="166.51917"
-             y="113.35919"
+             y="108.85919"
              id="tspan329-8-3"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">Allow Entry</tspan>
         </text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75"
+           x="202.56845"
+           y="123.22323"
+           id="text8747"><tspan
+             sodipodi:role="line"
+             x="203.60751"
+             y="123.22323"
+             style="font-weight:bold;font-size:8px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
+             id="tspan8749">Follow 'Person Arrives' </tspan><tspan
+             sodipodi:role="line"
+             x="202.56845"
+             y="135.72324"
+             style="font-weight:bold;font-size:8px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
+             id="tspan8757">for each team member.</tspan><tspan
+             sodipodi:role="line"
+             x="202.56845"
+             y="148.22324"
+             style="font-weight:bold;font-size:8px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
+             id="tspan8751" /></text>
       </g>
       <line
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-2-0)"
-         x1="636.03015"
+         x1="631.53015"
          y1="162.69492"
-         x2="636.03015"
+         x2="631.53015"
          y2="177.55295"
          id="line66-6-8-8-1" />
       <line
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-2)"
-         x1="637.63904"
+         x1="633.13904"
          y1="117.8193"
-         x2="637.63904"
+         x2="633.13904"
          y2="132.67732"
          id="line66-6-8-8" />
       <rect
@@ -691,14 +712,14 @@
          id="rect5370-3-95-2-9"
          width="120.03177"
          height="22.592951"
-         x="577.62317"
+         x="573.12317"
          y="142.22437"
          rx="7.5"
          ry="7.4999995" />
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1214_Graphic-9-1-7-1-7"
-         transform="translate(436.30379,-188.63291)">
+         transform="translate(431.80379,-188.63291)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -713,9 +734,9 @@
       </g>
       <line
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-3)"
-         x1="637.63904"
+         x1="633.13904"
          y1="77.061905"
-         x2="637.63904"
+         x2="633.13904"
          y2="91.919907"
          id="line66-6-8-2" />
       <rect
@@ -723,15 +744,15 @@
          id="rect5370-3-95-2-5"
          width="119.96862"
          height="21.520388"
-         x="577.65479"
+         x="573.15479"
          y="101.46696"
          rx="7.4999995"
          ry="7.4999995" />
       <line
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9)"
-         x1="637.63904"
+         x1="633.13904"
          y1="20.752314"
-         x2="637.63904"
+         x2="633.13904"
          y2="35.610317"
          id="line66-6-8" />
       <rect
@@ -739,14 +760,14 @@
          id="rect5370-3-95-2"
          width="120.03177"
          height="37.072559"
-         x="577.62317"
+         x="573.12317"
          y="45.157368"
          rx="7.5"
          ry="7.4999995" />
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1214_Graphic-9-1-7-1"
-         transform="translate(436.20857,-285.86244)">
+         transform="translate(431.70857,-285.86244)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -766,9 +787,9 @@
       </g>
       <line
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4)"
-         x1="637.63904"
+         x1="633.13904"
          y1="-39.374454"
-         x2="637.63904"
+         x2="633.13904"
          y2="-24.516453"
          id="line66-6" />
       <rect
@@ -776,7 +797,7 @@
          id="rect4932-91-2-8"
          width="133.20746"
          height="36.000008"
-         x="571.03534"
+         x="566.53534"
          y="-74.823647"
          rx="19.038004"
          ry="19.038" />
@@ -784,7 +805,7 @@
          style="fill:#63cadc;fill-opacity:1;stroke:none;stroke-width:0.99974996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0"
          id="path306-6"
-         d="m 334.24664,-14.43861 57.63,27.242 -57.63,27.241999 -57.63,-27.241999 z" />
+         d="m 329.74664,-14.43861 57.63,27.242 -57.63,27.241999 -57.63,-27.241999 z" />
       <line
          x1="201.64195"
          y1="156.76421"
@@ -1135,11 +1156,11 @@
            x="68.423012"
            y="333.16467"
            style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-           id="tspan5008">Team Coordinator</tspan></text>
+           id="tspan5008">Event Co-ordinator</tspan></text>
       <rect
          style="opacity:1;vector-effect:none;fill:#68bc36;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect4932-91"
-         width="97.584175"
+         width="105.16835"
          height="36.000008"
          x="19.837915"
          y="-74"
@@ -1156,7 +1177,7 @@
            x="28.144651"
            y="-51.499996"
            id="tspan329-6"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994">Guest Arrives</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994">Person Arrives</tspan>
       </text>
       <line
          x1="126.5444"
@@ -1289,49 +1310,49 @@
            id="tspan5625">with them?</tspan></text>
       <text
          y="46.519382"
-         x="343.88263"
+         x="339.38263"
          style="font-size:12px;fill:#000000;stroke-width:0.99999994"
          id="text36">
         <tspan
            style="font-weight:500;font-size:12px;font-family:'Helvetica Neue';stroke-width:0.99999994"
            font-size="12"
            font-weight="500"
-           x="344.05063"
+           x="339.55063"
            y="57.519382"
            id="tspan34">N</tspan>
       </text>
       <line
          style="stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker-7)"
-         x1="334.24664"
+         x1="329.74664"
          y1="-38.296612"
-         x2="334.24664"
+         x2="329.74664"
          y2="-23.43861"
          id="line66" />
       <line
          style="stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker-7)"
-         x1="334.24664"
+         x1="329.74664"
          y1="40.945393"
-         x2="334.24664"
+         x2="329.74664"
          y2="56.529392"
          id="line92" />
       <text
          y="-4.4794531"
-         x="396.87665"
+         x="392.37665"
          style="font-size:12px;fill:#000000;stroke-width:0.99999994"
          id="text100">
         <tspan
            style="font-weight:500;font-size:12px;font-family:'Helvetica Neue';stroke-width:0.99999994"
            font-size="12"
            font-weight="500"
-           x="396.98865"
+           x="392.48865"
            y="6.5205774"
            id="tspan98">Y</tspan>
       </text>
       <line
          style="stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker-7)"
-         x1="391.87665"
+         x1="387.37665"
          y1="12.156565"
-         x2="409.98264"
+         x2="405.48264"
          y2="12.156565"
          id="line132" />
       <rect
@@ -1339,22 +1360,22 @@
          id="rect4932-91-2"
          width="110.45494"
          height="36.000008"
-         x="276.1947"
+         x="271.6947"
          y="-74.018799"
          rx="19.038002"
          ry="19.038" />
       <text
          id="text327-6-4"
          style="font-size:12px;line-height:0%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-dasharray:none;stroke-opacity:1"
-         x="275.40213"
+         x="270.90213"
          y="-61.518795">
         <tspan
            font-size="10"
            font-weight="500"
-           x="290.39481"
+           x="285.89481"
            y="-51.518795"
            id="tspan329-6-1"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994">Robot Arrives</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994">Team Arrives</tspan>
       </text>
       <text
          y="5.723897"
@@ -1372,17 +1393,17 @@
       <text
          id="text5128-4"
          y="8.5568085"
-         x="334.36383"
+         x="329.86383"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan5130-0"
            style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
            y="8.5568085"
-           x="335.66266"
+           x="331.16266"
            sodipodi:role="line">Supervisor </tspan><tspan
            style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
            y="21.056808"
-           x="334.36383"
+           x="329.86383"
            sodipodi:role="line"
            id="tspan6149">With Them?</tspan></text>
       <rect
@@ -1390,39 +1411,39 @@
          id="rect4932-9-1-9"
          width="127.00345"
          height="36.000008"
-         x="270.17438"
+         x="265.67438"
          y="67.248947"
          rx="19.038"
          ry="19.038" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-dasharray:none;stroke-opacity:1"
-         x="333.68588"
+         x="329.18588"
          y="82.748947"
          id="text5006-9"><tspan
            sodipodi:role="line"
-           x="333.68588"
+           x="329.18588"
            y="82.748947"
            style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
            id="tspan5008-7">Tell team to wait</tspan><tspan
            sodipodi:role="line"
-           x="333.68588"
+           x="329.18588"
            y="95.248947"
            style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
            id="tspan6192">for their Supervisor</tspan></text>
       <rect
          style="opacity:1;vector-effect:none;fill:#63cadc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect5370-3"
-         width="137.02185"
-         height="48.33448"
-         x="420.49258"
-         y="-5.9110084"
+         width="130.95451"
+         height="38.47506"
+         x="415.99258"
+         y="-1.3605065"
          rx="7.4999995"
          ry="7.4999995" />
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1214_Graphic-9-1"
-         transform="translate(264.67733,-336.31475)">
+         transform="translate(260.17733,-336.31475)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1441,10 +1462,10 @@
              id="tspan6238">sign-in sheet</tspan></text>
       </g>
       <line
-         x1="467.10144"
-         y1="43.233093"
-         x2="467.10144"
-         y2="57.833099"
+         x1="462.60144"
+         y1="37.233093"
+         x2="462.60144"
+         y2="51.833099"
          id="line314-7"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-8)" />
       <rect
@@ -1452,14 +1473,14 @@
          id="rect5370-3-9"
          width="154.89011"
          height="74.076004"
-         x="405.58557"
-         y="66.218895"
+         x="401.08557"
+         y="60.218895"
          rx="7.5"
          ry="7.5" />
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1214_Graphic-9-1-9"
-         transform="translate(262.36919,-265.68485)">
+         transform="translate(257.86919,-271.68485)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1495,12 +1516,12 @@
       <text
          id="text327-6-4-6"
          style="font-size:12px;line-height:0%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-dasharray:none;stroke-opacity:1"
-         x="570.1698"
+         x="565.6698"
          y="-62.323647">
         <tspan
            font-size="10"
            font-weight="500"
-           x="585.16248"
+           x="580.66248"
            y="-52.323647"
            id="tspan329-6-1-4"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994">Volunteer Arrives</tspan>
@@ -1510,14 +1531,14 @@
          id="rect5370-3-95"
          width="120.03178"
          height="37.072559"
-         x="577.62317"
+         x="573.12317"
          y="-14.969402"
          rx="7.5"
          ry="7.4999995" />
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1214_Graphic-9-1-7"
-         transform="translate(436.60164,-344.83687)">
+         transform="translate(432.10164,-344.83687)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1528,17 +1549,17 @@
              x="201.20343"
              y="345.90375"
              style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-             id="tspan6238-76">They sign</tspan><tspan
+             id="tspan6862">Follow 'Person Arrives'</tspan><tspan
              sodipodi:role="line"
              x="201.20343"
              y="358.40375"
              style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-             id="tspan6862">a media consent form</tspan></text>
+             id="tspan8761">section first</tspan></text>
       </g>
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1253_Graphic-2"
-         transform="translate(435.36305,95.16087)">
+         transform="translate(430.86305,95.16087)">
         <rect
            style="opacity:1;vector-effect:none;fill:#68bc36;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
            id="rect4932-8"
@@ -1565,7 +1586,7 @@
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1214_Graphic-9-1-7-1-4"
-         transform="translate(436.33553,-231.07894)">
+         transform="translate(431.83553,-231.07894)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
