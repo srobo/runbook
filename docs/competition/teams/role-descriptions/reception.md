@@ -15,7 +15,9 @@ Here is a flow chart summarising the details below:
 
 ![Reception Desk Flow](../diagrams/reception-desk-flow.svg)
 
-**Everyone** must complete a Media Consent Form, Under 16's must have this form completed by a parent or guardian. Please strongly dissuade them from rejecting media consent, as it causes a lot of pains with regards to taking photos of the event. however, they do have the right to reject it. In that case, give them a red lanyard to wear the entire time, in addition to a wristband.
+**Everyone** must complete a Media Consent Form, Under 16's must have this form completed by a parent or guardian. If they have signed a form, or if they bring a pre-signed form, give them a wristband and ensure you see them put it on.
+
+Please strongly dissuade them from rejecting media consent, as it causes a lot of pains with regards to taking photos of the event. However, they do have the right to reject it. In that case, give them a red lanyard to wear the entire time in addition to their wristband.
 
 At the start of the competition day, there will be four reception staffers
 covering the entrance. Once the initial influx of people is complete, this
@@ -44,9 +46,9 @@ team supervisors and robot kit to the desk; you should get the team supervisor t
 Volunteers will be turning up throughout the competition, it's important to make sure they do what is needed before entering:
 - Strongly recommend that they wear a face covering.
 - Ensure they have filled out an MCF.
-- Ensure they have signed the safeguarding policy.
+- Ensure they have completely read the safeguarding policy (They should have done this beforehand).
 - Ensure they sign in on the sign-in sheet.
-- They need to be provided with a t-shirt.
+- Send them to the Volunteer rest area to get a T-Shirt.
 
 ## Required Items
 
