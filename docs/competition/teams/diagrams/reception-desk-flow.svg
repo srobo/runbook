@@ -34,7 +34,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g32"
+     inkscape:current-layer="id1214_Graphic-9-1-7-1-4"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -696,9 +696,9 @@
       <line
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-2-0)"
          x1="631.53015"
-         y1="162.69492"
+         y1="173.31276"
          x2="631.53015"
-         y2="177.55295"
+         y2="188.17079"
          id="line66-6-8-8-1" />
       <line
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-2)"
@@ -711,7 +711,7 @@
          style="opacity:1;vector-effect:none;fill:#63cadc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect5370-3-95-2-9"
          width="120.03177"
-         height="22.592951"
+         height="33.210789"
          x="573.12317"
          y="142.22437"
          rx="7.5"
@@ -719,7 +719,7 @@
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1214_Graphic-9-1-7-1-7"
-         transform="translate(431.80379,-188.63291)">
+         transform="translate(431.80379,-189.57399)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -727,10 +727,15 @@
            y="345.90375"
            id="text4892-6-66-5-8"><tspan
              sodipodi:role="line"
-             x="201.20343"
+             x="202.50226"
              y="345.90375"
              style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-             id="tspan7153-9">Give them a T-Shirt</tspan></text>
+             id="tspan7153-9">Send them to get </tspan><tspan
+             sodipodi:role="line"
+             x="201.20343"
+             y="358.40375"
+             style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
+             id="tspan8767">a T-Shirt</tspan></text>
       </g>
       <line
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-3)"
@@ -1271,7 +1276,7 @@
            x="68.907074"
            y="181.61269"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994px"
-           id="tspan5573">Over 16?</tspan></text>
+           id="tspan5573">16 or Over?</tspan></text>
       <g
          id="id1209_Graphic-6-0"
          transform="translate(0.28440582,-16.381352)"
@@ -1496,7 +1501,7 @@
              x="151.21808"
              y="358.40375"
              style="font-weight:bold;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-             id="tspan6523">- 2 x Battery</tspan><tspan
+             id="tspan6523">- 1 x Battery</tspan><tspan
              sodipodi:role="line"
              x="151.21808"
              y="370.90375"
@@ -1559,7 +1564,7 @@
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1253_Graphic-2"
-         transform="translate(430.86305,95.16087)">
+         transform="translate(430.86305,105.77871)">
         <rect
            style="opacity:1;vector-effect:none;fill:#68bc36;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
            id="rect4932-8"
@@ -1599,6 +1604,22 @@
              style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
              id="tspan7153-0">They sign in </tspan></text>
       </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+         x="175.98288"
+         y="264.56458"
+         id="text8765"><tspan
+           sodipodi:role="line"
+           id="tspan8763"
+           x="175.98288"
+           y="264.56458"
+           style="stroke-width:0.75">(parent/guardian</tspan><tspan
+           sodipodi:role="line"
+           x="175.98288"
+           y="277.06458"
+           style="stroke-width:0.75"
+           id="tspan8769">signs form)</tspan></text>
     </g>
   </g>
 </svg>
