@@ -34,7 +34,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="id1214_Graphic-9-1-7"
+     inkscape:current-layer="g32"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -919,7 +919,7 @@
            x="75.191002"
            y="137.43462"
            id="tspan111"
-           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">N</tspan>
+           style="font-weight:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal">N</tspan>
       </text>
       <line
          x1="127.04441"
@@ -959,7 +959,7 @@
            x="75.191002"
            y="216.91862"
            id="tspan191"
-           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">N</tspan>
+           style="font-weight:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal">N</tspan>
       </text>
       <path
          d="m 126.54441,252.82863 75.74,0.49244 0.58033,-40.28017"
@@ -978,7 +978,7 @@
            x="131.6564"
            y="246.45863"
            id="tspan197"
-           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">Y</tspan>
+           style="font-weight:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal">Y</tspan>
       </text>
       <line
          x1="68.914406"
@@ -998,7 +998,7 @@
            x="75.191002"
            y="292.70865"
            id="tspan212"
-           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">N</tspan>
+           style="font-weight:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal">N</tspan>
       </text>
       <path
          style="fill:none;stroke:none"
@@ -1056,7 +1056,7 @@
            x="73.406593"
            y="52.557999"
            id="tspan320"
-           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">N</tspan>
+           style="font-weight:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal">N</tspan>
       </text>
       <g
          id="id1253_Graphic"
@@ -1102,7 +1102,7 @@
            x="132.87199"
            y="9.5739965"
            id="tspan335"
-           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">Y</tspan>
+           style="font-weight:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal">Y</tspan>
       </text>
       <text
          xml:space="preserve"
@@ -1197,7 +1197,7 @@
            x="131.1564"
            y="89.192627"
            id="tspan335-9"
-           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue';stroke-width:0.99999994">Y</tspan>
+           style="font-weight:normal;font-size:12px;font-family:'Open Sans';stroke-width:0.99999994;-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal">Y</tspan>
       </text>
       <line
          x1="201.64195"
@@ -1314,7 +1314,7 @@
          style="font-size:12px;fill:#000000;stroke-width:0.99999994"
          id="text36">
         <tspan
-           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue';stroke-width:0.99999994"
+           style="font-weight:normal;font-size:12px;font-family:'Open Sans';stroke-width:0.99999994;-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal"
            font-size="12"
            font-weight="500"
            x="339.55063"
@@ -1341,7 +1341,7 @@
          style="font-size:12px;fill:#000000;stroke-width:0.99999994"
          id="text100">
         <tspan
-           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue';stroke-width:0.99999994"
+           style="font-weight:normal;font-size:12px;font-family:'Open Sans';stroke-width:0.99999994;-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal"
            font-size="12"
            font-weight="500"
            x="392.48865"
