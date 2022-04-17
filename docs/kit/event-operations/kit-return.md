@@ -10,7 +10,7 @@ When fully checked, the supervisor should fill out the [Kit Return Form](https:/
 
 ### Batteries
 
-As we handle charging during the competition, teams will have 1 Battery. We don't want to keep those in the kits as we want to discharge them and place them with all other batteries. Please remove the battery from the kits, check it off the checklist, and place them in a container to be taken back down to battery charging.
+As we handle charging during the competition, teams will have 1 Battery. We don't want to keep those in the kits as we want to discharge them and place them with all other batteries. Please remove the battery from the kits, check it off the checklist, and place them in a container to be taken back down to the battery charging area to be storage charged.
 
 ### Missing Items
 
