@@ -42,7 +42,7 @@ record that their teams have arrived and when they leave you should get the team
 
 # Handling Team Departures
 
-**On Sunday**: If a team tries to leave the competition early (before we have kit return people in place), please grab someone from Helpdesk to act as a kit return handler (see [kit return](../../../kit/event-operations/kit-return/)).
+**On Sunday**: If a team tries to leave the competition early (before we have kit return people in place), please grab someone from Helpdesk to act as a kit return handler (see [kit return](../../../../kit/event-operations/kit-return/)).
 
 # Handling Volunteer Arrivals
 Volunteers will be turning up throughout the competition, it's important to make sure they do what is needed before entering:
