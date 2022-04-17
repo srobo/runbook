@@ -18,8 +18,4 @@ If a kit is not complete, the [Missing Kit Form](https://docs.google.com/documen
 
 [Example email for teams with outstanding single items of kit](https://github.com/srobo/team-emails/blob/master/SR2019/2019-05-28-single-item-kit-chase.md)
 
-If the team cannot find the item of kit, a like-for-like replacement (or as close as possible) should be ordered and shipped to the address listed for [Kit Loan Extension](./kit-loan-extension.md).
-
-## After the competition
-
-Kits being returned after the competition because they didn't attend the competition should follow the [Kit Loan Extension](./kit-loan-extension.md) instructions for returning the kit. **Note: In SR2022 we do not accept kit loan extensions.**
+If the team cannot find the item of kit, a like-for-like replacement (or as close as possible) should be ordered and shipped to us.
