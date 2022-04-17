@@ -40,6 +40,10 @@ record that their teams have arrived and when they leave you should get the team
 		* 1 x Battery charging bag.
 		* 1 x Battery charging Power Supply Unit (PSU).
 
+# Handling Team Departures
+
+**On Sunday**: If a team tries to leave the competition early (before we have kit return people in place), please grab someone from Helpdesk to act as a kit return handler (see [kit return](../../../../kit/event-operations/kit-return/)).
+
 # Handling Volunteer Arrivals
 Volunteers will be turning up throughout the competition, it's important to make sure they do what is needed before entering:
 - Strongly recommend that they wear a face covering.
