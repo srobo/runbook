@@ -24,11 +24,6 @@ teams build their robots; see also _SRnnnn_
 : the group of volunteers responsible for delivering a particular year's
 _Competition programme_
 
-_Core Team_:
-
-: the group of 8 or so volunteers responsible for delivering the _SR2019_
-_Competition programme_; this has since been replaced by the _Competition Team_
-
 _Doing_:
 
 : an event where volunteers work together to progress the tasks of the
@@ -56,10 +51,13 @@ _Mentor_:
 
 : a volunteer who helps teams build their robots
 
-_Shepherd_:
+[_Pull Request (PR)_](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests):
 
-: a volunteer at the competition event who helps ensure teams make it to their
-matches on time
+: the review stage of some changes on GitHub to code or documentation
+
+_Retro_:
+
+: a meeting after an event to discuss the positives, negatives, feedback, and ways to improve for the following year
 
 [_Slack_](https://studentrobotics.slack.com/):
 
@@ -71,7 +69,7 @@ _SR_:
 
 [_SR(A)WN_](./srawn.md):
 
-: Student Robotics (Almost) Weekly Newsletter; a semi-regular newsletter written by volunteers for volunteers.
+: Student Robotics (Almost) Weekly Newsletter; a semi-regular newsletter written by volunteers for volunteers
 
 [_SRComp_](https://github.com/PeterJCLaw/srcomp/wiki):
 
