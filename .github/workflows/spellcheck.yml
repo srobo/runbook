@@ -3,7 +3,7 @@ name: Spellcheck
 on:
   push:
     branches:
-      - "*"
+      - master
   pull_request:
 
 jobs:
