@@ -44,10 +44,12 @@ Every volunteer performing the Battery Charging role must have read this documen
 The biggest risk of damage or injury is from the banana plugs coming unplugged from the charger. These are the red and black plugs that go into the side of the charger. All of the chargers should have the cables cable-tied to the charger to make it difficult to remove these plugs. Under no circumstances should these red and black plugs be unplugged from the chargers.
 
 The batteries themselves have many built-in safety features and, unless abused, are completely safe. All batteries undergoing charging must be placed inside a fireproof charging bag. In the extremely unlikely event of a fire due to a battery:
+
 - DO NOT use a fire extinguisher - the batteries contain hazardous materials which cannot be safely tackled by most fire extinguishers.
 - DO NOT open or attempt to remove anything from the charging bag.
 
 ONLY IF SAFE TO DO SO:
+
 - A fire bucket full of water will be supplied, get the battery into the bucket. This should be performed complete with the charging bag, and any other contents of the charging bag. This battery must not be removed from the bucket.
 - Remove power from all other batteries and chargers, and move all undamaged equipment away from the faulty battery/charger.
 
@@ -96,4 +98,3 @@ If at any point throughout the charging cycle the charger indicates an issue (e.
 At the end of an event batteries should be discharged. The process for this is identical to the charging process except the mode should be changed to "Storage" by pressing the Inc/Dec buttons prior to pressing Start/Enter.
 
 Some damaged batteries may be able to be safely discharged to render them inert before they are disposed of. Check with a member of the Kit Team before doing this. In this instance change the mode to "Discharge".
-
