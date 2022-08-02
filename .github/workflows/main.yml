@@ -80,7 +80,6 @@ jobs:
     if: github.ref_name == 'master'
 
     steps:
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
