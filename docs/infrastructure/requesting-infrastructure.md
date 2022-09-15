@@ -52,8 +52,10 @@ easier to maintain consistency.
 For new accounts please include:
 
 - the full (first & last) name of the volunteer
-- their existing email address (suggest directly messaging this once you have a
-  response rather than including this in a public Slack message)
+- their existing email address (if the volunteer is in slack already then please
+  mention their username and we'll use the email address they use for Slack;
+  otherwise prefer to directly messaging this once you have a response rather
+  than including this in a public Slack message)
 - any email groups they should be part of which are not self service
 
 ## Mythic Beasts
