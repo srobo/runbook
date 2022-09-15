@@ -1,6 +1,6 @@
 # Student Robotics Volunteer Runbook
 
-[![CircleCI](https://circleci.com/gh/srobo/runbook.svg?style=svg)](https://circleci.com/gh/srobo/runbook)
+[![GitHub Actions](https://github.com/srobo/runbook/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/srobo/runbook/actions/workflows/main.yml)
 
 The runbook aims to be a single source for all Student Robotics internal
 documentation. This includes information for the [Competition Team][competition-team]
