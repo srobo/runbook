@@ -58,6 +58,11 @@ For new accounts please include:
   than including this in a public Slack message)
 - any email groups they should be part of which are not self service
 
+Once the volunteer has an account they will be asked to add [other details][volunteer-details]
+to their account for the charity's records.
+
+[volunteer-details]: https://opsmanual.studentrobotics.org/about-the-charity/volunteers#volunteers
+
 ## Mythic Beasts
 
 [Mythic Beasts](https://www.mythic-beasts.com/) are a hosting provider.
