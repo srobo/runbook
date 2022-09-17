@@ -1,0 +1,70 @@
+# Custom spellings for this repo.
+#
+# Keep each section alphabetically sorted.
+
+flaily
+misogynism
+offboarding
+
+# SR specific terms
+blueshirt
+comp-floorplans
+compstate
+floorplan
+helpdesk
+helpdesker
+LKEC
+runbook
+srawn
+SRnnnn
+srobo
+
+# Names
+Cableties
+Dymo
+Gaffertape
+Gilton
+incompetech
+jmorse
+littleblackrouter
+Monstercat
+RTSS
+Spanton
+Startech
+Stormpress
+StudentRobotics
+Turnigy
+Unicol
+Sainsbury's
+
+# Technical things
+Arenanet
+Aruco
+CamCon
+CamCons
+cgit
+compbox
+FDMI # Flat Display Mounting Interface
+HDPE
+IMAX
+libkoki
+Lipo
+MailChimp
+Mixtape
+mkdocs
+Mosquitto
+Namecheap
+Odroid
+overcurrent
+pdfjoin
+PHPBB
+Ruggeduino
+SRComp
+SMPS
+SSID
+undervoltage
+venv
+VESA
+WEEE
+yocto
+zoloto

@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "npm run spell-check",
+    "spell-check": "cspell '**'"
+  },
+  "@comments": [
+    "These dependencies are only for testing the site.",
+    "The site is built with mkdocs so site dependencies should be in the requirements.txt."
+  ],
+  "dependencies": {
+    "cspell": "^6.8.1"
+  }
+}

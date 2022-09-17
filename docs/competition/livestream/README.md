@@ -20,7 +20,7 @@ The hardware requirements for hosting a livestream are not large, however a stab
 
 ## Music
 
-As background music during livesteams, we'll often play quiet music.
+As background music during livestreams, we'll often play quiet music.
 
 For finals events, more dramatic music is played vs other sessions, to emphasize the importance. For finals events, we have heavily used [Monstercat](https://www.monstercat.com/) in the past, and for other events [incompetech](https://incompetech.com/), as these sources can be used without purchasing a licence, provided the required attribution is given.
 

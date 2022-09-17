@@ -43,15 +43,14 @@ Depending on the nature of the event, some of these roles may not be applicable.
 
 ### Helpdesk
 
-- [Battery Charging](./team-support/battery-charging.md)
-- [Battery Shuffler](./team-support/battery-shuffler.md)
+- [Battery Charging](/kit/event-operations/battery-charging.md)
+- [Battery Shuffler](/kit/event-operations/battery-shuffler.md)
 - [Helpdesker](./team-support/helpdesk.md#helpdesk)
 
 ## Reception
 
 - [Photo Studio Manager](./teams/photo-studio.md)
 - [Photo Studio Helper](./teams/photo-studio.md#photo-studio-helper)
-- [Arrival Desk](./teams/role-descriptions/arrival-desk.md)
 - [Crimper](./teams/role-descriptions/crimper.md)
 - [Door Guard](./teams/role-descriptions/door-guard.md)
 - [Kit Return](./teams/role-descriptions/kit-return.md)

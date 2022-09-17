@@ -33,6 +33,35 @@ There are many cases where it should not contain the actual documentation:
   tooling, or recipes for using tooling which are common to us but too specific
   for general documentation.
 
+### Approach
+
+The runbook aims to be organised around the things it documents, rather than the
+organisational structure which may be responsible for that thing.
+This is a deliberate change from the previous structure, which had lead to a
+chicken-and-egg scenario of needing to know what something was and who was
+responsible for it and where the docs for it were in order to find the
+documentation for it.
+It is hoped that this approach will make the documentation more approachable to
+newcomers, for both reading and contributing.
+
+It's worth noting that, as of late 2021, the runbook is still a way off
+achieving this aim as it contains considerable left-over structure & content
+from the previous documentation which it subsumed.
+
+## Ownership
+
+While the runbook contains documentation relevant to the activities of
+all SR teams, no one team owns it any more than any other
+volunteer. Instead the runbook aims to be a collaborative venture by all
+volunteers.
+
+That said, it is expected that contributions to the runbook should seek input
+from volunteers with experience in the relevant area as part of their review
+process. In time, it is hoped that the runbook's review process will support
+this directly, perhaps through the use of GitHub's [code owners][code-owners]
+feature.
+
 [competition-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/competition-team
 [kit-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/kit-team
 [ops-manual]: https://opsmanual.studentrobotics.org
+[code-owners]: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners

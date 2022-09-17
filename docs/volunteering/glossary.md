@@ -24,10 +24,11 @@ teams build their robots; see also _SRnnnn_
 : the group of volunteers responsible for delivering a particular year's
 _Competition programme_
 
-_Core Team_:
+_Doing_:
 
-: the group of 8 or so volunteers responsible for delivering the _SR2019_
-_Competition programme_; this has since been replaced by the _Competition Team_
+: an event where volunteers work together to progress the tasks of the
+organisation, such as preparing for the competition or testing the kit; contrast
+with "meetings" which are typically where discussions happen
 
 [_GitHub_](./git-and-github.md):
 
@@ -36,6 +37,10 @@ _Competition programme_; this has since been replaced by the _Competition Team_
 _Kickstart_:
 
 : the start of the competition year, when we hand out kits to teams
+
+[_Kit Logistics Issue (KLI)_](https://github.com/srobo/kit-logistics/):
+
+: a ticket tracking the assignment of a kit to a team
 
 [_Kit Team_](https://opsmanual.studentrobotics.org/annual-robotics-competition/kit-team):
 
@@ -46,10 +51,13 @@ _Mentor_:
 
 : a volunteer who helps teams build their robots
 
-_Shepherd_:
+[_Pull Request (PR)_](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests):
 
-: a volunteer at the competition event who helps ensure teams make it to their
-matches on time
+: the review stage of some changes on GitHub to code or documentation
+
+_Retro_:
+
+: a meeting after an event to discuss the positives, negatives, feedback, and ways to improve for the following year
 
 [_Slack_](https://studentrobotics.slack.com/):
 
@@ -58,6 +66,10 @@ matches on time
 _SR_:
 
 : an abbreviation for 'Student Robotics'
+
+[_SR(A)WN_](./srawn.md):
+
+: Student Robotics (Almost) Weekly Newsletter; a semi-regular newsletter written by volunteers for volunteers
 
 [_SRComp_](https://github.com/PeterJCLaw/srcomp/wiki):
 
@@ -74,7 +86,7 @@ the year number is the calendar year in which the competition event takes place,
 so SR2019 was the _competition programme_ which ran from November 2018 until
 April 2019
 
-[_Team Kits_](../kit/kit-definition.md):
+[_Team Kits_](../kit/README.md):
 
 : we provide a kit of parts which form the starting point for robots built by
 the competing teams

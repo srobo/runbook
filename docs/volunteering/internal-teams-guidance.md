@@ -2,8 +2,7 @@
 
 Student Robotics has a number of internal teams which contribute to its overall
 mission. The following is guidance based on experience within the Competition
-Team (and its predecessor the Core Team), but which any or all such teams may
-find useful.
+Team, but which any or all such teams may find useful.
 
 ## Communication
 
