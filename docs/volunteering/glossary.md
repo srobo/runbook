@@ -95,3 +95,7 @@ _Tech Day_
 
 : during the _competition year_ we organise events at which the teams can come
 with their robots and get extra help from _mentors_ as well as meet other teams
+
+_TLA_:
+
+: an initialism of 'Three Letter Acronym'. We assign each competitor team a TLA.
