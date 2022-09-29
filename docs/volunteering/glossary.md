@@ -59,6 +59,10 @@ _Retro_:
 
 : a meeting after an event to discuss the positives, negatives, feedback, and ways to improve for the following year
 
+_RUB_:
+
+: an initialism of 'Really Useful Box', a brand of storage box. We use these boxes to store our kit.
+
 [_Slack_](https://studentrobotics.slack.com/):
 
 : an instant-messaging tool we use for quick discussions
