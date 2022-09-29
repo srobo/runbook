@@ -59,6 +59,10 @@ _Retro_:
 
 : a meeting after an event to discuss the positives, negatives, feedback, and ways to improve for the following year
 
+_RUB_:
+
+: an initialism of 'Really Useful Box', a brand of storage box. We use these boxes to store our kit.
+
 [_Slack_](https://studentrobotics.slack.com/):
 
 : an instant-messaging tool we use for quick discussions
@@ -95,3 +99,7 @@ _Tech Day_
 
 : during the _competition year_ we organise events at which the teams can come
 with their robots and get extra help from _mentors_ as well as meet other teams
+
+_TLA_:
+
+: an initialism of 'Three Letter Acronym'. We assign each competing team a TLA.
