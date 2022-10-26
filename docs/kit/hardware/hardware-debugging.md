@@ -2,7 +2,7 @@
 original:
   authors: Will Barber
 ---
-# Kit Debugging
+# Hardware Debugging
 
 Note: The boards pictured below are early prototypes and may differ from the current boards, the are only used to display the locations of the LEDs.
 

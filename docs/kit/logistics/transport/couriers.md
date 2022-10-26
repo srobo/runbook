@@ -8,7 +8,7 @@ original:
 Kit data for couriers:
 
 * Dimensions: 48cm x 39cm x 20cm
-* Weight: 6kg (A kit weighs 4.95kg [ref](../../hardware/kit-definition.md). 6kg gives some headroom)
+* Weight: 6kg (A kit weighs approx. 4.95kg; 6kg gives some headroom)
 * Value (for insurance): £500
 * Batteries: Lithium Ion. Packed with equipment. Batteries less than 100Wh.
 
