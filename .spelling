@@ -7,7 +7,10 @@ misogynism
 offboarding
 
 # SR specific terms
+astctl
 astdiskd
+astmetad
+astprocd
 astwifid
 blueshirt
 comp-floorplans
@@ -49,10 +52,12 @@ CamCon
 CamCons
 cgit
 compbox
+dnsmasq
 FDMI # Flat Display Mounting Interface
 hostapd
 HDPE
 IMAX
+journalctl
 libkoki
 Lipo
 MailChimp
