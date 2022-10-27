@@ -34,7 +34,7 @@ It replaces the previous `sr.robot` library.
 
 The Kit UI is a web-based interface for viewing logs from usercode. It can be accessed by connecting to the robot WiFi hotspot or via the ethernet connection. The web interface also offers some limited modification of the robots environment (zone, mode) and has some controls for running of code.
 
-The Kit UI communicates with Astoria via MQTT using a Websocket.
+The Kit UI communicates with Astoria via MQTT over WebSocket.
 
 ### `j5`
 
