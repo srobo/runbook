@@ -8,7 +8,7 @@ The first port of call with software issues should be the status LEDs on the Bra
 
 Accessing a command prompt on the robot is the first step to digging deeper into many issues on the robot.
 
-1. Connect to the Robot via WiFi or ethernet.
+1. Connect to the Robot via WiFi or [Ethernet](ethernet.md).
 1. You can then SSH to the robot using a terminal (Linux / MacOS) or PuTTY: `ssh root@robot.lan`.
 
 If the DNS isn't working, you can use the IP address of the robot: `ssh root@192.168.32.1`.

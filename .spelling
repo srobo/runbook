@@ -65,6 +65,8 @@ Mixtape
 mkdocs
 Mosquitto
 Namecheap
+nftables
+nmcli  # Network Manager Command Line Interface
 Odroid
 overcurrent
 pdfjoin
@@ -73,6 +75,8 @@ Ruggeduino
 SRComp
 SMPS
 SSID
+udev
+udevadm
 udiskie
 udisks
 undervoltage
