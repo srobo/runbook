@@ -16,6 +16,7 @@
         "/.spelling",
         "/mkdocs.yml",
         "/requirements.txt",
+        "*.drawio",
         "*.graffle",
         "*.svg"
     ]

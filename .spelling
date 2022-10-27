@@ -7,6 +7,8 @@ misogynism
 offboarding
 
 # SR specific terms
+astdiskd
+astwifid
 blueshirt
 comp-floorplans
 compstate
@@ -14,10 +16,13 @@ floorplan
 helpdesk
 helpdesker
 LKEC
+kchd
 runbook
+servohack
 srawn
 SRnnnn
 srobo
+usercode
 
 # Names
 Cableties
@@ -45,6 +50,7 @@ CamCons
 cgit
 compbox
 FDMI # Flat Display Mounting Interface
+hostapd
 HDPE
 IMAX
 libkoki
@@ -62,6 +68,8 @@ Ruggeduino
 SRComp
 SMPS
 SSID
+udiskie
+udisks
 undervoltage
 venv
 VESA
