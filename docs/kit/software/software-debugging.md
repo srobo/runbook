@@ -29,7 +29,6 @@ USB drives are mounted at `/var/run/media/astoria/`
 - `journalctl -fu kchd` - View and follow astwifid and hostapd logs
 - `journalctl -fu servohack` - View and follow astwifid and hostapd logs
 - `cat /var/lib/misc/dnsmasq.leases` - List DHCP leases on robot WiFi
-- `mosquitto_sub -v -t "astoria/#"` - Monitor MQTT Event Bus messages
 
 ### Astoria Specific Commands
 
@@ -45,5 +44,5 @@ USB drives are mounted at `/var/run/media/astoria/`
 
 ### Misc
 
-- `nft -f /etc/nftables` - Reload firewall
-- `nano /etc/nftables` - Edit the firewall configuration
+- `nft -f /etc/nftables.conf` - Reload firewall
+- `nano /etc/nftables.conf` - Edit the firewall configuration
