@@ -25,19 +25,19 @@ If the Pi fails to boot, the `ACT` LED should flash in a pattern, listed below. 
 | Long Flashes | Short Flashes | Status                        | Probable reason                       |
 |--------------|---------------|-------------------------------|---------------------------------------|
 | 0            | 3             | Generic failure to boot       | Unknown                               |
-| 0            | 4             | start*.elf not found          | Corrupted SD Card. Reflash            |
-| 0            | 7             | Kernel image not found        | Corrupted SD Card. Reflash            |
+| 0            | 4             | start*.elf not found          | Corrupted SD Card. Re-flash           |
+| 0            | 7             | Kernel image not found        | Corrupted SD Card. Re-flash           |
 | 0            | 8             | SDRAM failure                 | Hardware failure                      |
 | 0            | 9             | Insufficient SDRAM            | Fluke. Try rebooting                  |
 | 0            | 10            | In HALT state                 | Pi was shut down.                     |
-| 2            | 1             | Partition not FAT             | Corrupted SD Card. Reflash            |
-| 2            | 2             | Failed to read from partition | Corrupted SD Card. Reflash            |
-| 2            | 3             | Extended partition not FAT    | Corrupted SD Card. Reflash            |
-| 2            | 4             | File signature/hash mismatch  | Corrupted SD Card. Reflash            |
+| 2            | 1             | Partition not FAT             | Corrupted SD Card. Re-flash           |
+| 2            | 2             | Failed to read from partition | Corrupted SD Card. Re-flash           |
+| 2            | 3             | Extended partition not FAT    | Corrupted SD Card. Re-flash           |
+| 2            | 4             | File signature/hash mismatch  | Corrupted SD Card. Re-flash           |
 | 3            | 1             | SPI EEPROM error              | Reboot. If persists, use recovery.bin |
 | 3            | 2             | SPI EEPROM is write protected | Fluke. Try rebooting                  |
 | 3            | 3             | I2C error                     | Fluke. Try rebooting                  |
-| 3            | 4             | Invalid secure-boot config    | Corrupted SD Card. Reflash            |
+| 3            | 4             | Invalid secure-boot config    | Corrupted SD Card. Re-flash           |
 | 4            | 4             | Unsupported board type        | Corrupted EEPROM. Use recovery.bin    |
 | 4            | 5             | Fatal firmware error          | Corrupted EEPROM. Use recovery.bin    |
 | 4            | 6             | Power failure type A          | Hardware failure                      |

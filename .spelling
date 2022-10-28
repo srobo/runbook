@@ -54,6 +54,7 @@ cgit
 compbox
 dnsmasq
 FDMI # Flat Display Mounting Interface
+GPIO
 hostapd
 HDPE
 IMAX
