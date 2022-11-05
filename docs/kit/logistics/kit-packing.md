@@ -67,14 +67,14 @@ After the tracked parts have been moved in the Inventory the box contents should
 
 ## JIFFY
 
-A checked kit (one that has a completed check list in it) is ready to have its parts safely wrapped for transport. This is done by putting the vulnerable parts of the kit into Jiffy bags. There are two sizes of Jiffy bags: small brown ones and large white ones. Place the following parts into the specified bags and do NOT seal them. Place the filled bags back into the box.
+A checked kit (one that has a completed check list in it) is ready to have its parts safely wrapped for transport. This is done by putting the vulnerable parts of the kit into Jiffy bags. There are two sizes of Jiffy bags: small (size 0) ones and large (size 1) ones. Place the following parts into the specified bags and do NOT seal them. Place the filled bags back into the box.
 
-* Small brown: 2x motor boards, 1x ruggeduino
-* Small brown: 1x power board, 1x servo board, 2x WiFi dongles, 1x USB stick
-* Small brown: 2x USB hubs, 1x Odroid
-* Large white: 1x tablet
-* Large white: 1x battery charger
-* Large white: 1x battery charger PSU, 1x webcam, 1x tablet charger
+* Small: 2x motor boards, 1x ruggeduino
+* Small: 1x power board, 1x servo board, 2x WiFi dongles, 1x USB stick
+* Small: 2x USB hubs, 1x Odroid
+* Large: 1x tablet
+* Large: 1x battery charger
+* Large: 1x battery charger PSU, 1x webcam, 1x tablet charger
 
 ## PACK
 
