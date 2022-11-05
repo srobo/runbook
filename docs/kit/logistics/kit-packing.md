@@ -78,9 +78,14 @@ A checked kit (one that has a completed check list in it) is ready to have its p
 
 ## PACK
 
+Heavier items should go at the bottom, this both avoids damage to lighter ones and ensures the boxes stay the right way up.
+
 To prevent the Jiffy bags and remaining parts from moving around too much in transit the empty space needs to be filled. This is done by tearing off a few metres of brown paper from a roll and scrunching it up. Some scrunched paper should be placed at the bottom of the box. The parts should be placed on top of this and finally a layer of scrunched paper should be placed on the top.
+RUBs should be slightly over-filled with void-fill in order to allow for settling and prevent movement in transit.
 
 The lid should be secured with two cable ties through the lids/handles in diagonally opposite corners.
+
+If packing RUBs into outer carboard boxes: the RUB should be in the center of the cardboard box, with equal void-fill around all sides. This helps reduce the chance of damage.
 
 ## PALLET
 
