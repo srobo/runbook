@@ -85,7 +85,7 @@ RUBs should be slightly over-filled with void-fill in order to allow for settlin
 
 The lid should be secured with two cable ties through the lids/handles in diagonally opposite corners.
 
-If packing RUBs into outer carboard boxes: the RUB should be in the center of the cardboard box, with equal void-fill around all sides. This helps reduce the chance of damage.
+If packing RUBs into outer cardboard boxes: the RUB should be in the center of the cardboard box, with equal void-fill around all sides. This helps reduce the chance of damage.
 
 ## PALLET
 
