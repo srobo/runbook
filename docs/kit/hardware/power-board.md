@@ -15,7 +15,7 @@
     - lit when the 5V output is enabled and functional, this is connected to the 5V regulator output. The 5V is enabled whenever the board is powered on and not in any undervoltage-lockout or overcurrent situation. The 5V rail current is not currently monitored so this light going off without the whole board turning of means the regulator has been overloaded (4.2A typical).
 - DS3-8 - red/green
     - green is lit when an output is enabled, this is connected to the rail so shows the actual state of the output.
-    - red is lit when the port exceeds its current limit.
+    - red is lit when the port exceeds its current limit, which is latching.
 - DS9 - red/green, run/error
     - green is lit initially and during USB reset. This LED can be controlled over the USB.
     - red is lit initially and during USB reset. This LED can be controlled over the USB.

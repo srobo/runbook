@@ -10,7 +10,7 @@ The LEDs on the KCH can also provide indication as to the state of the Raspberry
 
 The red `PWR` LED broadly indicates that there is 5V power to the Raspberry Pi.
 
-Unlike other RPI, on a RPI4 the `PWR` LED is fully under the control of a GPIO expander, and when booting this IO expander is reset, causing the `PWR` LED to blink off on reboot. On booting the bootloader enables it again.
+Unlike other Raspberry Pi models, on a Raspberry Pi 4 the `PWR` LED is fully under the control of a GPIO expander, and when booting this IO expander is reset, causing the `PWR` LED to blink off on reboot. On booting the bootloader enables it again.
 
 But if the PWR LED goes off (blinks) at any other time it means have an unfit power supply/power cable. 
 
@@ -20,7 +20,9 @@ In short, the PWR LED should be always on except for a very short time just befo
 
 The green `ACT` LED will flash "randomly" during normal usage and indicates access to the SD card.
 
-If the Pi fails to boot, the `ACT` LED should flash in a pattern, listed below. If the `ACT` LED does not turn on, even though the `PWR` LED does, this indicates that the EEPROM is corrupt. It may be fixed using the `recovery.bin` method, which can be performed using [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
+If the Pi fails to boot, the `ACT` LED should flash in a pattern. If the `ACT` LED does not turn on, even though the `PWR` LED does, this indicates that the EEPROM is corrupt. It may be fixed using the `recovery.bin` method, which can be performed using [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
+
+The `ACT` LED patterns are listed in a table below, which was compiled from a variety of sources. The probable reasons have been written specifically for the runbook.
 
 | Long Flashes | Short Flashes | Status                        | Probable reason                       |
 |--------------|---------------|-------------------------------|---------------------------------------|

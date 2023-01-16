@@ -29,13 +29,14 @@ There are 5 green LEDs that are a "progress bar" of boot progress on the KCH. Ea
     - This LED will turn on with any valid Raspberry Pi distro.
 - 40%
     - This LED is turned on by [`boot_40.service`](https://github.com/srobo/robot-image/blob/main/sources/meta-srobo/recipes-robot/python-astoria/astoria-config/boot_40.service), which runs in the early stages of systemd (`basic.target`).
-    - This LED indicates that the filesystem on the SD card is valid.
+    - This LED indicates that the filesystem structure on the SD card is valid.
     - It also indicates that the SD card contains a Student Robotics OS image.
 - 60%
     - This LED is controlled by [`kchd`](../../software/#kch-daemon-kchd) and indicates `kchd` is running.
     - If this LED has turned on, most of the operating system is loaded and behaving correctly.
 - 80%
-    - This LED is turned on when the MQTT Event Broker is running
+    - This LED is turned on when `kchd` has connected to the MQTT broker.
+    - This indicates that the robot's event bus is functioning.
 - 100%
     - This LED is turned on when all critical astoria services are loaded and running.
     - It will turn off if any of the services stop or crash.
@@ -44,7 +45,7 @@ There are 5 green LEDs that are a "progress bar" of boot progress on the KCH. Ea
 
 The following LEDs are driven by GPIO on the Raspberry Pi and indicate the status of the robot.
 
-All except the `Start` and Heartbeat LED are controlled by [`kchd`](../../software/#kch-daemon-kchd). If `kchd` is not running, these LEDs will not light up. Check the boot progress LEDs to confirm.
+All except the `Start` and Heartbeat LED are controlled by [`kchd`](../../software/#kch-daemon-kchd). If `kchd` is not running, these LEDs will not light up. Check the 60% boot progress LED to confirm that `kchd` is running.
 
 - `Code` (Green)
     - Enabled when a USB drive containing a usercode file (`robot.py`) is mounted.
