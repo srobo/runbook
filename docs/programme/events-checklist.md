@@ -19,6 +19,7 @@ considered when planning events.
     - consider travel & parking
     - consider power & internet access
     - consider accommodation (if major event)
+    - consider volunteer availability
 - Finalise the date
 - Prepare a risk assessment (add to https://studentrobotics.org/risk-assessments/)
 
