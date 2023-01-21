@@ -7,6 +7,10 @@ This section outlines the running that programme, though note that some aspects
 (notably the competition event and [competitor teams][teams]) are large enough
 to have their own sections.
 
+The management of the programme falls within the remit of the Competition
+Committee, which is responsible for the overall direction of the programme.
+Specific areas are usually delegated to [area owners][area-owners].
+
 ## Timeline
 
 * Kickstart, usually around October/November
@@ -15,3 +19,4 @@ to have their own sections.
 
 [teams]: ../teams/README.md
 [competition-event]: ../competition/README.md
+[area-owners]: area-owners.md
