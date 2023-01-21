@@ -12,7 +12,7 @@ The red `PWR` LED broadly indicates that there is 5V power to the Raspberry Pi.
 
 Unlike other Raspberry Pi models, on a Raspberry Pi 4 the `PWR` LED is fully under the control of a GPIO expander, and when booting this IO expander is reset, causing the `PWR` LED to blink off on reboot. On booting the bootloader enables it again.
 
-But if the PWR LED goes off (blinks) at any other time it means have an unfit power supply/power cable. 
+However, if the `PWR` LED goes off (blinks) at any other time it means have an unfit power supply/power cable. 
 
 In short, the PWR LED should be always on except for a very short time just before a reboot happens.
 
