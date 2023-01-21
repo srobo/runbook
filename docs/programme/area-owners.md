@@ -18,6 +18,7 @@ Responsibilities:
 * Area wardens
 * Fire safety
 * Overnight safety at venues
+* Power tools area
 
 ## Media / Press
 
@@ -47,7 +48,6 @@ Responsibilities:
 * Microgames
 * Discord bot & moderation
 * Tech day content/structure
-* Power tools area
 
 ## Teams
 
