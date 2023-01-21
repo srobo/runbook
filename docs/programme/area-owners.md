@@ -131,7 +131,7 @@ Responsibilities:
 * Recruiting
 * Instructing volunteers
 * Inductions
-* Volunteer wellbeing (incl. breaks, refreshments)
+* Volunteer well-being (incl. breaks, refreshments)
 * Volunteer rest area
 * Volunteer meals (end of day)
 * Bins
