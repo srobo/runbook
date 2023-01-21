@@ -1,6 +1,7 @@
 # Event organisation
 
-This checklist enumerates the tasks that need to be completed to run a generic event.
+This checklist provides a starting point for the tasks that need to be completed
+to run a generic event.
 
 ## Timings
 
