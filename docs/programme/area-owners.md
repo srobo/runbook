@@ -135,9 +135,7 @@ Responsibilities:
 * Volunteer well-being (incl. breaks, refreshments)
 * Volunteer rest area
 * Volunteer meals (end of day)
-* Bins
-* Sanitation
-* Cleaning
+* Provision of bins, sanitation, and cleaning
 * Reimbursement
 
 ## Simulator
