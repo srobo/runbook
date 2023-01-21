@@ -2,7 +2,7 @@ site_name: Student Robotics Volunteer Runbook
 site_url: https://studentrobotics.org/runbook/
 repo_url: https://github.com/srobo/runbook
 strict: true
-edit_uri: edit/master/docs/
+edit_uri: edit/main/docs/
 theme:
   logo:
     icon: library_books
