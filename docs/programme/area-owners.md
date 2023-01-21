@@ -88,7 +88,7 @@ Responsibilities:
 * Make venue secure & safe overnight
 * In-venue signage
 
-## Live streaming
+## Live streaming
 
 Responsibilities:
 
