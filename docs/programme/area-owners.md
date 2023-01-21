@@ -33,7 +33,7 @@ Responsibilities:
 * Wristbands/lanyards
 * Reception
 * Media consent arrangements
-* Website (NB srcomp)
+* Website (except srcomp)
 
 ## Mentoring
 
