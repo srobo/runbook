@@ -10,7 +10,8 @@
     ],
     "dictionaries": ["en-gb", "python", "project-words"],
     "ignorePaths": [
-        "env",
+        "/env",
+        "/venv",
         "/node_modules",
         "/site",
         "/cspell.json",
