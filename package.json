@@ -1,4 +1,5 @@
 {
+  "name": "runbook",
   "scripts": {
     "test": "npm run spell-check",
     "spell-check": "cspell '**'"
