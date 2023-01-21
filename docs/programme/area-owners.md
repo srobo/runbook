@@ -101,7 +101,7 @@ Responsibilities:
 
 Responsibilities:
 
-* Prizegiving ceremony
+* Prize-giving ceremony
 * Kickstart talk
 * Competition briefings
 * In-competition announcements
