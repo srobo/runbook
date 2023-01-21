@@ -51,6 +51,21 @@ mkdocs build
 
 This will build the site once, and place it in `site/` in the root of the project. This may be useful to see which files are rendered, and how exactly to access them.
 
+### Spell checking
+
+This project uses [CSpell](https://cspell.org/) for spell checking. Plugins are
+available for a variety of editors and a command line runner is available
+through `npm`:
+
+```
+npm install
+```
+
+```
+npm run spell-check
+```
+
+Words that CSpell is unaware of can be added to the `.spelling` file.
 
 ## License
 
