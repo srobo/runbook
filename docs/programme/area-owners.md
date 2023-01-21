@@ -66,7 +66,7 @@ Responsibilities:
 * Kit handout
 * Replacements
 * Documentation
-* Handback/recovery/return
+* Hand-back/recovery/return
 * Overnight kit loans
 * Second-line support
 * Battery charging
