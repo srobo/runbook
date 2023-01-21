@@ -88,13 +88,13 @@ Responsibilities:
 * Make venue secure & safe overnight
 * In-venue signage
 
-## Live streaming
+## Livestreaming
 
 Responsibilities:
 
-* Live stream
-* Live stream tech
-* Live stream commentators
+* Livestream
+* Livestream tech
+* Livestream commentators
 * Virtual competition broadcast
 
 ## Production
