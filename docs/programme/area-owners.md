@@ -17,6 +17,7 @@ Responsibilities:
 * Risk assessments
 * Area wardens
 * Fire safety
+* Overnight safety at venues
 
 ## Media / Press
 
@@ -85,7 +86,7 @@ Responsibilities:
 * In-venue audio
 * Arena props & build
 * Map
-* Make venue secure & safe overnight
+* Make venue secure overnight
 * In-venue signage
 
 ## Livestreaming
