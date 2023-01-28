@@ -56,7 +56,8 @@ For new accounts please include:
   mention their username and we'll use the email address they use for Slack;
   otherwise prefer to directly messaging this once you have a response rather
   than including this in a public Slack message)
-- any email groups they should be part of which are not self service
+- any email groups they should be part of which are not self service (all
+  volunteers are always added to the "Volunteers" group)
 
 Once the volunteer has an account they will be asked to add [other details][volunteer-details]
 to their account for the charity's records.
