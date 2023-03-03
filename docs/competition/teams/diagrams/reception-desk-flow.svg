@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   viewBox="0 0 694.50472 415.98834"
-   width="57.875393pc"
-   height="34.665695pc"
+   viewBox="0 0 434.06841 286.76731"
+   width="36.172367pc"
+   height="23.897276pc"
    id="svg2"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="reception-desk-flow.svg">
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="reception-desk-flow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,20 +29,22 @@
      id="namedview337"
      showgrid="false"
      inkscape:zoom="0.98890193"
-     inkscape:cx="470.98932"
-     inkscape:cy="309.13118"
-     inkscape:window-x="-8"
+     inkscape:cx="172.91907"
+     inkscape:cy="268.47961"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="id1214_Graphic-9-1-7-1-4"
+     inkscape:current-layer="g32"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pc">
     <sodipodi:guide
-       position="476.40722,416.24083"
+       position="220.4709,287.0198"
        orientation="0,1"
        id="guide8389"
        inkscape:locked="false" />
@@ -55,7 +57,6 @@
     <dc:format>image/svg+xml</dc:format>
     <dc:type
        rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title></dc:title>
   </cc:Work>
 </rdf:RDF>
 </metadata>
@@ -71,7 +72,7 @@
        inkscape:stockid="TriangleOutL">
       <path
          transform="scale(0.8)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path6620"
          inkscape:connector-curvature="0" />
@@ -87,7 +88,7 @@
       <path
          id="path4628"
          d="M 5.77,0 -2.88,5 V -5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="scale(0.8)"
          inkscape:connector-curvature="0" />
     </marker>
@@ -102,7 +103,7 @@
       <path
          id="path4489"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          inkscape:connector-curvature="0" />
     </marker>
@@ -264,7 +265,7 @@
          inkscape:connector-curvature="0"
          id="path4628-2"
          d="M 5.77,0 -2.88,5 V -5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="scale(0.8)" />
     </marker>
     <marker
@@ -631,7 +632,7 @@
   <g
      id="g26"
      style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
-     transform="translate(-9.738061,74.823647)">
+     transform="translate(-265.67438,74.823647)">
     <title
        id="title28">Reception Desk Flow</title>
     <g
@@ -639,73 +640,41 @@
       <title
          id="title34">Layer 1</title>
       <line
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-2-0-1)"
-         x1="462.59277"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-2-0-1)"
+         x1="478.93347"
          y1="133.79211"
-         x2="462.59277"
+         x2="478.93347"
          y2="148.65015"
          id="line66-6-8-8-1-5" />
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1253_Graphic-2-3"
          transform="translate(261.92568,66.258065)">
-        <rect
-           style="opacity:1;vector-effect:none;fill:#68bc36;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect4932-8-9"
-           width="115.02777"
-           height="53.443596"
-           x="145.15817"
-           y="92.241997"
-           rx="19.038"
-           ry="19.038" />
         <text
            id="text327-1-2"
            style="line-height:0%;fill:#000000"
            x="151.52649"
-           y="98.859192">
-          <tspan
+           y="98.859192"><tspan
              font-size="10"
              font-weight="500"
              x="166.51917"
              y="108.85919"
              id="tspan329-8-3"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">Allow Entry</tspan>
-        </text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75"
-           x="202.56845"
-           y="123.22323"
-           id="text8747"><tspan
-             sodipodi:role="line"
-             x="203.60751"
-             y="123.22323"
-             style="font-weight:bold;font-size:8px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-             id="tspan8749">Follow 'Person Arrives' </tspan><tspan
-             sodipodi:role="line"
-             x="202.56845"
-             y="135.72324"
-             style="font-weight:bold;font-size:8px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-             id="tspan8757">for each team member.</tspan><tspan
-             sodipodi:role="line"
-             x="202.56845"
-             y="148.22324"
-             style="font-weight:bold;font-size:8px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-             id="tspan8751" /></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">Allow Entry</tspan></text>
       </g>
       <line
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-2-0)"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-2-0)"
          x1="631.53015"
-         y1="173.31276"
+         y1="111.81276"
          x2="631.53015"
-         y2="188.17079"
+         y2="126.67079"
          id="line66-6-8-8-1" />
       <line
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-2)"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-2)"
          x1="633.13904"
-         y1="117.8193"
+         y1="56.319298"
          x2="633.13904"
-         y2="132.67732"
+         y2="71.177322"
          id="line66-6-8-8" />
       <rect
          style="opacity:1;vector-effect:none;fill:#63cadc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
@@ -713,13 +682,13 @@
          width="120.03177"
          height="33.210789"
          x="573.12317"
-         y="142.22437"
+         y="80.724373"
          rx="7.5"
          ry="7.4999995" />
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1214_Graphic-9-1-7-1-7"
-         transform="translate(431.80379,-189.57399)">
+         transform="translate(431.80379,-251.07399)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -727,7 +696,7 @@
            y="345.90375"
            id="text4892-6-66-5-8"><tspan
              sodipodi:role="line"
-             x="202.50226"
+             x="201.20343"
              y="345.90375"
              style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
              id="tspan7153-9">Send them to get </tspan><tspan
@@ -738,11 +707,11 @@
              id="tspan8767">a T-Shirt</tspan></text>
       </g>
       <line
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-3)"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-3)"
          x1="633.13904"
-         y1="77.061905"
+         y1="15.561905"
          x2="633.13904"
-         y2="91.919907"
+         y2="30.419907"
          id="line66-6-8-2" />
       <rect
          style="opacity:1;vector-effect:none;fill:#63cadc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
@@ -750,29 +719,22 @@
          width="119.96862"
          height="21.520388"
          x="573.15479"
-         y="101.46696"
+         y="39.966957"
          rx="7.4999995"
          ry="7.4999995" />
-      <line
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9)"
-         x1="633.13904"
-         y1="20.752314"
-         x2="633.13904"
-         y2="35.610317"
-         id="line66-6-8" />
       <rect
          style="opacity:1;vector-effect:none;fill:#63cadc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect5370-3-95-2"
          width="120.03177"
          height="37.072559"
          x="573.12317"
-         y="45.157368"
+         y="-16.342632"
          rx="7.5"
          ry="7.4999995" />
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1214_Graphic-9-1-7-1"
-         transform="translate(431.70857,-285.86244)">
+         transform="translate(431.70857,-347.36244)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -791,7 +753,7 @@
              id="tspan7153">safeguarding policy</tspan></text>
       </g>
       <line
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4)"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4)"
          x1="633.13904"
          y1="-39.374454"
          x2="633.13904"
@@ -807,35 +769,10 @@
          rx="19.038004"
          ry="19.038" />
       <path
-         style="fill:#63cadc;fill-opacity:1;stroke:none;stroke-width:0.99974996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#63cadc;fill-opacity:1;stroke:none;stroke-width:0.99975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0"
          id="path306-6"
          d="m 329.74664,-14.43861 57.63,27.242 -57.63,27.241999 -57.63,-27.241999 z" />
-      <line
-         x1="201.64195"
-         y1="156.76421"
-         x2="201.64195"
-         y2="123.43976"
-         id="line314-8-9"
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-4-3)" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#63cadc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect5370"
-         width="90"
-         height="36"
-         x="155.56938"
-         y="76.886131"
-         rx="7.5"
-         ry="7.5" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#bc3636;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect4932-9-1"
-         width="117.35037"
-         height="36.000008"
-         x="9.738061"
-         y="305.16467"
-         rx="19.038"
-         ry="19.038" />
       <g
          id="g36"
          transform="translate(0,-96)">
@@ -891,450 +828,31 @@
            xlink:href="#id1253_Graphic"
            filter="url(#Shadow)" />
       </g>
-      <g
-         id="id1209_Graphic"
-         transform="translate(0.28440636,-175.34937)"
-         style="fill:#63cadc;fill-opacity:1;stroke:none">
-        <path
-           d="M 68.63,241.968 126.26,269.21 68.63,296.452 11,269.21 Z"
-           id="path82"
-           inkscape:connector-curvature="0"
-           style="fill:#63cadc;fill-opacity:1;stroke:none" />
-        <path
-           d="M 68.63,241.968 126.26,269.21 68.63,296.452 11,269.21 Z"
-           id="path84"
-           inkscape:connector-curvature="0"
-           style="fill:#63cadc;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
-      </g>
-      <line
-         x1="68.914406"
-         y1="121.10262"
-         x2="68.914406"
-         y2="136.20262"
-         id="line107"
-         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
-      <text
-         id="text109"
-         x="75.023003"
-         y="126.43462"
-         style="line-height:0%;fill:#000000">
-        <tspan
-           font-size="12"
-           font-weight="500"
-           x="75.191002"
-           y="137.43462"
-           id="tspan111"
-           style="font-weight:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal">N</tspan>
-      </text>
-      <line
-         x1="127.04441"
-         y1="173.34462"
-         x2="146.16042"
-         y2="173.34462"
-         id="line145"
-         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
-      <text
-         id="text147"
-         x="130.28441"
-         y="157.67662"
-         style="line-height:0%;fill:#000000">
-        <tspan
-           font-size="12"
-           font-weight="500"
-           x="130.39641"
-           y="168.67662"
-           id="tspan149"
-           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">Y</tspan>
-      </text>
-      <line
-         x1="68.914406"
-         y1="200.58662"
-         x2="68.914406"
-         y2="215.68663"
-         id="line187"
-         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
-      <text
-         id="text189"
-         x="75.023003"
-         y="205.91862"
-         style="line-height:0%;fill:#000000">
-        <tspan
-           font-size="12"
-           font-weight="500"
-           x="75.191002"
-           y="216.91862"
-           id="tspan191"
-           style="font-weight:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal">N</tspan>
-      </text>
-      <path
-         d="m 126.54441,252.82863 75.74,0.49244 0.58033,-40.28017"
-         id="path193"
-         inkscape:connector-curvature="0"
-         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)"
-         sodipodi:nodetypes="ccc" />
-      <text
-         id="text195"
-         x="131.5444"
-         y="235.45863"
-         style="line-height:0%;fill:#000000">
-        <tspan
-           font-size="12"
-           font-weight="500"
-           x="131.6564"
-           y="246.45863"
-           id="tspan197"
-           style="font-weight:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal">Y</tspan>
-      </text>
-      <line
-         x1="68.914406"
-         y1="280.07065"
-         x2="68.914406"
-         y2="295.17062"
-         id="line208"
-         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
-      <text
-         id="text210"
-         x="75.023003"
-         y="281.70865"
-         style="line-height:0%;fill:#000000">
-        <tspan
-           font-size="12"
-           font-weight="500"
-           x="75.191002"
-           y="292.70865"
-           id="tspan212"
-           style="font-weight:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal">N</tspan>
-      </text>
-      <path
-         style="fill:none;stroke:none"
-         inkscape:connector-curvature="0"
-         id="path304"
-         d="M 68.63,-13 126.26,14.242 68.63,41.484 11,14.242 Z" />
-      <path
-         style="fill:#63cadc;fill-opacity:1;stroke:none;stroke-width:0.99975002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:connector-curvature="0"
-         id="path306"
-         d="M 68.63,-13 126.26,14.242 68.63,41.484 11,14.242 Z" />
       <text
          style="line-height:0%;fill:#000000"
          id="text308"
          x="31.560101"
          y="1.69716" />
       <text
-         id="text5128"
-         y="8.4954071"
-         x="68.747185"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-         xml:space="preserve"><tspan
-           style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-           y="8.4954071"
-           x="70.046013"
-           id="tspan5126"
-           sodipodi:role="line">Has </tspan><tspan
-           id="tspan5130"
-           style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-           y="20.995407"
-           x="68.747185"
-           sodipodi:role="line">Wristband?</tspan></text>
-      <line
-         x1="68.629997"
-         y1="41.983994"
-         x2="68.629997"
-         y2="56.584"
-         id="line314"
-         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
-      <line
-         x1="68.629997"
-         y1="-38"
-         x2="68.629997"
-         y2="-22.900002"
-         id="line316"
-         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
-      <text
-         id="text318"
-         x="73.238594"
-         y="41.557999"
-         style="line-height:0%;fill:#000000">
-        <tspan
-           font-size="12"
-           font-weight="500"
-           x="73.406593"
-           y="52.557999"
-           id="tspan320"
-           style="font-weight:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal">N</tspan>
-      </text>
-      <g
-         id="id1253_Graphic"
-         transform="translate(0,-96)">
-        <rect
-           style="opacity:1;vector-effect:none;fill:#68bc36;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect4932"
-           width="90"
-           height="36.000008"
-           x="155.776"
-           y="92.241997"
-           rx="19.038"
-           ry="19.038" />
-        <text
-           id="text327"
-           style="line-height:0%;fill:#000000"
-           x="151.52649"
-           y="103.35919">
-          <tspan
-             font-size="10"
-             font-weight="500"
-             x="166.51917"
-             y="113.35919"
-             id="tspan329"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">Allow Entry</tspan>
-        </text>
-      </g>
-      <line
-         x1="126.76"
-         y1="14.241997"
-         x2="145.87601"
-         y2="14.241997"
-         id="line331"
-         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
-      <text
-         id="text333"
-         x="132.75999"
-         y="-1.4260025"
-         style="line-height:0%;fill:#000000">
-        <tspan
-           font-size="12"
-           font-weight="500"
-           x="132.87199"
-           y="9.5739965"
-           id="tspan335"
-           style="font-weight:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal">Y</tspan>
-      </text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:0%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="68.907082"
-         y="88.128693"
-         id="text4474"><tspan
-           sodipodi:role="line"
-           x="68.907082"
-           y="88.128693"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ffffff;fill-opacity:1"
-           id="tspan4478">Has Media</tspan><tspan
-           sodipodi:role="line"
-           x="68.907082"
-           y="100.62869"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ffffff;fill-opacity:1"
-           id="tspan5136">Consent Form?</tspan></text>
-      <g
-         style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
-         id="id1214_Graphic-9"
-         transform="translate(-0.24586487,-253.51762)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-           x="201.20343"
-           y="345.90375"
-           id="text4892"><tspan
-             sodipodi:role="line"
-             id="tspan4890"
-             x="202.50226"
-             y="345.90375"
-             style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75">Give them </tspan><tspan
-             sodipodi:role="line"
-             x="201.20343"
-             y="358.40375"
-             style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-             id="tspan4894">a Wristband</tspan></text>
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-         x="68.423012"
-         y="320.66467"
-         id="text5006"><tspan
-           sodipodi:role="line"
-           id="tspan5004"
-           x="69.72184"
-           y="320.66467"
-           style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75">Call Competition </tspan><tspan
-           sodipodi:role="line"
-           x="68.423012"
-           y="333.16467"
-           style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-           id="tspan5008">Event Co-ordinator</tspan></text>
-      <rect
-         style="opacity:1;vector-effect:none;fill:#68bc36;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect4932-91"
-         width="105.16835"
-         height="36.000008"
-         x="19.837915"
-         y="-74"
-         rx="19.038"
-         ry="19.038" />
-      <text
-         id="text327-6"
-         style="font-size:12px;line-height:0%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-dasharray:none;stroke-opacity:1"
-         x="13.151976"
-         y="-61.499996">
-        <tspan
-           font-size="10"
-           font-weight="500"
-           x="28.144651"
-           y="-51.499996"
-           id="tspan329-6"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994">Person Arrives</tspan>
-      </text>
-      <line
-         x1="126.5444"
-         y1="93.860626"
-         x2="145.66042"
-         y2="93.860626"
-         id="line331-0"
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-6)" />
-      <text
-         id="text333-6"
-         x="131.0444"
-         y="78.192635"
-         style="font-size:12px;line-height:0%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-dasharray:none;stroke-opacity:1">
-        <tspan
-           font-size="12"
-           font-weight="500"
-           x="131.1564"
-           y="89.192627"
-           id="tspan335-9"
-           style="font-weight:normal;font-size:12px;font-family:'Open Sans';stroke-width:0.99999994;-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal">Y</tspan>
-      </text>
-      <line
-         x1="201.64195"
-         y1="76.031097"
-         x2="201.64195"
-         y2="42.706642"
-         id="line314-8"
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-4)" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#63cadc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect5370-9"
-         width="90"
-         height="47.261917"
-         x="156.10567"
-         y="156.25583"
-         rx="7.5"
-         ry="7.5" />
-      <g
-         style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
-         id="id1214_Graphic-9-7"
-         transform="translate(-0.17344666,-174.76696)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-           x="201.20343"
-           y="345.90375"
-           id="text4892-8"><tspan
-             sodipodi:role="line"
-             x="201.20343"
-             y="345.90375"
-             style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-             id="tspan5529">Make them</tspan><tspan
-             sodipodi:role="line"
-             x="201.20343"
-             y="358.40375"
-             style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-             id="tspan5535">fill out a Media</tspan><tspan
-             sodipodi:role="line"
-             x="201.20343"
-             y="370.90375"
-             style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-             id="tspan5539">Consent Form</tspan></text>
-      </g>
-      <g
-         id="id1209_Graphic-6"
-         transform="translate(0.28440582,-95.865376)"
-         style="fill:#63cadc;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
-        <path
-           d="M 68.63,241.968 126.26,269.21 68.63,296.452 11,269.21 Z"
-           id="path82-4"
-           inkscape:connector-curvature="0"
-           style="fill:#63cadc;fill-opacity:1;stroke:none" />
-        <path
-           d="M 68.63,241.968 126.26,269.21 68.63,296.452 11,269.21 Z"
-           id="path84-3"
-           inkscape:connector-curvature="0"
-           style="fill:#63cadc;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         x="68.907074"
-         y="169.11269"
-         id="text4474-9"><tspan
-           sodipodi:role="line"
-           x="68.907074"
-           y="169.11269"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994px"
-           id="tspan5136-0">Are they</tspan><tspan
-           sodipodi:role="line"
-           x="68.907074"
-           y="181.61269"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994px"
-           id="tspan5573">16 or Over?</tspan></text>
-      <g
-         id="id1209_Graphic-6-0"
-         transform="translate(0.28440582,-16.381352)"
-         style="fill:#63cadc;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
-        <path
-           d="M 68.63,241.968 126.26,269.21 68.63,296.452 11,269.21 Z"
-           id="path82-4-5"
-           inkscape:connector-curvature="0"
-           style="fill:#63cadc;fill-opacity:1;stroke:none" />
-        <path
-           d="M 68.63,241.968 126.26,269.21 68.63,296.452 11,269.21 Z"
-           id="path84-3-8"
-           inkscape:connector-curvature="0"
-           style="fill:#63cadc;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         x="68.907074"
-         y="241.09671"
-         id="text4474-9-6"><tspan
-           sodipodi:role="line"
-           x="68.907074"
-           y="241.09671"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994px"
-           id="tspan5619">Is a</tspan><tspan
-           sodipodi:role="line"
-           x="68.907074"
-           y="253.59671"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994px"
-           id="tspan5621">Parent/Guardian</tspan><tspan
-           sodipodi:role="line"
-           x="68.907074"
-           y="266.09671"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994px"
-           id="tspan5625">with them?</tspan></text>
-      <text
          y="46.519382"
          x="339.38263"
-         style="font-size:12px;fill:#000000;stroke-width:0.99999994"
-         id="text36">
-        <tspan
-           style="font-weight:normal;font-size:12px;font-family:'Open Sans';stroke-width:0.99999994;-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:12px;fill:#000000;stroke-width:1"
+         id="text36"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:1"
            font-size="12"
            font-weight="500"
            x="339.55063"
            y="57.519382"
-           id="tspan34">N</tspan>
-      </text>
+           id="tspan34">N</tspan></text>
       <line
-         style="stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker-7)"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker-7)"
          x1="329.74664"
          y1="-38.296612"
          x2="329.74664"
          y2="-23.43861"
          id="line66" />
       <line
-         style="stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker-7)"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker-7)"
          x1="329.74664"
          y1="40.945393"
          x2="329.74664"
@@ -1343,18 +861,16 @@
       <text
          y="-4.4794531"
          x="392.37665"
-         style="font-size:12px;fill:#000000;stroke-width:0.99999994"
-         id="text100">
-        <tspan
-           style="font-weight:normal;font-size:12px;font-family:'Open Sans';stroke-width:0.99999994;-inkscape-font-specification:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:12px;fill:#000000;stroke-width:1"
+         id="text100"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:1"
            font-size="12"
            font-weight="500"
            x="392.48865"
            y="6.5205774"
-           id="tspan98">Y</tspan>
-      </text>
+           id="tspan98">Y</tspan></text>
       <line
-         style="stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker-7)"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker-7)"
          x1="387.37665"
          y1="12.156565"
          x2="405.48264"
@@ -1371,30 +887,26 @@
          ry="19.038" />
       <text
          id="text327-6-4"
-         style="font-size:12px;line-height:0%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:12px;line-height:0%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
          x="270.90213"
-         y="-61.518795">
-        <tspan
+         y="-61.518795"><tspan
            font-size="10"
            font-weight="500"
            x="285.89481"
            y="-51.518795"
            id="tspan329-6-1"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994">Team Arrives</tspan>
-      </text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1">Team Arrives</tspan></text>
       <text
          y="5.723897"
          x="295.58224"
-         style="font-size:12px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-dasharray:none;stroke-opacity:1"
-         id="text89-6">
-        <tspan
-           style="font-weight:normal;font-size:10px;font-family:Helvetica;stroke-width:0.99999994"
+         style="font-size:12px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="text89-6"><tspan
+           style="font-weight:normal;font-size:10px;font-family:Helvetica;stroke-width:1"
            font-size="10"
            font-weight="500"
            x="299.62506"
            y="15.723897"
-           id="tspan85-6" />
-      </text>
+           id="tspan85-6" /></text>
       <text
          id="text5128-4"
          y="8.5568085"
@@ -1404,7 +916,7 @@
            id="tspan5130-0"
            style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
            y="8.5568085"
-           x="331.16266"
+           x="329.86383"
            sodipodi:role="line">Supervisor </tspan><tspan
            style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
            y="21.056808"
@@ -1456,7 +968,7 @@
            y="351.21268"
            id="text4892-6"><tspan
              sodipodi:role="line"
-             x="222.97952"
+             x="221.68069"
              y="351.21268"
              style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
              id="tspan6236">Get Supervisor to sign </tspan><tspan
@@ -1467,12 +979,12 @@
              id="tspan6238">sign-in sheet</tspan></text>
       </g>
       <line
-         x1="462.60144"
+         x1="481.46985"
          y1="37.233093"
-         x2="462.60144"
+         x2="481.46985"
          y2="51.833099"
          id="line314-7"
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-8)" />
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-8)" />
       <rect
          style="opacity:1;vector-effect:none;fill:#63cadc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect5370-3-9"
@@ -1520,51 +1032,19 @@
       </g>
       <text
          id="text327-6-4-6"
-         style="font-size:12px;line-height:0%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:12px;line-height:0%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
          x="565.6698"
-         y="-62.323647">
-        <tspan
+         y="-62.323647"><tspan
            font-size="10"
            font-weight="500"
            x="580.66248"
            y="-52.323647"
            id="tspan329-6-1-4"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994">Volunteer Arrives</tspan>
-      </text>
-      <rect
-         style="opacity:1;vector-effect:none;fill:#63cadc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect5370-3-95"
-         width="120.03178"
-         height="37.072559"
-         x="573.12317"
-         y="-14.969402"
-         rx="7.5"
-         ry="7.4999995" />
-      <g
-         style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
-         id="id1214_Graphic-9-1-7"
-         transform="translate(432.10164,-344.83687)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-           x="201.20343"
-           y="345.90375"
-           id="text4892-6-66"><tspan
-             sodipodi:role="line"
-             x="201.20343"
-             y="345.90375"
-             style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-             id="tspan6862">Follow 'Person Arrives'</tspan><tspan
-             sodipodi:role="line"
-             x="201.20343"
-             y="358.40375"
-             style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-             id="tspan8761">section first</tspan></text>
-      </g>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1">Volunteer Arrives</tspan></text>
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1253_Graphic-2"
-         transform="translate(430.86305,105.77871)">
+         transform="translate(430.86305,44.27871)">
         <rect
            style="opacity:1;vector-effect:none;fill:#68bc36;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
            id="rect4932-8"
@@ -1578,20 +1058,43 @@
            id="text327-1"
            style="line-height:0%;fill:#000000"
            x="151.52649"
-           y="103.35919">
-          <tspan
+           y="103.35919"><tspan
              font-size="10"
              font-weight="500"
              x="166.51917"
              y="113.35919"
              id="tspan329-8"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">Allow Entry</tspan>
-        </text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">Allow Entry</tspan></text>
+      </g>
+      <g
+         style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+         id="id1253_Graphic-2-9"
+         transform="translate(278.15746,65.262453)">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#68bc36;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect4932-8-0"
+           width="90"
+           height="36.000008"
+           x="155.776"
+           y="92.241997"
+           rx="19.038"
+           ry="19.038" />
+        <text
+           id="text327-1-4"
+           style="line-height:0%;fill:#000000"
+           x="151.52649"
+           y="103.35919"><tspan
+             font-size="10"
+             font-weight="500"
+             x="166.51917"
+             y="113.35919"
+             id="tspan329-8-0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">Allow Entry</tspan></text>
       </g>
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1214_Graphic-9-1-7-1-4"
-         transform="translate(431.83553,-231.07894)">
+         transform="translate(431.83553,-292.57894)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1604,22 +1107,6 @@
              style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
              id="tspan7153-0">They sign in </tspan></text>
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-         x="175.98288"
-         y="264.56458"
-         id="text8765"><tspan
-           sodipodi:role="line"
-           id="tspan8763"
-           x="175.98288"
-           y="264.56458"
-           style="stroke-width:0.75">(parent/guardian</tspan><tspan
-           sodipodi:role="line"
-           x="175.98288"
-           y="277.06458"
-           style="stroke-width:0.75"
-           id="tspan8769">signs form)</tspan></text>
     </g>
   </g>
 </svg>
