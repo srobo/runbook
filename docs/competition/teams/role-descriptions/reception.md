@@ -11,6 +11,10 @@ original:
 
 Reception staff control entry to the building and inform attendees that photos and videos are being taken. Each reception staffer has their own desk and chair.
 
+Here is a flow chart summarising the details below:
+
+![Reception Desk Flow](../diagrams/reception-desk-flow.svg)
+
 We need to inform people that we are taking photos and videos, if they object to this we should double check they understand what they are objecting to. We are taking photos and videos that we will use to advertise ourselves. If they still object they should be given a red lanyard and told to wear them at all times, this is to ensure that we do not take photos of them. We should explain that it would be best for them to avoid the arena as we are also livestreaming.
 
 At the start of the competition day, there will be four reception staffers
