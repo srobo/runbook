@@ -5,7 +5,7 @@
    width="36.172367pc"
    height="23.897276pc"
    id="svg2"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="reception-desk-flow.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,16 +25,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1010"
      id="namedview337"
      showgrid="false"
      inkscape:zoom="0.98890193"
      inkscape:cx="172.91907"
      inkscape:cy="268.47961"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g32"
+     inkscape:current-layer="id1214_Graphic-9-1-8"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -42,7 +42,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="pc">
+     inkscape:document-units="pc"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        position="220.4709,287.0198"
        orientation="0,1"
@@ -628,6 +630,24 @@
            id="path17-4-4-4-1-4" />
       </g>
     </marker>
+    <marker
+       style="color:#000000;overflow:visible"
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker-7-3"
+       viewBox="-1 -4 10 8"
+       markerWidth="10"
+       markerHeight="8">
+      <g
+         id="g19-7">
+        <path
+           style="fill:currentColor;stroke:currentColor;stroke-width:1"
+           inkscape:connector-curvature="0"
+           d="M 8,0 0,-3 v 6 z"
+           id="path17-9" />
+      </g>
+    </marker>
   </defs>
   <g
      id="g26"
@@ -665,9 +685,9 @@
       <line
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-2-0)"
          x1="631.53015"
-         y1="111.81276"
+         y1="112.35958"
          x2="631.53015"
-         y2="126.67079"
+         y2="148.21785"
          id="line66-6-8-8-1" />
       <line
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-4-9-2)"
@@ -876,6 +896,13 @@
          x2="405.48264"
          y2="12.156565"
          id="line132" />
+      <line
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-7-3)"
+         x1="543.04065"
+         y1="176.97076"
+         x2="577.32678"
+         y2="176.97076"
+         id="line132-2" />
       <rect
          style="opacity:1;vector-effect:none;fill:#68bc36;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect4932-91-2"
@@ -978,6 +1005,36 @@
              style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
              id="tspan6238">sign-in sheet</tspan></text>
       </g>
+      <rect
+         style="vector-effect:none;fill:#63cadc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect5370-3-96"
+         width="130.95451"
+         height="38.47506"
+         x="414.84598"
+         y="157.75009"
+         rx="7.4999995"
+         ry="7.4999995" />
+      <g
+         style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+         id="id1214_Graphic-9-1-8"
+         transform="translate(259.0307,-177.20416)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+           x="221.68069"
+           y="351.21268"
+           id="text4892-6-9"><tspan
+             sodipodi:role="line"
+             x="221.68069"
+             y="351.21268"
+             style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
+             id="tspan6238-8">Give each competitor</tspan><tspan
+             sodipodi:role="line"
+             x="221.68069"
+             y="363.71268"
+             style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
+             id="tspan671">a swag bag</tspan></text>
+      </g>
       <line
          x1="481.46985"
          y1="37.233093"
@@ -1044,7 +1101,7 @@
       <g
          style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
          id="id1253_Graphic-2"
-         transform="translate(430.86305,44.27871)">
+         transform="translate(430.86305,65.514385)">
         <rect
            style="opacity:1;vector-effect:none;fill:#68bc36;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
            id="rect4932-8"
@@ -1064,31 +1121,6 @@
              x="166.51917"
              y="113.35919"
              id="tspan329-8"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">Allow Entry</tspan></text>
-      </g>
-      <g
-         style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
-         id="id1253_Graphic-2-9"
-         transform="translate(278.15746,65.262453)">
-        <rect
-           style="opacity:1;vector-effect:none;fill:#68bc36;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect4932-8-0"
-           width="90"
-           height="36.000008"
-           x="155.776"
-           y="92.241997"
-           rx="19.038"
-           ry="19.038" />
-        <text
-           id="text327-1-4"
-           style="line-height:0%;fill:#000000"
-           x="151.52649"
-           y="103.35919"><tspan
-             font-size="10"
-             font-weight="500"
-             x="166.51917"
-             y="113.35919"
-             id="tspan329-8-0"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">Allow Entry</tspan></text>
       </g>
       <g

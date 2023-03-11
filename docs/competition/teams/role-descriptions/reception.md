@@ -17,7 +17,7 @@ At the start of the competition day, there will be four reception staffers
 covering the entrance. Once the initial influx of people is complete, this
 will reduce.
 
-Throughout the competition, receptionists typically get a lot of questions by the public. Any member of the public should be allowed into the building if they're happy photos and videos might be taken of them. Feel free to answer, give them a booklet, and send them to Helpdesk (let them sign in) if they seem interested.
+Throughout the competition, receptionists typically get a lot of questions by the public. Any member of the public should be allowed into the building but let them know photos and videos might be taken of them. If there are spares give them a booklet, and feel free to send them to the arena if they seem interested.
 
 # Handling Team Arrivals
 When a team first arrives or leaves, your role as reception is to log this and confiscate items on entry, see below:
@@ -31,6 +31,7 @@ record that their teams have arrived and when they leave you should get the team
  		* 1 x Battery charger.
 		* 1 x Battery charging bag.
 		* 1 x Battery charging Power Supply Unit (PSU).
+* Give each competitor a bag of swag
 
 # Handling Team Departures
 
@@ -48,8 +49,10 @@ Volunteers will be turning up throughout the competition, it's important to make
 You should have the following items present for your duties. If you do not, please let the competition event coordinator know as soon as possible.
 
 * Pens.
-* Competitor booklets to give to teams.
+* Competitor swag bags to give to teams.
 * This documentation.
-* Sign-in/out sheet.
+* Team Sign-in/out sheet.
+* Volunteer Sign-in/out sheet.
 * Boxes to store battery charging kits.
 * Red Lanyards for media consent denials.
+* Copy of the Safeguarding policy
