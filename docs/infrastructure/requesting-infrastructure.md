@@ -76,7 +76,7 @@ For new resources please include in your request:
   their terminology when making requests)
 - Expected cost (as a check to help ensure the right options are selected)
 - Purpose/name
-- Operating System
+- Operating System (typically we prefer an Ubuntu LTS)
 - SSH keys for bootstrap access (or where to get them)
 - Team budget line the resource relates to (if it has cost)
 
