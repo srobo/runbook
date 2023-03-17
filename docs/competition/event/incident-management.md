@@ -42,7 +42,8 @@ Due to the impact of stopping the competition, ability to do so is restricted to
 
 * Health and Safety Coordinator,
 * Event Coordinator,
-* Head Judge,
+* Head Shepherd,
+* Event Tech Lead,
 * Majority decision from Trustees.
 
 Stopping the competition will be indicated by a call over the radio of "This is _role_; stop the competition."
