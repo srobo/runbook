@@ -26,7 +26,7 @@ for the hosting of our [infrastructure][infrastructure] as well as for DNS and
 TLS termination. Our domains are registered with Namecheap.
 
 [slash-docs]: https://studentrobotics.org/docs
-[reverse-proxy]: https://github.com/srobo/reverse-proxy
+[reverse-proxy]: https://github.com/srobo/ansible/tree/main/roles/srobo-nginx#readme
 [infrastructure]: https://github.com/srobo/infrastructure
 
 ### Competitor Services
