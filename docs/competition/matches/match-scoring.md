@@ -7,13 +7,6 @@ original:
 
 Any roles related to scoring matches go here.
 
-## Head Match Scorer
-
-**Responsible for managing the marshals and score entry which they may bring in as their only subordinate roles.**
-
-As head match scorer you should station yourself near the arena/staging area to ensure any questions with regards to scoring can be asked.
-Note that this role is _not_ about making decisions related to the interpretations of the rules. That is the responsibility of the [Judge](./judging.md).
-
 ## Match Marshal
 
 **Responsible for being in the arena, saving robots and recording the end-state of matches. They may not bring in any subordinate volunteers.**
@@ -101,7 +94,7 @@ The steps to perform are as follows:
 
 There are two score sheets for every match. It's likely that there may be a discrepancy between the sheets. If that's the case, one match score entry volunteer should speak to the marshals to try to find the correct state.
 
-If you have any questions, speak to the head match scorer. In SR2023 the head match scorer can be called down from the balcony.
+If you have any questions, speak to the competition software co-ordinator. In SR2023 the head match scorer can usually be called down from the balcony.
 
 ### Reporting helpdesk tickets
 
