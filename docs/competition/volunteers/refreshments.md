@@ -16,6 +16,8 @@ People at these locations usually can't leave their posts to fetch refreshments 
 - Helpdesk
 - Arena, both on the ground and on the balcony
 
+There will also be volunteers broadcasting a livestream, in SR2023 they will be on the balcony. It's best not to interrupt these people, but please ensure they have biscuits and water within arms reach. Don't put water on the same desk as the tech deck to avoid spillages.
+
 **Make sure you visit volunteers on the cube floor, in addition to those on the balcony, they were often forgotten last year!**
 
 When you've visited everyone, you can leave a tray on the stage or next to helpdesk.
