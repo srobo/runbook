@@ -94,7 +94,7 @@ The steps to perform are as follows:
 
 There are two score sheets for every match. It's likely that there may be a discrepancy between the sheets. If that's the case, one match score entry volunteer should speak to the marshals to try to find the correct state.
 
-If you have any questions, speak to the competition software co-ordinator, or the head judge if it is a judging decision. The head judge should be reachable by radio, the competition software co-ordinator is usually on the balcony.
+If you have any questions, speak to the competition software co-ordinator, or the head judge if it is a judging decision. The competition software co-ordinator should be reachable by radio and the head judge is frequently in the cube.
 
 ### Reporting helpdesk tickets
 
