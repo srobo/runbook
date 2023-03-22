@@ -7,13 +7,6 @@ original:
 
 Any roles related to scoring matches go here.
 
-## Head Match Scorer
-
-**Responsible for managing the marshals and score entry which they may bring in as their only subordinate roles.**
-
-As head match scorer you should station yourself near the arena/staging area to ensure any questions with regards to scoring can be asked.
-Note that this role is _not_ about making decisions related to the interpretations of the rules. That is the responsibility of the [Judge](./judging.md).
-
 ## Match Marshal
 
 **Responsible for being in the arena, saving robots and recording the end-state of matches. They may not bring in any subordinate volunteers.**
@@ -86,7 +79,7 @@ If you have any questions you may first ask the head match scorer and secondly t
 
 ## Match Score Entry
 
-**Responsible for receiving match states from the marshals, checking them, and entering them into the competition software.**
+**Responsible for receiving score sheets from the marshals, checking them, and entering them into the competition software.**
 
 In the role of score entry, you will be stationed at a desk near to the arena/staging area. There should always be two people responsible for match score entry, one using the keyboard and one to resolve disputes and ensure that values are entered correctly. Two score sheets per match will be given to you by the match marshals.
 
@@ -101,4 +94,10 @@ The steps to perform are as follows:
 
 There are two score sheets for every match. It's likely that there may be a discrepancy between the sheets. If that's the case, one match score entry volunteer should speak to the marshals to try to find the correct state.
 
-If you have any questions, speak to the head match scorer. In SR2019 the head match scorer is on the balcony.
+If you have any questions, speak to the competition software co-ordinator, or the head judge if it is a judging decision. The competition software co-ordinator should be reachable by radio and the head judge is frequently in the cube.
+
+### Reporting helpdesk tickets
+
+As of SR2023, you should also have access to the helpdesk ticketing system. This is used for requesting a volunteer to check on a team in their pits, for example if their robot crashes or an important component breaks we can ensure we get help to them. Occasionally marshals may write notes for teams to be looked at, you should input these into the ticket system.
+
+These tickets are not as high priority as entering the actual scores though.
