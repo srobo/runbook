@@ -14,9 +14,9 @@ People at these locations usually can't leave their posts to fetch refreshments 
 - Tech desks
 - Reception
 - Helpdesk
-- Arena, both on the ground and on the balcony.
+- Arena, both on the ground and on the balcony
 
-**Make sure you visit volunteers on the cube floor, in addition to those on the balcony, they were neglected last year!**
+**Make sure you visit volunteers on the cube floor, in addition to those on the balcony, they were often forgotten last year!**
 
 When you've visited everyone, you can leave a tray on the stage or next to helpdesk.
 
