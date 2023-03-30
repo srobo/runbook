@@ -75,7 +75,7 @@ The aim of these is to prevent any other issues occurring whilst the current inc
 
 In the event of a major incident, the Head Shepherd becomes the point of contact between the main radio network and the shepherd radio network. They are also responsible for managing the Shepherds and Badgers. To avoid confusion, all radios should remain on their normal network.
 
-The Head Shepherd should ensure that all Coordinators and Shepherds are aware that the competition has been stopped. They should also confirm that volunteers in the rest area are aware to report to assist.
+The Head Shepherd should ensure that all Coordinators and Shepherds are aware that the competition has been stopped. They should also confirm that volunteers in the rest area are aware to report to assist. Radio or internal phone are preferred means of notifying others, if these fail a volunteer "runner" should be sent.
 
 Shepherds become responsible for managing competitors, team leaders, and members of the public.
 
