@@ -56,7 +56,7 @@ Any volunteer is able to raise an urgency call. This indicates that they feel a 
 This should be indicated by a call over the radio of "Potential incident at _location_; emergency roles respond."
 This call should be repeated at least once, and every minute or so until acknowledged by one of the other aforementioned roles or the Head Shepherd.
 
-Should the Head Shepherd receive an Urgency call from a Shepherd, they should repeat this on the main radio network to ensure all.
+Should the Head Shepherd receive an Urgency call from a Shepherd, they should repeat this on the main radio network to ensure all the aforementioned roles are aware.
 
 # Stopping actions
 
