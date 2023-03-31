@@ -49,7 +49,18 @@ Due to the impact of stopping the competition, ability to do so is restricted to
 Stopping the competition will be indicated by a call over the radio of "This is _role_; stop the competition."
 This call should be repeated at least once, and every minute or so until acknowledged by one of the other aforementioned roles.
 
-At this point the following should occur;
+### Urgency call
+
+Any volunteer is able to raise an urgency call. This indicates that they feel a situation exists which may qualify as a major incident, and the roles able to stop the event should respond immediately.
+
+This should be indicated by a call over the radio of "Potential incident at _location_; emergency roles respond."
+This call should be repeated at least once, and every minute or so until acknowledged by one of the other aforementioned roles or the Head Shepherd.
+
+Should the Head Shepherd receive an Urgency call from a Shepherd, they should repeat this on the main radio network to ensure all.
+
+# Stopping actions
+
+At the point the competition is stopped the following should occur;
 
 * Matches stop,
 * Test arena to be powered down and vacated,
@@ -64,11 +75,15 @@ The aim of these is to prevent any other issues occurring whilst the current inc
 
 In the event of a major incident, the Head Shepherd becomes the point of contact between the main radio network and the shepherd radio network. They are also responsible for managing the Shepherds and Badgers. To avoid confusion, all radios should remain on their normal network.
 
+The Head Shepherd should ensure that all Coordinators and Shepherds are aware that the competition has been stopped. They should also confirm that volunteers in the rest area are aware to report to assist. Radio or internal phone are preferred means of notifying others, if these fail a volunteer "runner" should be sent.
+
 Shepherds become responsible for managing competitors, team leaders, and members of the public.
 
 The nearest roving helper should shutdown the power tools area, and remain there to ensure it remains unused.
 
 All other roles should remain in location and await further instructions.
+
+Volunteers in the rest area should be prepared to come and assist when instructed.
 
 Further instructions will be given when appropriate, and should not be requested.
 
