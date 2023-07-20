@@ -24,7 +24,7 @@ Before an email is sent, it should be reviewed.
 1. Write your email, in [markdown](https://guides.github.com/features/mastering-markdown/)
 2. Fork the relevant repository, and open a pull request with your changes. The file should be named based on the expected send date, in a directory corresponding to the competition cycle year.
 3. Request the PR be reviewed. Either by using the 'Reviewers' functionality in GitHub, or by sending a message in Slack.
-4. Confirm there aren't any other emails planning to be sent soon
+4. Confirm there aren't any other emails planning to be sent soon. If there are consider merging the emails
 5. Once the PR is approved, request it be sent. Currently, this is a manual process. Once sent, merge the PR.
 
 You will need some front-matter at the top of your markdown file to add some extra information, such as:
