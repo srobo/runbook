@@ -94,7 +94,7 @@ Once all sections have been completed, click "Send" in the top right. A popup wi
 
 Sending an email through GMail is much easier than [Mailchimp](#mailchimp).
 
-Sending Student Robotics related emails **must** be done using your Student Robotics Google account.
+Sending Student Robotics related emails **must** be done using your Student Robotics Google account. If you don't have an SR google account, ask a committee member to request the creation of one for you.
 
 #### Multi-send mode
 
