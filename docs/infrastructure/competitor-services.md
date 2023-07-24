@@ -2,7 +2,7 @@
 
 During the competition season, there are a number of hosted services which the
 competitors use. These are [managed using `ansible`][ansible] to configure
-a "competitor services" VM, typically within Digital Ocean.
+a "competitor services" VM, typically within Mythic Beasts.
 
 [ansible]: https://github.com/srobo/ansible/tree/main/roles/competitor-services-nginx#readme
 
