@@ -21,13 +21,13 @@ competitor-facing documentation which appears at [`/docs`][slash-docs].
 
 These sub sites (and the main website itself) are hosted as GitHub Pages, with a
 separate NGINX instance acting as a [reverse-proxy][reverse-proxy] to facade
-these and other services onto the root domain. Currently we use Digital Ocean
-for the hosting of our [infrastructure][infrastructure] as well as for DNS and
-TLS termination. Our domains are registered with Namecheap.
+these and other services onto the root domain. Currently we use Mythic Beasts
+as our hosting provider; most of our servers are managed through [ansible][ansible].
+Digital Ocean is used for DNS hosting. Our domains are registered with Namecheap.
 
 [slash-docs]: https://studentrobotics.org/docs
 [reverse-proxy]: https://github.com/srobo/ansible/tree/main/roles/srobo-nginx#readme
-[infrastructure]: https://github.com/srobo/infrastructure
+[ansible]: https://github.com/srobo/ansible
 
 ### Competitor Services
 
