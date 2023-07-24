@@ -1,10 +1,10 @@
 # Competitor Services
 
 During the competition season, there are a number of hosted services which the
-competitors use. These are [managed using `puppet`][server-puppet] to configure
+competitors use. These are [managed using `ansible`][ansible] to configure
 a "competitor services" VM, typically within Digital Ocean.
 
-[server-puppet]: https://github.com/srobo/server-puppet/
+[ansible]: https://github.com/srobo/ansible/tree/main/roles/competitor-services-nginx#readme
 
 The services typically include:
 
