@@ -27,3 +27,20 @@ Useful links:
 - [Slack two factor authentication](https://slack.com/intl/en-gb/help/articles/204509068-Set-up-two-factor-authentication-Set-up-two-factor-authentication)
 
 [wikipedia-mfa]: https://en.wikipedia.org/wiki/Multi-factor_authentication
+
+## Servers
+
+<!-- Updating this? Also update "Securing the OS" in ./machine-setup.md -->
+
+Exactly what is needed to secure a given server will depend on its intended
+use-case, operating system and other factors. In general though we expect that:
+
+* the firewall will block everything that's not needed
+* root SSH is disabled
+* password SSH is disabled (i.e: keys only)
+* individuals have their own user accounts
+
+These are included for all machines configured via our [ansible config][srobo-ansible],
+which also creates users for members of the Infrastructure Team.
+
+[srobo-ansible]: https://github.com/srobo/ansible/
