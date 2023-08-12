@@ -33,6 +33,8 @@ infrastructure](./requesting-infrastructure.md#mythic-beasts).
 
 ## Securing the OS
 
+<!-- Updating this? Also update "Servers" in ./security.md -->
+
 Exactly what is needed to secure a new machine will depend on its intended
 use-case, operating system and other factors. In general though we expect that:
 
