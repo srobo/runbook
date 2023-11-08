@@ -20,9 +20,9 @@ Responsibilities:
 * Overnight safety at venues
 * Power tools area
 
-## Media / Press
+## Marketing Liaison
 
-Responsibilities:
+Liaison with the Marketing Team, who are owning:
 
 * Photos
 * Organisation of group photo
@@ -60,9 +60,9 @@ Responsibilities:
 * Challenges
 * Feedback & surveys
 
-## Kit
+## Kit Liaison
 
-Responsibilities:
+Liaison with the Kit Team, who are owning:
 
 * Kit handout
 * Replacements
