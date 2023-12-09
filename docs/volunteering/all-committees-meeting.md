@@ -1,7 +1,7 @@
 # All Committees Meeting
 
 Once a month all of the committees have a meeting.
-This is generally held on the second Tuesday of the month, though this is subject to change.
+This is normally held on the second Tuesday of the month.
 
 ## Purpose
 
