@@ -32,7 +32,7 @@ Committees are encouraged to read the committee updates from other teams during 
 If a team has a talking point to add after this cut off they should raise it to the trustees, who will add it if appropriate and there is time for discussion.
 
 The trustees will review the talking points for suitability during this 24 hours.
-A topic will only be removed if it is not appropriate for discussion by all committees (this has yet to happen).
+A topic will only be removed if it is deemed to not be appropriate for discussion by all committees (this has yet to happen).
 
 During the meeting any questions around the updates and the talking points will be discussed, and any resolutions added to the minutes.
 
