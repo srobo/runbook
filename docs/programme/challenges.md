@@ -12,7 +12,7 @@ Challenges are submitted by teams through a dedicated Discord forum-style channe
 
 - Record the challenge submission in the challenges spreadsheet ([example from SR2024](https://docs.google.com/spreadsheets/d/1jAVf18LDqb0PjnWi_0an5KACyvfcPaki5yvrY0KXBIA/edit))
 
-- Post about the submission in the `#changing-judging-` year-specific Slack channel. The main message should be the TLA and the challenge type, with a link to the Discord thread in a Slack thread off the message.
+- Post about the submission in the `#changing-judging-` year-specific Slack channel. The main message should be the TLA and the challenge type, with a link to the Discord thread in the Slack thread.
 
 - Add a tag to the relevant Discord thread noting the type of challenge
 
