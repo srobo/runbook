@@ -19,6 +19,7 @@ Responsibilities:
 * Fire safety
 * Overnight safety at venues
 * Power tools area
+* Safety policy (pit rules, etc.)
 
 ## Media / Press
 
@@ -59,6 +60,7 @@ Responsibilities:
 * Announcements
 * Challenges
 * Feedback & surveys
+* Tech days venues
 
 ## Kit
 
@@ -80,8 +82,6 @@ Responsibilities:
 * Teardown
 * Tech hire
 * Venue interaction
-* Kickstart venues
-* Tech day venues
 * Lighting rig
 * In-venue audio
 * Arena props & build
