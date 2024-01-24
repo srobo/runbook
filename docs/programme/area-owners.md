@@ -21,9 +21,9 @@ Responsibilities:
 * Power tools area
 * Safety policy (pit rules, etc.)
 
-## Media / Press
+## Marketing Liaison
 
-Responsibilities:
+Liaison with the Marketing Team, who are owning:
 
 * Photos
 * Organisation of group photo
@@ -62,9 +62,9 @@ Responsibilities:
 * Feedback & surveys
 * Tech days venues
 
-## Kit
+## Kit Liaison
 
-Responsibilities:
+Liaison with the Kit Team, who are owning:
 
 * Kit handout
 * Replacements
