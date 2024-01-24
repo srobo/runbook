@@ -1,4 +1,4 @@
-mkdocs==1.2.2
+mkdocs==1.2.3
 mkdocs-material==4.6.3
 mdx-include==1.4.1
 mkdocs-markdownextradata-plugin==0.2.4
