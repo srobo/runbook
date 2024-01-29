@@ -5,7 +5,7 @@
 !!! tip
     On Windows, you can use [VoiceMeeter](https://vb-audio.com/Voicemeeter/) to create "virtual" audio devices to allow OBS to distinguish between incoming application audio.
 
-It's recommended to avoid Global Audio Devices unless the source is intended to be available to every scene (eg host microphones). Adding sources per scene is more work, but reduces the need to manually mute and unmute certain sources when changing scenes.
+It's recommended to avoid Global Audio Devices unless the source is intended to be available to every scene (eg host microphones). Adding sources per scene is more work, but reduces the need to manually mute and un-mute certain sources when changing scenes.
 
 ## Music
 
