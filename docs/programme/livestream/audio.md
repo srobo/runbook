@@ -11,7 +11,7 @@ It's recommended to avoid Global Audio Devices unless the source is intended to 
 
 As background music during livestreams, we'll often play quiet music.
 
-For finals events, more dramatic music is played vs other sessions, to emphasize the importance. For finals events, we have heavily used [Monstercat](https://www.monstercat.com/) in the past, and for other events [incompetech](https://incompetech.com/), as these sources can be used without purchasing a licence, provided the required attribution is given.
+For finals events, more dramatic music is played vs other sessions, to emphasize the importance. For finals events, we have heavily used [Monstercat](https://www.monstercat.com/) in the past, and for other events [incompetech](https://incompetech.com/), as these sources can be used without purchasing a licence, provided the required attribution is given. We have also used [Epidemic Sound](https://www.epidemicsound.com/), however this is a paid-for service.
 
 There is no simple playlist used for each event. The playlists for each event are built off the previous, with any new finds added and disliked tracks removed.
 
