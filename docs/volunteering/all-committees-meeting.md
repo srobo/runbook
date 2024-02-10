@@ -19,6 +19,7 @@ Other volunteers are welcome at the invite of their committee, if the committee 
 ## Agenda
 
 The rough agenda for the all-committees meeting is as follows;
+
 * Run through updates from each committee, including successes and challenges.
 * Review tasks raised in previous meetings
 * Talking points (AOB)
