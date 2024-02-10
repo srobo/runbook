@@ -41,6 +41,6 @@ After the meeting the minutes will be moved to the organisation folder.
 
 ## Tasks
 
-Action items raised during the these meetings are tracked as GitHub issues on the committee-tasks repository.
+Action items raised during the these meetings are tracked as GitHub [issues on the committee-tasks repository](https://github.com/srobo/committee-tasks/issues).
 
 [^0]: In early meetings the document was editable at all times, and more and more talking points kept getting added as the meeting went on. This resulted in a very long meeting, and going largely out of scope.
