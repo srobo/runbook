@@ -37,7 +37,7 @@ A topic will only be removed if it is deemed to not be appropriate for discussio
 
 During the meeting any questions around the updates and the talking points will be discussed, and any resolutions added to the minutes.
 
-After the meeting the minutes will be moved to the organisation folder.
+After the meeting the minutes will be moved to the [organisation folder](https://drive.google.com/drive/folders/11Lsb-ooNoWHnQTQ__WoBg3guNOxBtwtF), which is accessible by all volunteers.
 
 ## Tasks
 
