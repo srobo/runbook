@@ -28,7 +28,7 @@ The minutes will be opened up for edit approximately 1 week prior to the meeting
 The team updates and any talking points should be filled in by 24 hours prior to the meeting.
 Committees should also take this opportunity to review and update any tasks they have outstanding.
 
-24 hours prior to the meeting, the minutes will be changed to read-only [0].
+24 hours prior to the meeting, the minutes will be changed to read-only[^0].
 Committees are encouraged to read the committee updates from other teams during this time, as this will make the meeting go much more smoothly.
 If a team has a talking point to add after this cut off they should raise it to the trustees, who will add it if appropriate and there is time for discussion.
 
