@@ -25,6 +25,8 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 
 ## After the Code Submission Deadline
 
+- Download the team code at the deadline
+- Negotiate with teams and handle any late submissions
 - Check for any no-shows
 - Construct the league for the session
 - Import the league into the compstate
