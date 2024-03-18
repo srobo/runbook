@@ -4,6 +4,14 @@ This page documents a few of the core scenes which are used for livestreams. Not
 
 The various assets useful for creating these scenes can be found [here](https://drive.google.com/drive/folders/1pr1vKpnonxFoO8O5chsH5DF7Vsd0Tfih?usp=sharing).
 
+## Presentation
+
+Events such as Kickstart are predominantly a presentation.
+
+For the presentation, it's recommended to use a window-based capture, rather than screen-based, to reduce the risk of accidentally putting sensitive or unrelated content over the slides.
+
+Long presentations should still show the host. Choose a bottom corner of the screen which won't cover any content and keep their camera fixed there. Slides may need modifying to ensure important content isn't covered.
+
 ## Technical difficulties
 
 Things occasionally go wrong during events, so wrong it may be necessary to cut the whole feed. In this case, we show a "Technical difficulties" screen, comprised of a single image, and mute audio whilst we work on a solution.
