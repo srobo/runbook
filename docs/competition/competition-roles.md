@@ -53,5 +53,5 @@ Depending on the nature of the event, some of these roles may not be applicable.
 - [Photo Studio Helper](./teams/photo-studio.md#photo-studio-helper)
 - [Crimper](./teams/role-descriptions/crimper.md)
 - [Door Guard](./teams/role-descriptions/door-guard.md)
-- [Kit Return](./teams/role-descriptions/kit-return.md)
+- [Kit Return](./team-support/kit-return.md)
 - [Reception](./teams/role-descriptions/reception.md)
