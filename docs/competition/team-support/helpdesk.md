@@ -37,9 +37,7 @@ Almost all of Helpdesk's operations are covered by the following procedures.
 
 ### Handling of all requests
 
-Whenever a team comes to Helpdesk with an issue a Helpdesk Volunteer must fill in their TLA and a single-sentence description of the issue on an Issue Form. When the issue has been resolved a single sentence description of the resolution must be written on the form. This is primarily for analytical purposes so that we can improve the operation of Helpdesk in future years.
-
-Whenever a team comes to Helpdesk with an issue that cannot be solved instantly their TLA and a very brief (couple of words) summary of the problem must be written on a post-it note and stuck up on a board of current issues. This ensures that no problems get dropped while they are being investigated. When the issue is resolved the post-it note can be thrown away. If it appears that a particular post-it has remained on the board for an extended period of time and there has been no obvious activity to resolve the issue then a volunteer should be dispatched to the team to see if it's still a problem.
+Whenever a team comes to Helpdesk with an issue that cannot be solved instantly, create a ticket. This ensures that no problems get dropped while they are being investigated. When the issue is resolved the ticket will be closed.
 
 ### Handling of requests for robot safety checks
 
@@ -49,24 +47,9 @@ The robots require safety checking before they are allowed to compete in the com
 
 Many teams will come to Helpdesk requesting help with the development of their robot or, more likely, help using the Student Robotics kit and associated software. As mentioned earlier, Helpdesk volunteers are not expected to tell teams what to do, but rather offer advice. Helpdesk volunteers should strive to answer questions about the use of the kit and software.
 
-Some queries may require a volunteer to visit the team in their pit to observe behaviour in situ. This must only be done by a Helpdesk volunteer if it will leave no fewer than two volunteers actively manning Helpdesk. If it is not possible for a Helpdesk volunteer to visit a team then a [Roving Helper](./roving-helper.md) should be summoned, via radio if necessary.
+Some queries may require a volunteer to visit the team in their pit to observe behaviour in situ. This must only be done by a Helpdesk volunteer if it will leave no fewer than two volunteers actively manning Helpdesk.
 
-In some rare situations it may be necessary to request the assistance of a person with more in-depth knowledge of the kit to help solve an issue. This should only be done if the issue is non-trivial, Here is a list of people to contact for further help:
-
-List for SR2019:
-
-Electronic Hardware
-
-: - Rob Gilton
-
-IDE
-
-: - Peter Law
-
-Python API
-
-: - Peter Law
-  - Rob Gilton
+In some rare situations it may be necessary to request the assistance of a person with more in-depth knowledge of the kit to help solve an issue. Escalate the issue to the head helpdesker.
 
 ### Handling suspected damaged kit requests
 
@@ -80,15 +63,15 @@ If a team comes to Helpdesk with a suspicion of some of the Student Robotics kit
 
 ### Swapping out kit
 
-After determining that a piece of kit is most likely faulty it must be swapped with a working spare. Helpdesk has a supply of spare kit. To swap a piece of kit please fill in a [SR2019 Kit Swap Form](https://docs.google.com/document/d/1tvzO0WEqL8m0B0QEBJziylZGAx0bpNe0RP6K1INMVZA/edit?usp=sharing) and follow the instructions on there. Since there is a limited quantity of spare kit, all attempts must be made to verify that the issue being observed is not caused by something else.
+After determining that a piece of kit is most likely faulty it must be swapped with a working spare. Helpdesk has a supply of spare kit. To swap a piece of kit please fill in a [Kit Swap Form](https://docs.google.com/document/d/1X4ewwhkTFKfCzQjlIUS-90ZhcFHzashRhz_kXnUlxjE/edit?usp=sharing) and follow the instructions on there. Since there is a limited quantity of spare kit, all attempts must be made to verify that the issue being observed is not caused by something else.
+
+### Swapping out batteries
+
+See [Battery charging](./battery-charging.md#swapping-a-teams-battery-helpdesk)
 
 ### Handling requests for batteries/chargers/bags on Saturday evening
 
-Some teams may wish to work on their robot on Saturday night and will therefore require batteries, a charger, a charger PSU and a battery bag. If a team requests these items, note down their TLA and the part codes of the five items on the 'Overnight Battery Loan Form' sheet and give them the parts. On Sunday morning one helpdesk volunteer must ensure that all of the parts listed on this sheet are collected from the teams and returned to the battery charging station, and marked as returned on the form.
-
-### Handling requests for batteries/chargers/bags on Sunday evening
-
-Some teams have been granted permission to keep the kit for a little while after the competition. To be able to make use of the kit they will require batteries, chargers, and bags. They **MUST NOT** be given any of these items from helpdesk. They will receive these items at the 'Kit Return Desk' when they leave. All teams must go to the Kit Return Desk, regardless of whether they are returning their kit or not, as that is where teams keeping kit will receive all the needed items.
+See [Overnight battery loan](./overnight-battery-loan.md).
 
 ### Handling requests for flag fittings
 
@@ -96,13 +79,19 @@ Teams may request a pipe connector to use on their robot for the purpose of atta
 
 Also, please show teams how to remove the fittings, as they are very strong and need to be released in the correct way (Press down on the center ring)
 
+### Handling of team name changes
+
+Teams are allowed to request that the name on the scoreboard is changed. This is an action that needs to be performed by a volunteer that is trained to use the SRComp software or GitHub repository.
+
+!!! note
+    The name is the name of their "team" not the name of their "robot".
+
 ### Frequently Asked Questions
 
 Based on issues handled in previous years, the following may be helpful:
 
 | Key phrase | Resolution |
 |------------|------------|
-| "Failed to dequeue buffer Assertion 'frame != ((void*0)' failed" | There was a problem with the webcam. Make sure it's plugged in. Make sure the webcam is plugged directly into the brain board (not via a USB hub). If the problem keeps occurring, try swapping out the webcam (following the procedure). |
-| Need to initialise servos to non-zero position | Use 'Custom Robot Object Initialisation' and set position between `.init()` and `.wait_start()`. (On 'Programming->sr' page of docs near the bottom) |
-| How to access starting corner/zone number in code | Use 'R.zone' (On 'Programming->sr' page of docs in the 'Other Robot Attributes' section) |
-| Worried about token/marker offset of 100 in competition mode | We handle this automatically, they do not need to worry. If their code works in development mode with development markers, it will work in competition mode with competition markers. They must ensure that they plug the arena/competition key provided to them in the staging area into their robot before they turn the power on. |
+| Need to initialise servos to non-zero position | Use [Custom Robot Object Initialisation](https://studentrobotics.org/docs/programming/robot_api/#custom-robot-object-initialisation) and set position between `Robot(wait_for_start=False)` and `.wait_start()`. |
+| How to access starting corner/zone number in code | Use `robot.zone` (On 'Programming / Robot API' page of docs in the 'Other Robot Attributes' section) |
+| Where can I find out when my matches are | On our website: [studentrobotics.org](https://studentrobotics.org) |
