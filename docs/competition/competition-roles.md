@@ -45,7 +45,7 @@ Depending on the nature of the event, some of these roles may not be applicable.
 
 - [Battery Charging](/kit/event-operations/battery-charging.md)
 - [Battery Shuffler](/kit/event-operations/battery-shuffler.md)
-- [Helpdesker](./team-support/helpdesk.md#helpdesk)
+- [Helpdesker](./team-support/helpdesk.md)
 
 ## Reception
 
