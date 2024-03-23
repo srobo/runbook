@@ -31,7 +31,7 @@ When a team first arrives or leaves, your role as reception is to log this and c
 record that their teams have arrived and when they leave you should get the team supervisor to sign the sheet.
 * Removing batteries, chargers, and bags:
  	* When on-site, we handle battery charging and robot safety, this means we should take all of the following items from each team:
- 		* 1 x Battery (Teams have 2 batteries, please take their most-bulgy one).
+ 		* 2 x Battery (Teams have 2 batteries, please take both).
  		* 1 x Battery charger.
 		* 1 x Battery charging bag.
 		* 1 x Battery charging Power Supply Unit (PSU).
