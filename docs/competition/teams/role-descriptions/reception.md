@@ -74,6 +74,8 @@ At peak entry times on the Saturday, volunteers will be assigned as chaperones. 
 3. Read a quick safety briefing to the teams. You should have this on paper.
 4. If there's time, the chaperone can field questions from the team, before heading back to reception to induct the next team.
 
+If a team arrives very late, the reception staffer may need to perform some of these tasks, namely the safety briefing and telling the team the layout of the venue (including where their pits are). However the reception volunteer should not leave their desk, so they cannot lead the team oto tehir pit.
+
 ## Required Items
 
 Each reception staffer should have a chair and a desk to sit at.
