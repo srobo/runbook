@@ -65,17 +65,26 @@ Volunteers will be turning up throughout the competition, it's important to make
 - Ask them if they know what their roles are. If they don't, contact the Volunteer Coordinator (normally Andy B-S) to brief them in the volunteer rest area.
 - Send them to the Volunteer rest area to get a T-Shirt.
 
+## Chaperoning new arrivals
+
+At peak entry times on the Saturday, volunteers will be assigned as chaperones. Chaperones should act as a friendly guides who make teams settle down and feel comfortable. Chaperones should do the following:
+
+1. Guide individual teams to their pits, use the map on the leaflets to guide them vaguely, typically there are small changes from the printed map on the leaflets, so use the team names on the tables as the source of truth.
+2. Introduce the to the layout of the venue. Mostly the nearest helpdesk, toilets, and the arena.
+3. Read a quick safety briefing to the teams. You should have this on paper.
+4. If there's time, the chaperone can field questions from the team, before heading back to reception to induct the next team.
+
 ## Required Items
 
 Each reception staffer should have a chair and a desk to sit at.
 
 You should have the following items present for your duties. If you do not, please let the competition event coordinator know as soon as possible.
 
-* Pens.
-* Competitor swag bags to give to teams.
-* This documentation.
-* Team Sign-in/out sheet.
-* Volunteer Sign-in/out sheet.
-* Boxes to store battery charging kits.
-* Red Lanyards for media consent denials.
-* Copy of the Safeguarding policy
+- Pens.
+- Competitor swag bags to give to teams.
+- This documentation.
+- Team Sign-in/out sheet.
+- Volunteer Sign-in/out sheet.
+- Boxes to store battery charging kits.
+- Red Lanyards for media consent denials.
+- Copy of the Safeguarding policy
