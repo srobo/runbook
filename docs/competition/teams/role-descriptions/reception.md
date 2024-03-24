@@ -9,48 +9,65 @@ original:
 ---
 # Reception Volunteer
 
-Reception staff control entry to the building and inform attendees that photos and videos are being taken. Each reception staffer has their own desk and chair.
+Reception staff control entry to the building and inform attendees that photos and videos are being taken. On top of this, reception staff have a few administrative tasks to do for new team and volunteer arrivals/departures.
 
 Here is a flow chart summarising the details below:
 
 ![Reception Desk Flow](../diagrams/reception-desk-flow.svg)
 
-We need to inform people that we are taking photos and videos, if they object to this we should double check they understand what they are objecting to. We are taking photos and videos that we will use to advertise ourselves. If they still object they should be given a red lanyard and told to wear them at all times, this is to ensure that we do not take photos of them. We should explain that it would be best for them to avoid the arena as we are also livestreaming.
+At the start of the competition day, there should be four reception staffers
+covering the entrance, and at least 4 chaperones handling individual teams.  Once the initial influx of people is complete, this
+will reduce to 1 and 0 respectively. In that case, the receptionist should also perform the chaperone role, minus leading teams to their pits as they shouldn't leave their desk for long periods.
 
-At the start of the competition day, there will be four reception staffers
-covering the entrance. Once the initial influx of people is complete, this
-will reduce.
+## For All Arrivals
 
-Throughout the competition, receptionists typically get a lot of questions by the public. Any member of the public should be allowed into the building but let them know photos and videos might be taken of them. If there are spares give them a booklet, and feel free to send them to the arena if they seem interested.
+All people that enter the venue should be aware that we're taking photos and videos. There should be signage outside, so don't worry if you miss some people. But do try to check with most people who are arriving for the first time at the event.
 
-# Handling Team Arrivals
-When a team first arrives or leaves, your role as reception is to log this and confiscate items on entry, see below:
+### If people object to being recorded
 
-* Team entry/exit recording
- 	* You will have a sign-in/sign-out sheet for team supervisors to
-record that their teams have arrived and when they leave you should get the team supervisor to sign the sheet.
-* Removing batteries, chargers, and bags:
- 	* When on-site, we handle battery charging and robot safety, this means we should take all of the following items from each team:
- 		* 2 x Battery (Teams have 2 batteries, please take both).
- 		* 1 x Battery charger.
-		* 1 x Battery charging bag.
-		* 1 x Battery charging Power Supply Unit (PSU).
-* Give each competitor a bag of swag
+If people do object to being recorded, first explain that we only use footage to advertise ourselves.
+If they still object, they should be given a red lanyard and told to wear them at all times, this is to ensure that we do not take photos of them, and if we do we will digitally remove them before publishing photos. We should explain that it would be best for them to avoid being close to arena during matches, as we'll be livestreaming.
 
-# Handling Team Departures
+## Handling members of the public
 
-**On Sunday**: If a team tries to leave the competition early (before we have kit return people in place), please grab someone from Helpdesk to act as a kit return handler (see [kit return](../../../../kit/event-operations/kit-return/)).
+Throughout the competition, receptionists typically get a lot of questions by the public. Any member of the public is allowed into the building. You just need to inform them about photos and videos being recorded.
 
-# Handling Volunteer Arrivals
+You can give them a booklet and direct them to the arena if they seem interested.
+
+## Handling Team Arrivals
+
+When a team first arrives or leaves, your role at reception is to log this and confiscate items on entry.
+
+Offer each competitor a bag of swag as they enter.
+
+### Team entry/exit recording
+
+You will have a sign-in/sign-out sheet for team supervisors to record that their teams have arrived, make sure they fill in the details and sign it.
+
+### Confiscating batteries, chargers, and bags
+
+We handle battery charging and robot safety at the competition. This means we should take all of the following items from each team:
+    - 2 x Battery (Teams have 2 batteries, please take both).
+    - 1 x Battery charger.
+    - 1 x Battery charging bag.
+    - 1 x Battery charging Power Supply Unit (PSU).
+
+## Handling Team Departures
+
+**On Sunday**: If a team tries to leave the competition early without retuning their robotics kits, please call someone up from Helpdesk to act as a kit return handler (see [kit return](../../../../kit/event-operations/kit-return/)).
+
+## Handling Volunteer Arrivals
 
 Volunteers will be turning up throughout the competition, it's important to make sure they do what is needed before entering:
 
-- Strongly recommend that they wear a face covering.
-- Ensure they have completely read the safeguarding policy (They should have done this beforehand).
+- Ensure they have completely read the safeguarding policy (They should have been emailed this beforehand).
 - Ensure they sign in on the sign-in sheet.
+- Ask them if they know what their roles are. If they don't, contact the Volunteer Coordinator (normally Andy B-S) to brief them in the volunteer rest area.
 - Send them to the Volunteer rest area to get a T-Shirt.
 
 ## Required Items
+
+Each reception staffer should have a chair and a desk to sit at.
 
 You should have the following items present for your duties. If you do not, please let the competition event coordinator know as soon as possible.
 
