@@ -54,7 +54,9 @@ We handle battery charging and robot safety at the competition. This means we sh
 
 ## Handling Team Departures
 
-**On Sunday**: If a team tries to leave the competition early without retuning their robotics kits, please call someone up from Helpdesk to act as a kit return handler (see [kit return](../../../../kit/event-operations/kit-return/)).
+**On Saturday**: When a team leaves, ask them to ensure they've taken all their personal belongings with them (we can't take responsibility for damage or loss), and that they've taken advantage of [overnight battery loan](../../team-support/overnight-battery-loan.md) if they'd like it.
+
+**On Sunday**: Teams may leave early on the Sunday, either due to being knocked out or other commitments. If this happens, you'll need to follow the [kit return](../../team-support/kit-return.md) process to make sure they've returned all of their kit.
 
 ## Handling Volunteer Arrivals
 

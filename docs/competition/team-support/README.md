@@ -1,26 +1,38 @@
----
-original:
-  authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
-  url: https://bitbucket.org/richardbarlow/sr-comp-team-support-coord/wiki/Home
----
-# Competition Team Support Documentation
+# Team Support
 
-This is the Competition Team Support Coordinator's documentation. The Competition Team Support Coordinator is responsible for ensuring that teams are supported, with technical problems, throughout the competition. The Competition Team Support team consists of four roles:
+During the competition, teams will need support for various aspects of the event. Helpdesk is the first point of call for these issues, although it may not be helpdesk directly who resolve the issue.
 
-* [Helpdesk](./helpdesk.md) Volunteers
-* [Battery Shuffler](./battery-shuffler.md)
+The Helpdesk team consists of four main roles:
+
+* [Head of Helpdesk](#head-of-helpdesk) ("Head Helpdesker")
+* [Helpdesk](#helpdesker) Volunteers ("Helpdesker")
+* [Battery Charging](./battery-charging.md)
 * [Roving Helper](./roving-helper.md)
 
-These roles will be filled by various people throughout the competition. All volunteers filling these roles report to the Competition Team Support Coordinator and may not create subordinate roles.
+These roles will be filled by various people throughout the competition. Because of its nature, these roles require a knowledge of the [kit](../../kit/README.md) and event.
 
-## Helpdesk
+## Head of helpdesk
 
-The main source of support for teams is Helpdesk. Helpdesk is always manned by at least two volunteers and ideally three volunteers. There should always be at least one volunteer who has experience with the SR kit on Helpdesk at any point in time. Further details can be found in the [Helpdesk](./helpdesk.md) docs.
+The Head of Helpdesk ("Head Helpdesker") is the person who is overall responsible for the running of helpdesk.
 
-## Battery Shufflers
+Effectively, they are the Helpdesker in charge.
 
-When teams arrive at the competition we take their batteries, chargers and battery bags off of them at the arrival desk. These parts need ferrying from the arrival desk to the battery charging station. Also, at the end of the competition, teams that have a loan extension approval will need to be given batteries, a charger and a battery bag before they leave. These parts need ferrying from the battery charging station to the kit return desk. Further details can be found in the [Battery Shuffler](./battery-shuffler.md) docs. One person is required to shuffle batteries/chargers on Saturday morning and one person is required to shuffle them on Sunday afternoon.
+### Responsibilities
 
-## Roving Helpers
+- Oversee the running of helpdesk
+- Tracking patterns of issues across teams to identify wider kit issues as early as possible.
+- Ensure team issues are being addressed and that the tickets are updated.
+- Ensure the welfare of all helpdesk volunteers and roving helpers.
+- On Sunday morning, chasing any teams that have not handed in overnight battery loans. See the overnight battery loan docs.
+- If time, all of the responsibilities of the Helpdesker role below.
 
-Teams will always have quick questions about the kit, the game and the competition in general. Most of these questions can be handled by volunteers on the spot. To help deal with these questions quickly and efficiently there should be volunteers, known as Roving Helpers, wandering around the pits. There should be as many Roving Helpers as possible throughout the competition, but there is no minimum number. Further details can be found in the [Roving Helper](./roving-helper.md) docs.
+## Helpdesker
+
+The helpdesker is a volunteer who is generally located at the helpdesk to help with team issues.
+
+### Responsibilities:
+
+- Create, attend to, update and resolve tickets as necessary
+- Perform battery swaps for teams
+- Answer team issues and questions, opening a ticket if required.
+- Update the ticketing system for roving helpers and other volunteers without access to the ticketing system.
