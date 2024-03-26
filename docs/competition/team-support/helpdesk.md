@@ -37,7 +37,7 @@ Almost all of Helpdesk's operations are covered by the following procedures.
 
 ### Handling of all requests
 
-Whenever a team comes to Helpdesk with an issue that cannot be solved instantly, create a ticket. This ensures that no problems get dropped while they are being investigated. When the issue is resolved the ticket will be closed.
+Whenever a team comes to Helpdesk with an issue that cannot be solved instantly, create a [ticket](./ticket-system.md). This ensures that no problems get dropped while they are being investigated. When the issue is resolved the ticket will be closed.
 
 ### Handling of requests for robot safety checks
 
