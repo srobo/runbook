@@ -23,7 +23,7 @@ As we handle charging during the competition, teams will have 1 Battery. We don'
 If a kit is not complete, the [Missing Kit Form](https://docs.google.com/document/d/1G9Rv0hWHamecVhk1saslqfMxlYuAg5miJwzOg4GCpVo/edit?usp=sharing) should be completed noting which items of kit have not been returned.
 
 !!! tip
-    Ask the team to search their pits again to confirm they haven't missed it forgotten the item
+    Ask the team to search their pits again to confirm they haven't missed the forgotten  item
 
 After the competition, these forms are tabulated and the teams contacted to ensure the safe return of the items of kit.
 
