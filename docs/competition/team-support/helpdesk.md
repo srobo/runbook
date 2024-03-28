@@ -83,6 +83,8 @@ Also, please show teams how to remove the fittings, as they are very strong and 
 
 Teams are allowed to request that the name on the scoreboard is changed. This is an action that needs to be performed by a volunteer that is trained to use the SRComp software or GitHub repository.
 
+Changes of name should be reviewed by the team supervisor before being actioned, to ensure the change is accepted by the entire team.
+
 !!! note
     The name is the name of their "team" not the name of their "robot".
 
