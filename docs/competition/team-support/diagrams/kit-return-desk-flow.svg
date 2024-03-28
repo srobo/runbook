@@ -5,33 +5,10 @@
    width="700pt"
    height="700pt"
    id="svg104"
-   sodipodi:docname="kit-return-desk-flow.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <sodipodi:namedview
-     id="namedview104"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="pt"
-     inkscape:zoom="0.71544503"
-     inkscape:cx="181.00622"
-     inkscape:cy="721.22942"
-     inkscape:window-width="3840"
-     inkscape:window-height="2068"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g104" />
   <metadata
      id="metadata1"> Produced by OmniGraffle 6.6.2 <dc:date>2017-03-24 08:21:10 +0000</dc:date>
 </metadata>
@@ -953,79 +930,6 @@
              id="tspan45">may leave</tspan></text>
       </g>
       <g
-         id="id1322_Graphic"
-         transform="translate(-155.92622,-1.099485)">
-        <rect
-           x="721.86798"
-           y="500.45358"
-           width="90"
-           height="54.484001"
-           fill="#ffffff"
-           id="rect45" />
-        <rect
-           x="721.86798"
-           y="500.45358"
-           width="90"
-           height="54.484001"
-           stroke="#000000"
-           stroke-linecap="round"
-           stroke-linejoin="round"
-           stroke-width="1"
-           id="rect46" />
-        <text
-           transform="translate(726.868,503.69558)"
-           fill="#000000"
-           id="text53"><tspan
-             font-family="Helvetica"
-             font-size="10px"
-             font-weight="500"
-             x="1.6430664"
-             y="10"
-             id="tspan46">Place name label</tspan><tspan
-             font-family="Helvetica"
-             font-size="10px"
-             font-weight="500"
-             x="6.6552734"
-             y="22"
-             id="tspan47">on</tspan><tspan
-             font-family="Helvetica"
-             font-size="10px"
-             font-weight="bold"
-             x="20.556641"
-             y="22"
-             id="tspan48">end</tspan><tspan
-             font-family="Helvetica"
-             font-size="10px"
-             font-weight="500"
-             x="38.334961"
-             y="22"
-             id="tspan49">of RUB</tspan><tspan
-             font-family="Helvetica"
-             font-size="10px"
-             font-weight="500"
-             x="0.61523438"
-             y="34"
-             id="tspan50">and put team</tspan><tspan
-             font-family="Helvetica"
-             font-size="10px"
-             font-weight="500"
-             x="61.591797"
-             y="34"
-             id="tspan51">TLA</tspan><tspan
-             font-family="Helvetica"
-             font-size="10px"
-             font-weight="500"
-             x="79.384766"
-             y="34"
-             id="tspan52" /><tspan
-             font-family="Helvetica"
-             font-size="10px"
-             font-weight="500"
-             x="30.549316"
-             y="46"
-             id="tspan53">on it</tspan></text>
-      </g>
-      <g
          id="id1323_Graphic"
          transform="translate(-155.92622,-1.099485)">
         <rect
@@ -1119,7 +1023,7 @@
       </g>
       <g
          id="id1326_Graphic"
-         transform="translate(-155.92622,-1.099485)">
+         transform="translate(-155.92622,-77.599485)">
         <rect
            x="721.86798"
            y="577.18335"
@@ -1156,7 +1060,7 @@
       </g>
       <g
          id="id1327_Graphic"
-         transform="translate(-155.92622,-1.099485)">
+         transform="translate(-155.92622,-77.599485)">
         <rect
            x="721.86798"
            y="635.42908"
@@ -1189,19 +1093,7 @@
              font-weight="500"
              x="3.4033203"
              y="22"
-             id="tspan63">team</tspan><tspan
-             font-family="Helvetica"
-             font-size="10px"
-             font-weight="500"
-             x="28.237305"
-             y="22"
-             id="tspan64">TLA</tspan><tspan
-             font-family="Helvetica"
-             font-size="10px"
-             font-weight="500"
-             x="46.030273"
-             y="22"
-             id="tspan65">visible</tspan></text>
+             id="tspan63">asset code visible</tspan></text>
       </g>
       <line
          x1="610.94177"
@@ -1238,20 +1130,9 @@
          id="line67" />
       <line
          x1="610.94177"
-         y1="554.33807"
+         y1="535.58386"
          x2="610.94177"
-         y2="566.18384"
-         marker-end="url(#FilledArrow_Marker)"
-         stroke="#000000"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="1"
-         id="line68" />
-      <line
-         x1="610.94177"
-         y1="612.08386"
-         x2="610.94177"
-         y2="624.42957"
+         y2="547.92957"
          marker-end="url(#FilledArrow_Marker)"
          stroke="#000000"
          stroke-linecap="round"
