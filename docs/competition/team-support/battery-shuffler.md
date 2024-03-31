@@ -9,9 +9,9 @@ A battery shuffler is a volunteer that moves batteries, battery chargers, batter
 
 ## Saturday Morning Shuffling
 
-Teams arrive on Saturday morning between 9:00 and 9:30. When they arrive we take the following items off of them at the arrival desk:
+When teams arrive we take the following items off of them at the arrival desk:
 
-* 1x Battery
+* 2x Battery
 * 1x Battery charger
 * 1x Battery charger power supply
 * 1x Battery charging bag

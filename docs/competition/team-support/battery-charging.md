@@ -61,7 +61,9 @@ If at any point you have any doubts about safety, immediately summon the Health 
 
 ### Swapping a team's battery - Helpdesk
 
-Teams will bring discharged batteries to helpdesk and require a replacement charged battery. A Battery Charging volunteer should receive the discharged battery from the team and place it a battery bag in the discharged battery box. A charged battery should be removed from a battery bag in the the charged battery box and handed to the team. Do not allow teams to take batteries themselves - we want to prevent them from hoarding batteries.
+Teams will bring discharged batteries to helpdesk and require a replacement charged battery. A Battery Charging volunteer should receive the discharged battery from the team and place it a battery bag in the discharged battery box. A charged battery should be removed from a battery bag in the the charged battery box and handed to the team.
+
+Do not allow teams to take batteries themselves - we want to prevent them from hoarding batteries. Batteries must only be swapped - don't give a battery unless we receive one in return.
 
 ### Swapping batteries - Shuffling
 
