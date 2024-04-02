@@ -10,7 +10,7 @@
 
     The boards pictured above is an early prototype and may differ from the current boards, it is only used to display the locations of the LEDs.
 
-The motor board contains an isolation barrier to avoid ground loops. This means power must be provided to the 12V input and USB. The USB only powers up the USB-serial adapter and not the microcontroller, as such without 12V power, the USB port will appear but will respond to any communication.
+The motor board contains an isolation barrier to avoid ground loops. This means power must be provided to the 12V input and USB. The USB only powers up the USB-serial adapter and not the microcontroller, as such without 12V power, the USB port will appear but will not respond to any communication.
 
 ## Motor Board LEDs
 
