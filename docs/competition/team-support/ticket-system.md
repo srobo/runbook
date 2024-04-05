@@ -13,7 +13,7 @@ A view of the current problems that teams are having and how many teams are in a
 
 ## Accessing the system
 
-The ticket system on your laptop, tablet or phone - Go to https://helpdesk.studentrobotics.org.
+The ticket system on your laptop, tablet or phone - Go to https://studentrobotics.org/helpdesk/.
 
 If you have one, you can log in with your Student Robotics Google Workspace account. If you don't, you can sign up with a username and password. You may need the sign up code, which can be found at the helpdesk.
 
