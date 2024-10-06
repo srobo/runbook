@@ -24,18 +24,79 @@ We were unable to send LiPo batteries via DPD Local when preparing for SR2022, a
 
 ## [UPS](https://www.ups.com/gb/en/Home.page)
 
-UPS are willing to ship our kits, including LiPos. However, this is very expensive when using the consumer services.
+UPS are willing to ship our kits, including LiPos.
 
-For SR2022, we shipped kits via the UPS Business account of a friendly company, herein referred to as S5-UPS.
+When creating shipments using UPS, the recommended approach is to "create a shipment" that will be dropped off, and then separately "schedule a parcel collection" for them. This means collection only needs to be paid for once.
 
 ### Additional Packing Requirements for UPS
 
-* Lithium Polymer batteries must be individually packaged and sealed
-  * This is to prevent shorts.
-  * The batteries do not need to be in a LiPo bag, although we would strongly recommend that they are.
-* A LiPo warning sticker must be affixed to the outside of the box.
-* The LiPos must be secured such that they will not move during shipping.
-* The box must be flat-sided and "square" to qualify for low shipping rates
+- Lithium Polymer batteries must be individually packaged and sealed
+  - This is to prevent shorts.
+  - The batteries do not need to be in a LiPo bag, although we would strongly recommend that they are.
+- A LiPo warning sticker must be affixed to the outside of the box.
+- The LiPos must be secured such that they will not move during shipping.
+- The box must be flat-sided and "square" to qualify for low shipping rates
+
+### Create a shipment
+
+The "Create a shipment" form is quite long and complex. The form should be completed as below.
+
+!!! note
+    UPS recently created a new form, which hides some options and changes the wording. UPS recommend using the "Previous Experience" for more complex shipments, so that's what's assumed below.
+
+- Ship From:
+  - Wherever the kits will be collected from
+  - Return address: UKPostBox
+  - Use your own email (`@studentrobotics.org`) and phone for contact details
+- Ship To:
+  - Team address
+    - Full name or Company Name: Institution name
+    - Contact Name: Supervisor name
+  - Include email and phone
+- Parcel information
+  - Packaging type: "My Packaging"
+  - Total Identical parcels: 1
+  - Weight per parcel: 6kg
+  - Length, Width, Height: 50cm, 40cm, 20cm
+  - Total parcel value: £500
+- Do you need to schedule a collection?: "I'll drop off my shipment or include it in another collection"
+  - Set the "Estimated Ship Date" as needed
+- "Hold for customer collection at a UPS Access Point™ location?": "No, deliver to receiver"
+- What are you shipping: "Robotics kit with battery"
+- Signature Options: Signature required
+
+Once the form is submitted, the PDF for the shipping label will be opened in a new tab, where it can then be saved. The tracking code is printed on the label, and shown in the window below.
+
+!!! warning
+    Once you leave this page, it may not be possible to retrieve the label or tracking code again. It's important the label be saved immediately.
+    Submissions will **not** send you an email confirmation.
+
+!!! bug
+    When completing the form, sometimes it freezes when submitting. If it takes more than 15 seconds, cancel the shipment, reload the page, and complete the form again.
+    It's **strongly** recommended to reload the form after each submission, even after being redirected to the form afresh.
+
+### Schedule a parcel collection
+
+Once the shipments have been created, the collection can be scheduled.
+
+- "Do you have a pre-printed UPS SHipping Label for your shipment?": Yes
+  - Enter the tracking codes as instructed
+- "Collection Information and Location": Wherever the kits will be collected from. Should match the ship from address when creating the labels.
+- Service and Packaging Information:
+  - Packages in your collection: As needed
+  - Total Weight of Your Collection: 6kg × number of packages
+  - Select the matching UPS services (the shipping labels state which they're for, it should be consistent)
+- "Does your collection contain Items that weigh more than 32 Kg.?": No
+- Collection Date and Time
+  - Complete as needed
+- Collection Notifications
+  - Your SR email address
+
+Once requested, you'll receive an email with the request details.w
+
+## S5-UPS
+
+For SR2022 and SR2023, we shipped kits via the UPS Business account of a friendly company, herein referred to as S5-UPS.
 
 ### Additional Packing Requirements for S5-UPS
 
