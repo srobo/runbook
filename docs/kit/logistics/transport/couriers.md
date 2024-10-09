@@ -33,7 +33,7 @@ When creating shipments using UPS, the recommended approach is to "create a ship
 - Lithium Polymer batteries must be individually packaged and sealed
   - This is to prevent shorts.
   - The batteries do not need to be in a LiPo bag, although we would strongly recommend that they are.
-- A LiPo warning sticker must be affixed to the outside of the box.
+- A LiPo warning sticker (UN3481) must be affixed to the outside of the box.
 - The LiPos must be secured such that they will not move during shipping.
 - The box must be flat-sided and "square" to qualify for low shipping rates
 
