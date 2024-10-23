@@ -16,12 +16,6 @@ In all circumstances a shipment of a kit must have at least £500 worth of insur
 
 Note that the above package details are repeated in the loan extension instructions in [return-shipping-pack.git](https://github.com/srobo/return-shipping-pack/tree/master/instructions) and therefore should be updated there when the details change.
 
-## [DPD Local](https://www.dpdlocal.co.uk/)
-
-We have used Interlink [http://www.interlinkdirect.co.uk/](http://www.interlinkdirect.co.uk/) in the past to ship kits. Interlink were bought by DPD and rebranded to "DPD Local" in 2017.
-
-We were unable to send LiPo batteries via DPD Local when preparing for SR2022, as the majority of our batteries (any batteries not manufactured by Overlander) do not have the appropriate certifications.
-
 ## [UPS](https://www.ups.com/gb/en/Home.page)
 
 UPS are willing to ship our kits, including LiPos.
@@ -110,7 +104,13 @@ Once the shipments have been created, the collection can be scheduled.
 - Collection Notifications
   - Your SR email address
 
-Once requested, you'll receive an email with the request details.w
+Once requested, you'll receive an email with the request details.
+
+## [DPD Local](https://www.dpdlocal.co.uk/)
+
+We have used Interlink [http://www.interlinkdirect.co.uk/](http://www.interlinkdirect.co.uk/) in the past to ship kits. Interlink were bought by DPD and rebranded to "DPD Local" in 2017.
+
+We were unable to send LiPo batteries via DPD Local when preparing for SR2022, as the majority of our batteries (any batteries not manufactured by Overlander) do not have the appropriate certifications.
 
 ## S5-UPS
 
