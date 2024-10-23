@@ -75,6 +75,24 @@ Once the form is submitted, the PDF for the shipping label will be opened in a n
     When completing the form, sometimes it freezes when submitting. If it takes more than 15 seconds, cancel the shipment, reload the page, and complete the form again.
     It's **strongly** recommended to reload the form after each submission, even after being redirected to the form afresh.
 
+#### International Shipping
+
+UPS will do international shipping, for a larger cost. The shipment and collection process is the same.
+
+Alongside the label, an "invoice" is also provided, which needs to be shipped with the kit. Attaching it using a plastic wallet to the outside of the box ensures it's easily accessible.
+
+!!! danger
+
+  Batteries should not be shipped internationally, as they will likely be shipped by air.
+
+!!! warning
+
+  When completing the shipment form, it may state that there is ~£100 of estimated VAT on the shipment.
+
+  The description of the item should make clear the item is a loan, to reduce the risk of being (wrongly) charged VAT.
+
+  For SR2025, this cost was estimated but not charged.
+
 ### Schedule a parcel collection
 
 Once the shipments have been created, the collection can be scheduled.
