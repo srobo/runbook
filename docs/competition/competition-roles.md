@@ -39,7 +39,7 @@ Depending on the nature of the event, some of these roles may not be applicable.
 
 - [Roving Helper](./team-support/roving-helper.md)
 - [Tinker Time Coordinator](./team-support/tinker-time.md)
-- [Livestream Producer](./livestream/README.md)
+- [Livestream Producer](../programme/livestream/README.md)
 
 ### Helpdesk
 

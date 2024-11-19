@@ -6,4 +6,4 @@ Due to COVID-19 Student Robotics has held the competition for the SR2020 and SR2
 
 [simulator]: https://github.com/srobo/competition-simulator
 [code_submitter]: https://github.com/PeterJCLaw/code-submitter
-[livestream]: ../livestream/README.md
+[livestream]: ../../programme/livestream/README.md
