@@ -1,12 +1,5 @@
 # Audio
 
-## Audio sources
-
-!!! tip
-    On Windows, you can use [VoiceMeeter](https://vb-audio.com/Voicemeeter/) to create "virtual" audio devices to allow OBS to distinguish between incoming application audio.
-
-It's recommended to avoid Global Audio Devices unless the source is intended to be available to every scene (eg host microphones). Adding sources per scene is more work, but reduces the need to manually mute and un-mute certain sources when changing scenes.
-
 ## Music
 
 As background music during livestreams, we'll often play quiet music.
@@ -18,3 +11,10 @@ There is no simple playlist used for each event. The playlists for each event ar
 During live events, the music played throughout the venue needs to be stripped out, usually through a separate audio feed.
 
 Audio can either be played directly through OBS using the VLC source, or through a desktop audio player, so long as any other system sound effects using the audio device are muted. When playing audio, be sure to [normalize it](https://www.alphr.com/normalize-volume-vlc) to ensure the volume doesn't vary.
+
+## Audio sources
+
+!!! tip
+    On Windows, you can use [VoiceMeeter](https://vb-audio.com/Voicemeeter/) to create "virtual" audio devices to allow OBS to distinguish between incoming application audio.
+
+It's recommended to avoid Global Audio Devices unless the source is intended to be available to every scene (eg host microphones). Adding sources per scene is more work, but reduces the need to manually mute and un-mute certain sources when changing scenes.
