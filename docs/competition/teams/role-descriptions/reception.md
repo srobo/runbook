@@ -1,12 +1,13 @@
 ---
 original:
-  authors: Jeremy Morse, Rob Gilton and Sean Bedford
-  url: https://github.com/srobo/comp-team-coord-docs/blob/master/RoleDescriptions/reception.md
-  extra: |
-    The original work is based on work done by Jeremy Morse, which was under the
-    Creative Commons Attribution 4.0 License.  To view a copy of this license,
-    visit <a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a>.
+    authors: Jeremy Morse, Rob Gilton and Sean Bedford
+    url: https://github.com/srobo/comp-team-coord-docs/blob/master/RoleDescriptions/reception.md
+    extra: |
+        The original work is based on work done by Jeremy Morse, which was under the
+        Creative Commons Attribution 4.0 License.  To view a copy of this license,
+        visit <a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a>.
 ---
+
 # Reception Volunteer
 
 Reception staff control entry to the building and inform attendees that photos and videos are being taken. On top of this, reception staff have a few administrative tasks to do for new team and volunteer arrivals/departures.
@@ -15,9 +16,8 @@ Here is a flow chart summarising the details below:
 
 ![Reception Desk Flow](../diagrams/reception-desk-flow.svg)
 
-At the start of the competition day, there should be four reception staffers
-covering the entrance, and at least 4 chaperones handling individual teams.  Once the initial influx of people is complete, this
-will reduce to 1 and 0 respectively. In that case, the receptionist should also perform the chaperone role, minus leading teams to their pits as they shouldn't leave their desk for long periods.
+At the start of the competition day, there should be 3 reception staffers
+covering the entrance. Ushers will be posted by the stairs on level 3, and by the entrance to the level 3 cafe; they are there to direct teams to their pits. Once the initial influx of people is complete, reception will reduce to one staffer and ushers will no longer be required.
 
 ## For All Arrivals
 
@@ -36,21 +36,32 @@ You can give them a booklet and direct them to the arena if they seem interested
 
 ## Handling Team Arrivals
 
-When a team first arrives or leaves, your role at reception is to log this and confiscate items on entry.
+When a team first arrives or leaves, your role at reception is to log this, collect items from the team and inform them of the next steps.
 
 Offer each competitor a bag of swag as they enter.
 
 ### Team entry/exit recording
 
-You will have a sign-in/sign-out sheet for team supervisors to record that their teams have arrived, make sure they fill in the details and sign it.
+You will have been provided with access to the competition helpdesk system. One of the things this records is whether teams are present. When a team first arrives each day, please mark the team as arrived in the system. If a teams arrive and leave throughout the day, please update the system accordingly.
 
-### Confiscating batteries, chargers, and bags
+### Collecting batteries, chargers, and bags
 
 We handle battery charging and robot safety at the competition. This means we should take all of the following items from each team:
-    - 2 x Battery (Teams have 2 batteries, please take both).
-    - 1 x Battery charger.
-    - 1 x Battery charging bag.
-    - 1 x Battery charging Power Supply Unit (PSU).
+
+-   2 x Battery (Teams have 2 batteries, please take both)
+-   1 x Battery charger
+-   1 x Battery charging bag
+-   1 x Battery charging Power Supply Unit (PSU)
+
+### Next steps for the team
+
+Inform the team of these things when they first arrive at the venue:
+
+1. The team should proceed to their pit (Ushers and Shepherds will be available to provide directions).
+2. When ready for their first battery, the team should proceed to their nearest helpdesk.
+3. Helpdesk will perform a safety inspection of the robot and provide the team with a battery when it passes.
+
+For teams arriving prior to the welcome presentation on the first competition day, inform them that an announcement will be made when they need to proceed to the main arena to attend this.
 
 ## Handling Team Departures
 
@@ -60,23 +71,13 @@ We handle battery charging and robot safety at the competition. This means we sh
 
 ## Handling Volunteer Arrivals
 
-Volunteers will be turning up throughout the competition, it's important to make sure they do what is needed before entering:
+Volunteers will be turning up throughout the competition. When they do:
 
-- Ensure they have completely read the safeguarding policy (They should have been emailed this beforehand).
-- Ensure they sign in on the sign-in sheet.
-- Ask them if they know what their roles are. If they don't, contact the Volunteer Coordinator (normally Andy B-S) to brief them in the volunteer rest area.
-- Send them to the Volunteer rest area to get a T-Shirt.
+1. Collect the volunteer's name so that this can be passed on to the volunteer coordinator.
+2. Instruct the volunteer to proceed directly to the rest area and instruct them to get a t-shirt. Inform them that the volunteer coordinator will meet them there.
+3. Inform the volunteer coordinator, via phone, that the volunteer has arrived.
 
-## Chaperoning new arrivals
-
-At peak entry times on the Saturday, volunteers will be assigned as chaperones. Chaperones should act as a friendly guides who make teams settle down and feel comfortable. Chaperones should do the following:
-
-1. Guide individual teams to their pits, use the map on the leaflets to guide them vaguely, typically there are small changes from the printed map on the leaflets, so use the team names on the tables as the source of truth.
-2. Introduce the to the layout of the venue. Mostly the nearest helpdesk, toilets, and the arena.
-3. Read a quick safety briefing to the teams. You should have this on paper.
-4. If there's time, the chaperone can field questions from the team, before heading back to reception to induct the next team.
-
-If a team arrives very late, the reception staffer may need to perform some of these tasks, namely the safety briefing and telling the team the layout of the venue (including where their pits are). However the reception volunteer should not leave their desk, so they cannot lead the team to their pit.
+The volunteer coordinator will meet the volunteer at the rest area, ensure they have read the safeguarding policy and direct them to their area.
 
 ## Required Items
 
@@ -84,11 +85,8 @@ Each reception staffer should have a chair and a desk to sit at.
 
 You should have the following items present for your duties. If you do not, please let the competition event coordinator know as soon as possible.
 
-- Pens.
-- Competitor swag bags to give to teams.
-- This documentation.
-- Team Sign-in/out sheet.
-- Volunteer Sign-in/out sheet.
-- Boxes to store battery charging kits.
-- Red Lanyards for media consent denials.
-- Copy of the Safeguarding policy
+-   Pens
+-   Competitor swag bags to give to teams
+-   This documentation
+-   Boxes to store battery charging kits
+-   Red Lanyards for media consent denials
