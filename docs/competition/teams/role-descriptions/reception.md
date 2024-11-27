@@ -40,6 +40,8 @@ You can give them a booklet and direct them to the arena if they seem interested
 
 When a team first arrives or leaves, your role at reception is to log this, collect items from the team and inform them of the next steps.
 
+If competitors have arrived before their team supervisor, they should be directed to wait in the waiting area by reception until their team supervisor arrives.
+
 Offer each competitor a bag of swag as they enter.
 
 ### Team entry/exit recording
