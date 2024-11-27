@@ -10,18 +10,20 @@ original:
 
 # Reception Volunteer
 
-Reception staff control entry to the building and inform attendees that photos and videos are being taken. On top of this, reception staff have a few administrative tasks to do for new team and volunteer arrivals/departures.
+Reception staff are the first point of contact for attendees at the competition and will answer any questions when people first arrive.
+On top of this, reception staff have a few administrative tasks to do for new team and volunteer arrivals/departures.
 
 Here is a flow chart summarising the details below:
 
 ![Reception Desk Flow](../diagrams/reception-desk-flow.svg)
 
-At the start of the competition day, there should be 3 reception staffers
-covering the entrance. Ushers will be posted by the stairs on level 3, and by the entrance to the level 3 cafe; they are there to direct teams to their pits. Once the initial influx of people is complete, reception will reduce to one staffer and ushers will no longer be required.
+At the start of the competition day, there should be 3 reception staffers covering the entrance.
+Ushers will be posted by the stairs on level 3, and by the entrance to the level 3 cafe; they are there to direct teams to their pits.
+Once the initial influx of people is complete, reception will reduce to one staffer and ushers will no longer be required.
 
 ## For All Arrivals
 
-All people that enter the venue should be aware that we're taking photos and videos. There should be signage outside, so don't worry if you miss some people. But do try to check with most people who are arriving for the first time at the event.
+All people that enter the venue should be aware that we're taking photos and videos. There will be signage outside and on the table, so that people are made aware.
 
 ### If people object to being recorded
 
@@ -30,7 +32,7 @@ If they still object, they should be given a red lanyard and told to wear them a
 
 ## Handling members of the public
 
-Throughout the competition, receptionists typically get a lot of questions by the public. Any member of the public is allowed into the building. You just need to inform them about photos and videos being recorded.
+Throughout the competition, receptionists typically get a lot of questions by the public. Any member of the public is allowed into the building.
 
 You can give them a booklet and direct them to the arena if they seem interested.
 
@@ -90,3 +92,4 @@ You should have the following items present for your duties. If you do not, plea
 -   This documentation
 -   Boxes to store battery charging kits
 -   Red Lanyards for media consent denials
+-   "Recording in progress" signage
