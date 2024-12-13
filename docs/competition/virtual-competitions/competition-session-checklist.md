@@ -35,6 +35,7 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 
 - Get a copy of the updated compstate
 - Run the simulations
+- Post-process the animation files to work around <https://github.com/cyberbotics/webots/issues/6426>
 - Upload the entire output to our Google Drive Folder
 
 ## Pre Go Live
