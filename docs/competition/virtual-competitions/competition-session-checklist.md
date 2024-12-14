@@ -17,6 +17,7 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
     - Scorer - Updates the compstate with match files
     - Chat Mods - Monitor the livestream and Discord chats
 - Check for any new dropouts and update the compstate as necessary
+- Check that the `@commentators` group in Slack points at the right people
 - Presenters prepare a scripted introduction to the session
 - Revise the rules for the new module
 - Update the simulator for the new module in the private repo
@@ -38,20 +39,28 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 - Post-process the animation files to work around <https://github.com/cyberbotics/webots/issues/6426>
 - Upload the entire output to our Google Drive Folder
 
+## Scoring & Production Prep
+
+- Score the matches
+- Identify things of interest, capture screenshots & videos, prepare a document describing these for the producer
+- Prepare a document with summaries of previous/next match and notes for the commentators
+
 ## Pre Go Live
 
 - Check the compbox services (SRComp etc.) are still running
 - Create and set thumbnail for the livestream
 - Put the website into competition mode
 - Producer downloads the recordings and configures the video scheduler to find the files correctly
-- Scorer downloads the match files
+- Producer downloads the screenshots & videos of things of interest
+- Scorer downloads the match score files
 - Presenters rehearse any presentations they need to give
 - Presenters join a pre-livestream call to rehearse their interactions
 
 ## Go Live
 
 - Presenters present
-- Scorer commits and pushes match files to the compstate as they are broadcast
+- Scorer deploys the match files to the compstate as they are broadcast
+- Scorer copies match summaries into Slack `#livestream` for the commentators as the matches are broadcast
 - Chat Mods to monitor chat and forward on any relevant messages to presenters or producer via Slack (the `@commentators` group may be useful for this)
 
 ## Module Announcement
