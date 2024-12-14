@@ -46,7 +46,7 @@ If the team confirm they aren't coming we will update the compstate to mark them
 * Marking them as `dropped_out_after` the last match of the previous stage of the competition -- probably the Virtual League if there was one, or match `-1` if there are no prior matches
 
 !!! warning
-    This is very hard to undo once matches start, so only used it the team explicitly confirm they're not coming.
+    This is very hard to undo once matches start, so only mark them as dropped out if the team explicitly confirm they're not coming.
 
 ## Decide if and how this affects the match schedules
 
