@@ -19,6 +19,8 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 - Check for any new dropouts and update the compstate as necessary
 - Check that the `@commentators` group in Slack points at the right people
 - Presenters prepare a scripted introduction to the session
+    - Check which sponsors to include
+    - Check what upcoming events to call out afterwards
 - Revise the rules for the new module
 - Update the simulator for the new module in the private repo
 - Draft a post-event website article with details of the new module (any game sensitive content to be reviewed via Google Drive)
