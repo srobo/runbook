@@ -9,23 +9,18 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
 
 ## Equipment
 
-* Two copies of the rules - one attached to a desk by some means
-* A copy of this document
-* Issue forms for both Helpdesk Volunteers and Roving Helpers
+* Physical copies of the rules
+* A physical copy of this document
 * Kit Swap Forms
 * Spare kit in the 'spare kit box'
-* List of spare kit
 * Broken kit box
-* Issue Form box
-* Laptop to view documentation and the IDE
-* Red insulating tape
+* Red insulating tape (to mark broken kit)
 * Permanent marker
 * Large post-it notes
 * Radio
-* Emergency contact number for the Health and Safety Coordinator
-* Spare robot flags/badges for teams to borrow to try for size (must be clearly marked and returned to helpdesk ASAP)
+* Spare robot flags for teams to borrow to try for size (must not leave helpdesk)
 * Spare robot flag pipe fittings to give to teams
-* Saturday evening battery/charger loans
+* Saturday evening battery/charger loan form
 
 ## Volunteer Requirements
 
