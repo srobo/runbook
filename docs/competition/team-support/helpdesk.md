@@ -83,6 +83,12 @@ Changes of name should be reviewed by the team supervisor before being actioned,
 !!! note
     The name is the name of their "team" not the name of their "robot".
 
+### Handling of teams leaving early
+
+If a team wishes to leave early, they must [return their kit](./kit-return.md) to helpdesk.
+
+If a team wants to leave before the knockouts begin, contact the Event Coordinator.
+
 ### Frequently Asked Questions
 
 Based on issues handled in previous years, the following may be helpful:
