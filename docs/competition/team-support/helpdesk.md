@@ -26,6 +26,8 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
 
 At least one volunteer on Helpdesk must have prior experience of the use of the Student Robotics kit.
 
+It's recommended that all helpdesk volunteers have a laptop or tablet to access the [ticket system](./ticket-system.md). The system can be used from a smartphone.
+
 ## Procedures
 
 Almost all of Helpdesk's operations are covered by the following procedures.
