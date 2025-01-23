@@ -14,4 +14,6 @@ At the end of the day on Saturday, Roving Helpers should search all pits for bat
 
 Batteries should be returned to reception on Sunday when teams enter the venue. The list of teams who took batteries overnight should be used to confirm which teams bring them back.
 
+Returned batteries should be put on charge as soon as possible.
+
 On Sunday Morning, the Head Helpdesker is responsible for checking that all loaned batteries and chargers were handed in by teams.
