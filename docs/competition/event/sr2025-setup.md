@@ -73,6 +73,12 @@ gantt
     Setup power tools area :setupPowerTools, after setupHelpdesk, 1h
     Place arena barriers :arenaBarriers, 11:30, 0.5h
 
+    section Team D (4)
+    Make swag bags :swagBags, 09:00, 3.5h
+
+    section Team E (2)
+    Add hi-vis jacket labels :jacketLabels, 09:00, 1h
+
     section SUSU Crew
     Setup pit power :setupPitPower, 10:30, 1h
     Setup venue screens :setupVenueScreensSUSU, 11:30, 1h
