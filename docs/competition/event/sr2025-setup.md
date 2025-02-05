@@ -2,6 +2,8 @@
 
 The event logistics area is responsible for the setup at the SR2025 competition. Volunteers will be split into teams with a plan for the day, and each team will have a leader.
 
+The number following each team is the number of people that team should ideally have.
+
 ## Saturday
 
 ```mermaid
