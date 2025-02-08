@@ -24,3 +24,9 @@ The overlay should be present on all scenes which display matches, and perhaps a
 ## Video Scheduler
 
 In a simulator-based competition, matches are pre-recorded. To assist with the automatic queueing and playback of matches in line with the competition schedule, we use [SRComp Mixtape](https://github.com/srobo/srcomp-mixtape). Mixtape can also control the scene transitions at either end of each match. See [Mixtape's documentation](https://github.com/srobo/srcomp-mixtape#configuration) for how to create a suitable playlist file to configure mixtape.
+
+## Commentary
+
+[In-match commentary](../../competition/matches/commentating.md) is usually provided by separate commentators to those handling commentary between matches, to give them a break.
+
+The in-match commentators will likely start introducing a match at 20 seconds. For the finals, this may be increased to 30 seconds or a minute.
