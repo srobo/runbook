@@ -31,9 +31,9 @@ Depending on the nature of the event, some of these roles may not be applicable.
 
 ### Arena
 
-- [Marshal](./matches/match-scoring/#match-marshal)
-- [Arena Resetter](./matches/match-scoring/#match-marshal)
-- [Score Entry](./matches/match-scoring/#match-score-entry)
+- [Marshal](./matches/match-scoring.md#match-marshal)
+- [Arena Resetter](./matches/match-scoring.md#match-marshal)
+- [Score Entry](./matches/match-scoring.md#match-score-entry)
 
 ## Team Support
 
@@ -43,14 +43,14 @@ Depending on the nature of the event, some of these roles may not be applicable.
 
 ### Helpdesk
 
-- [Battery Charging](/kit/event-operations/battery-charging.md)
-- [Battery Shuffler](/kit/event-operations/battery-shuffler.md)
+- [Battery Charging](../competition/team-support/battery-charging.md)
+- [Battery Shuffler](../competition/team-support/battery-shuffler.md)
 - [Helpdesker](./team-support/helpdesk.md)
 
 ## Reception
 
 - [Photo Studio Manager](./teams/photo-studio.md)
-- [Photo Studio Helper](./teams/photo-studio.md#photo-studio-helper)
+- [Photo Studio Assistant](./teams/photo-studio.md#photo-studio-assistant)
 - [Crimper](./teams/role-descriptions/crimper.md)
 - [Door Guard](./teams/role-descriptions/door-guard.md)
 - [Kit Return](./team-support/kit-return.md)

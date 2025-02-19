@@ -32,7 +32,7 @@ There are 5 green LEDs that are a "progress bar" of boot progress on the KCH. Ea
     - This LED indicates that the filesystem structure on the SD card is valid.
     - It also indicates that the SD card contains a Student Robotics OS image.
 - 60%
-    - This LED is controlled by [`kchd`](../../software/#kch-daemon-kchd) and indicates `kchd` is running.
+    - This LED is controlled by [`kchd`](../software/README.md#kch-daemon-kchd) and indicates `kchd` is running.
     - If this LED has turned on, most of the operating system is loaded and behaving correctly.
 - 80%
     - This LED is turned on when `kchd` has connected to the MQTT broker.
@@ -45,7 +45,7 @@ There are 5 green LEDs that are a "progress bar" of boot progress on the KCH. Ea
 
 The following LEDs are driven by GPIO on the Raspberry Pi and indicate the status of the robot.
 
-All except the `Start` and Heartbeat LED are controlled by [`kchd`](../../software/#kch-daemon-kchd). If `kchd` is not running, these LEDs will not light up. Check the 60% boot progress LED to confirm that `kchd` is running.
+All except the `Start` and Heartbeat LED are controlled by [`kchd`](../software/README.md#kch-daemon-kchd). If `kchd` is not running, these LEDs will not light up. Check the 60% boot progress LED to confirm that `kchd` is running.
 
 - `Code` (Green)
     - Enabled when a USB drive containing a usercode file (`robot.py`) is mounted.

@@ -64,7 +64,7 @@ Some teams may not turn up at Kickstart, therefore leaving their kit uncollected
 
 If a responsible person in attendance at the Kickstart event (for example the Local Kickstart Coordinator) is willing to store the kit for a week or two, and is able to make it available for courier collection, then this is preferable.
 
-If it is not possible to store the kit locally, it must be returned to UK Postbox ASAP. A [Return Shipping Pack](#return-shipping-pack) must be used to package the kit for return. Someone (possibly the venue) will need to make the kit available for courier collection in the day or two following Kickstart.
+If it is not possible to store the kit locally, it must be returned to UK Postbox ASAP. A Return Shipping Pack must be used to package the kit for return. Someone (possibly the venue) will need to make the kit available for courier collection in the day or two following Kickstart.
 
 ## Reallocating kits from drop-outs
 

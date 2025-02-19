@@ -12,7 +12,7 @@ Depending on the nature of the event, some of these roles may not be applicable.
 - Setup/Teardown Coordinator
 - Freight Coordinator
 - Tech Setup/Teardown Lead
-- Arena Setup/Teardown Lead ([2016](./arena/sr2016/), [2017](./arena/sr2017/))
+- Arena Setup/Teardown Lead ([2016](./arena/sr2016.md), [2017](./arena/sr2017.md))
 - Pit Setup/Teardown Lead
 
 - Networking

@@ -3,3 +3,7 @@ mkdocs-material==9.6.4
 mdx-include==1.4.2
 mkdocs-markdownextradata-plugin==0.2.6
 mkdocs-mermaid2-plugin==1.2.1
+
+# 4.13.0 deprecates some APIs used by mkdocs-mermaid2-plugin.
+# Pin to an older version to silence warnings.
+beautifulsoup4==4.12.3
