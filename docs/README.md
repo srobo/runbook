@@ -1,3 +1,8 @@
+---
+hide:
+    - navigation
+---
+
 # Home
 
 Welcome to our runbook. This aims to be a single source for all Student Robotics
@@ -16,7 +21,7 @@ We are always open to new ways to do things, though by recording the reasons
 for our current approach we aim to avoid needing to rediscover that repeatedly.
 
 For more detailed guidance for editors, please see our
-[contribution guide](./contributing.md).
+[contribution guide](./volunteering/contributing-to-the-runbook.md).
 
 ### Scope Limitations
 

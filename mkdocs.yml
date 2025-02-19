@@ -4,16 +4,17 @@ repo_url: https://github.com/srobo/runbook
 strict: true
 edit_uri: edit/main/docs/
 theme:
-  logo:
-    icon: library_books
-  favicon: favicon.ico
   name: material
-  feature:
-    tabs: true
+  icon:
+    logo: fontawesome/solid/book
+  favicon: favicon.ico
   palette:
     primary: 'blue'
     accent: 'blue'
   custom_dir: theme
+  features:
+    - navigation.tabs
+    - navigation.index
 copyright: |
   Copyright &copy; Student Robotics contributors
   <br>
@@ -25,11 +26,11 @@ copyright: |
 # Customization
 extra:
   social:
-    - type: globe
+    - icon: fontawesome/solid/globe
       link: https://studentrobotics.org
-    - type: github-alt
+    - icon: fontawesome/brands/github-alt
       link: https://github.com/srobo
-    - type: twitter
+    - icon: fontawesome/brands/twitter
       link: https://twitter.com/studentrobotics
 
 # Extensions
