@@ -146,6 +146,18 @@ jobs:
           popd
           mv artifact.tar main.tar
 
+      # The compression of the sitemap appears to be non-deterministic, so diffs
+      # aren't useful. There is a non-compressed version also present, so we're
+      # not losing anything by dropping the compressed one.
+      - name: Drop compressed sitemap
+        run: |
+          pushd main
+          [ -f sitemap.xml ] && rm sitemap.xml.gz
+          popd
+          pushd local
+          [ -f sitemap.xml ] && rm sitemap.xml.gz
+          popd
+
       - name: Diff
         id: diff
         run: |
