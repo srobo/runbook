@@ -34,10 +34,10 @@ with "meetings" which are typically where discussions happen
 
 : a development platform, used to host code repositories and to coordinate tasks
 
-[_KCH_](/kit/hardware/kch.md):
+[_KCH_](../kit/hardware/kch.md):
 
 : a [_Raspberry Pi HAT_](https://www.raspberrypi.com/news/introducing-raspberry-pi-hats/) designed
-by Student Robotics that is part of our [_Brain Board_](/kit/hardware/brain-board.md) assembly. KCH
+by Student Robotics that is part of our [_Brain Board_](../kit/hardware/brain-board.md) assembly. KCH
 stands for _Kajetan Champlewski HAT_ in memory of a volunteer.
 
 _Kickstart_:
@@ -56,11 +56,6 @@ _Team Kits_ and for supporting competitors in using those kits
 _Mentor_:
 
 : a volunteer who helps teams build their robots
-
-_PLOD_:
-
-: an initialism of [_Pink LED of Death_](/kit/hardware/servo-board.md#pink-led-of-death-plod-bug), a
-bug that is present in the Servo Board that can be identified by a pink / purple light on the board.
 
 [_Pull Request (PR)_](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests):
 

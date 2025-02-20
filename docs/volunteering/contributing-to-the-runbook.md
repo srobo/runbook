@@ -1,4 +1,4 @@
-# Contributing
+# Contributing to the runbook
 
 Contributions to Student Robotics' Runbook should follow Student Robotics'
 [Code of Conduct][code-of conduct] and made under a compatible [license][license].
@@ -6,7 +6,7 @@ Contributions to Student Robotics' Runbook should follow Student Robotics'
 You may also find the [Zen of Python][pep-20] provides useful guidance.
 
 [code-of conduct]: https://opsmanual.studentrobotics.org/about-the-charity/code-of-conduct
-[license]: ./license.md
+[license]: https://github.com/srobo/runbook/blob/main/LICENSE
 [pep-20]: https://www.python.org/dev/peps/pep-0020/
 
 ## Making big changes
@@ -70,7 +70,7 @@ tools, though may indicate places where those tools should be used.
 The [runbook's homepage][home] has some additional commentary about this.
 
 [srtools]: https://srtools.readthedocs.io/en/latest/
-[home]: ./README.md
+[home]: ../README.md
 
 ### Record reasons
 
@@ -117,7 +117,7 @@ contributing to improved upstream documentation!
 
 `mkdocs` has the power to resolve and validate links, however only when they're
 in a specific format. Links to pages inside the runbook should be relative, and
-end with the `.md` file extension (ie `[some other page](./volunteering/tasks.md)`
-produces [some other page](./volunteering/tasks.md)). This way, `mkdocs` will
+end with the `.md` file extension (ie `[some other page](./tasks.md)`
+produces [some other page](./tasks.md)). This way, `mkdocs` will
 correctly validate these links. Links which don't follow this format are not
 validated.

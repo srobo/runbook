@@ -11,8 +11,8 @@ The services typically include:
 **Forums**
 :   A space which the competitors can use to chat with each other and with
     mentors and to ask for help with developing their robots.
-    Historically we have used [PHPBB](https://phpbb.com), although from SR2021 
-    onwards we have moved to using Discord with a bot to [gate entry](discord-gated-entry).
+    Historically we have used [PHPBB](https://phpbb.com), although from SR2021
+    onwards we have moved to using Discord with a bot to [gate entry][discord-gated-entry].
 
 **[Code submitter](https://github.com/PeterJCLaw/code-submitter/)**
 :   For the virtual competitions, this is a mechanism for competitors to submit
