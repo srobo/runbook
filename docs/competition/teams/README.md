@@ -7,7 +7,7 @@ original:
 
 This is the documentation for the competition team coordinator role.
 
-There are 5 subordinate roles at the event, each of which is described
+There are various subordinate roles at the event, each of which is described
 in the following documents:
 
 * [Crimper](./role-descriptions/crimper.md)
