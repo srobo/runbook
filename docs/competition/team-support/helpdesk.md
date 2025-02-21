@@ -62,7 +62,9 @@ If a team comes to Helpdesk with a suspicion of some of the Student Robotics kit
 
 #### Swapping out kit
 
-After determining that a piece of kit is most likely faulty it must be swapped with a working spare. Helpdesk has a supply of spare kit. To swap a piece of kit please fill in a [Kit Swap Form](https://docs.google.com/document/d/1X4ewwhkTFKfCzQjlIUS-90ZhcFHzashRhz_kXnUlxjE/edit?usp=sharing) and follow the instructions on there. Since there is a limited quantity of spare kit, all attempts must be made to verify that the issue being observed is not caused by something else.
+After determining that a piece of kit is most likely faulty it must be swapped with a working spare. Helpdesk has a supply of spare kit. To swap a piece of kit please fill in a [Kit Swap Form](https://docs.google.com/document/d/1X4ewwhkTFKfCzQjlIUS-90ZhcFHzashRhz_kXnUlxjE/edit?usp=sharing) and follow the instructions on there.
+
+Since there is a limited quantity of spare kit, all attempts must be made to verify that the issue being observed is not caused by something else. However, since issues may prevent a team from testing or competing, we should avoid debugging our own kit where possible, instead replacing a component and debugging it later.
 
 ### Swapping out batteries
 
