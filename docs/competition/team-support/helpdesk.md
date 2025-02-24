@@ -11,7 +11,6 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
 
 * Physical copies of the rules
 * A physical copy of this document
-* Kit Swap Forms
 * Spare kit in the 'spare kit box'
 * Broken kit box
 * Red insulating tape (to mark broken kit)
@@ -20,13 +19,25 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
 * Radio
 * Spare robot flags for teams to borrow to try for size (must not leave helpdesk)
 * Spare robot flag pipe fittings to give to teams
-* Battery / charger loan form
+
+### Documents
+
+* Kit Swap Forms
+* Overnight Battery loan form
+* Safety inspection forms
+* Regulations inspection forms
+* Tinker time schedule
+* Kit return forms
+* Kit return list
+* Missing Kit forms
+
+Some of these may be physical documents, and others may be [linked to from the helpdesk system](./helpdesk-system.md#links).
 
 ## Volunteer Requirements
 
 At least one volunteer on Helpdesk must have prior experience of the use of the Student Robotics kit.
 
-It's recommended that all helpdesk volunteers have a laptop or tablet to access the [ticket system](./ticket-system.md), docs and other online resources. The system can be used from a smartphone.
+It's recommended that all helpdesk volunteers have a laptop or tablet to access the [helpdesk system](./helpdesk-system.md), docs and other online resources. The system can be used from a smartphone.
 
 ## Procedures
 
@@ -34,11 +45,11 @@ Almost all of Helpdesk's operations are covered by the following procedures.
 
 ### Handling of all requests
 
-Whenever a team comes to Helpdesk with an issue that cannot be solved instantly, create a [ticket](./ticket-system.md). This ensures that no problems get dropped while they are being investigated. When the issue is resolved the ticket will be closed.
+Whenever a team comes to Helpdesk with an issue that cannot be solved instantly, create a [ticket](./helpdesk-system.md#tickets). This ensures that no problems get dropped while they are being investigated. When the issue is resolved the ticket will be closed.
 
 ### Robot safety checks
 
-The robots require safety checking before they are allowed to compete in the competition. Teams will not be given their hi-viz vest until their robot has passed the safety check procedure. Helpdesk volunteers should perform a safety check according to the [safety checklist](https://docs.google.com/document/d/1psLhgLw21m1u2BwGJHi6IEMYQTLhcjWmQdhJ_6tLQUE/edit) and record the result.
+The robots require safety checking before they are allowed to compete in the competition. Teams will not be given their hi-viz vest until their robot has passed the safety check procedure. Helpdesk volunteers should perform a safety check according to the safety checklist (linked in the helpdesk system) and record the result.
 
 Regulations checks will be done by other volunteers visiting a team in their pit. Helpdesk volunteers do not need to do regulations checks, but may need to answer questions.
 
@@ -62,7 +73,7 @@ If a team comes to Helpdesk with a suspicion of some of the Student Robotics kit
 
 #### Swapping out kit
 
-After determining that a piece of kit is most likely faulty it must be swapped with a working spare. Helpdesk has a supply of spare kit. To swap a piece of kit please fill in a [Kit Swap Form](https://docs.google.com/document/d/1X4ewwhkTFKfCzQjlIUS-90ZhcFHzashRhz_kXnUlxjE/edit?usp=sharing) and follow the instructions on there.
+After determining that a piece of kit is most likely faulty it must be swapped with a working spare. Helpdesk has a supply of spare kit. To swap a piece of kit please fill in a Kit Swap Form (linked in the helpdesk system) and follow the instructions on there.
 
 Since there is a limited quantity of spare kit, all attempts must be made to verify that the issue being observed is not caused by something else. However, since issues may prevent a team from testing or competing, we should avoid debugging our own kit where possible, instead replacing a component and debugging it later.
 
@@ -96,6 +107,10 @@ Changes of name should be reviewed by the team supervisor before being actioned,
 If a team wishes to leave early, they must [return their kit](./kit-return.md) to helpdesk.
 
 If a team wants to leave before the knockouts begin, contact the Event Coordinator.
+
+### Booking tinker time
+
+See [Tinker time](./tinker-time.md#booking-slots).
 
 ## Frequently Asked Questions
 

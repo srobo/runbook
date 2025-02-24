@@ -66,6 +66,7 @@ markdown_extensions:
   - pymdownx.tilde
   - mdx_include:
       base_path: docs
+  - attr_list
 
 
 plugins:
