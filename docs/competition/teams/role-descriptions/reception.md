@@ -48,6 +48,8 @@ Offer each competitor a bag of swag as they enter.
 
 You will have been provided with access to the competition helpdesk system. One of the things this records is whether teams are present. When a team first arrives each day, please mark the team as arrived in the system. If a teams arrive and leave throughout the day, please update the system accordingly.
 
+Note, teams need to have their supervisor present while they are at the event. Make sure you are talking to the team supervisor during the sign in process. Team members who arrive before their supervisor can wait in the seating beside reception.
+
 ### Collecting batteries, chargers, and bags
 
 We handle battery charging and robot safety at the competition. This means we should take all of the following items from each team:
@@ -56,6 +58,8 @@ We handle battery charging and robot safety at the competition. This means we sh
 -   1 x Battery charger
 -   1 x Battery charging bag
 -   1 x Battery charging Power Supply Unit (PSU)
+
+Where teams are missing some of these items, note down the missing items in the helpdesk system and continue with the check-in process. Helpdesk will deal with these missing items later on.
 
 ### Next steps for the team
 
@@ -95,3 +99,4 @@ You should have the following items present for your duties. If you do not, plea
 -   Boxes to store battery charging kits
 -   Red Lanyards for media consent denials
 -   "Recording in progress" signage
+-   Optionaly, a laptop to use the helpdesk system on
