@@ -99,4 +99,4 @@ You should have the following items present for your duties. If you do not, plea
 -   Boxes to store battery charging kits
 -   Red Lanyards for media consent denials
 -   "Recording in progress" signage
--   Optionaly, a laptop to use the helpdesk system on
+-   Optionally, a laptop to use the helpdesk system on
