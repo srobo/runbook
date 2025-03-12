@@ -40,7 +40,7 @@ Whenever a team comes to Helpdesk with an issue that cannot be solved instantly,
 
 The robots require safety checking before they are allowed to compete in the competition. Teams will not be given their hi-viz vest until their robot has passed the safety check procedure. Helpdesk volunteers should perform a safety check according to the [safety checklist](https://docs.google.com/document/d/1psLhgLw21m1u2BwGJHi6IEMYQTLhcjWmQdhJ_6tLQUE/edit) and record the result.
 
-Regulations checks will be done by other volunteers visiting a team in their pit. Helpdesk volunteers do not need to do regulations checks, but may need to answer questions.
+Regulations checks will be done by [other volunteers](./regulations-inspector.md) visiting a team in their pit. Helpdesk volunteers do not need to do regulations checks, but may need to answer questions.
 
 ### General robot development queries
 

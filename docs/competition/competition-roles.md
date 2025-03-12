@@ -12,7 +12,7 @@ Depending on the nature of the event, some of these roles may not be applicable.
 - [Intro Briefer](./event/intro-brief.md)
 - [Refreshments](./volunteers/refreshments.md)
 - [Team Pit Manager](./team-pits/README.md)
-- [Robot Safety Inspector](./matches/README.md#robot-safety-inspections)
+- [Robot Regulations Inspector](./team-support/regulations-inspector.md)
 - Group Photo Photographer
 - [Health and Safety Coordinator](./event/incident-management.md)
 
