@@ -41,5 +41,5 @@ After the competition, these forms are tabulated and the teams contacted to ensu
 
 If the team cannot find the item of kit, a like-for-like replacement (or as close as possible) should be ordered and shipped to us.
 
-[kit-return-form]: https://docs.google.com/document/d/11W2pB2FzoIncv22DgOUHnk_hH0bLkGInXoIL7pCbwOA/edit?usp=sharing
+[kit-return-form]: https://docs.google.com/document/d/133C3IvHPXv8UMeuQSROYATsZDNsVlfGtCk80iDFr7ZE/edit?usp=sharing
 [kit-cheat-sheet]: https://docs.google.com/document/d/1FnMTGaeSnH9Q2ZTSHW3QgiSVpV4Iv32oJCpvGKDADLs/edit?usp=sharing
