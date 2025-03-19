@@ -48,4 +48,4 @@ The Ticketing System uses several different "queues" of tickets to track differe
 Alongside the native features of the helpdesk, it also links off to other documents and resources, which may be useful to those on helpdesk. Links to useful year-specific documents, templates and other resources can be found there.
 
 !!! tip
-    If you don't have access to the linked Google Docs files, ask Head of Helpdesk.
+    If you don't have access to the linked Google Docs files, ask the Head of Helpdesk.
