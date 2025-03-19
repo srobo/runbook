@@ -13,10 +13,6 @@ original:
 Reception staff are the first point of contact for attendees at the competition and will answer any questions when people first arrive.
 On top of this, reception staff have a few administrative tasks to do for new team and volunteer arrivals/departures.
 
-Here is a flow chart summarising the details below:
-
-![Reception Desk Flow](../diagrams/reception-desk-flow.svg)
-
 At the start of the competition day, there should be 3 reception staffers covering the entrance.
 Ushers will be posted by the stairs on level 3, and by the entrance to the level 3 cafe; they are there to direct teams to their pits.
 Once the initial influx of people is complete, reception will reduce to one staffer and ushers will no longer be required.
