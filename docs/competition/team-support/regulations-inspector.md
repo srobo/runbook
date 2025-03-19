@@ -1,6 +1,6 @@
 # Regulations Inspector
 
-Before any robot may compete in a match, it must be inspected to ensure that it complies with the game rules. Regulations checks are performed by volunteers visiting a team in their pit. Teams with earlier matches should be checked firstThe Robot Regulations Checklist ([example][robot-regulations-checklist]) should be used to inspect a robot.
+Before any robot may compete in a match, it must be inspected to ensure that it complies with the game rules. Regulations checks are performed by volunteers visiting a team in their pit. Teams with earlier matches should be checked first. The Robot Regulations Checklist ([example][robot-regulations-checklist]) should be used to inspect a robot.
 
 !!! warning
     A team should not be regulations checked until they have passed a safety check. If a team has not yet passed a safety check, suggest they contact helpdesk immediately.
