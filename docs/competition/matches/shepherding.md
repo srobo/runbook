@@ -53,7 +53,7 @@ If it seems like the timing does not work out (teams waiting for a long time for
 
 The responsibility of the guard is to open and close the staging area at appropriate times and control entry to this area.
 
-More specifically the guard should not allow anyone into the staging area unless they are a blueshirt or staging for the next match. Only one person from each team is allowed in the staging area and they must wear a high-vis vest showing their team name, indicating that they have passed the safety and regulations checks.
+More specifically the guard should not allow anyone into the staging area unless they are a blueshirt or staging for the next match. Only one person from each team is allowed in the staging area and they must wear a high-vis vest showing their team name, indicating that they have passed the safety and regulations checks. If they do not have a high-vis, they may not compete.
 
 !!! warning
   If a robot no longer meets the safety or regulations checks, confiscate their battery or hi-viz respectively and suggest they contact helpdesk immediately.
