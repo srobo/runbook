@@ -14,7 +14,7 @@ Reception staff are the first point of contact for attendees at the competition 
 On top of this, reception staff have a few administrative tasks to do for new team and volunteer arrivals/departures.
 
 At the start of the competition day, there should be 3 reception staffers covering the entrance.
-Ushers will be posted by the stairs on level 3, and by the entrance to the level 3 cafe; they are there to direct teams to their pits.
+Ushers will be posted by the stairs on level 3, and by the level 3 helpdesk; they are there to direct teams to their pits.
 Once the initial influx of people is complete, reception will reduce to one staffer and ushers will no longer be required.
 
 ## For All Arrivals
@@ -65,7 +65,7 @@ Inform the team of these things when they first arrive at the venue:
 2. When ready for their first battery, the team should proceed to their nearest helpdesk.
 3. Helpdesk will perform a safety inspection of the robot and provide the team with a battery when it passes.
 
-For teams arriving prior to the welcome presentation on the first competition day, inform them that an announcement will be made when they need to proceed to the main arena to attend this.
+For teams arriving prior to the welcome presentation on the first competition day, inform them that an announcement will be made when they need to proceed to the main arena to attend this. Until then then they are free to work on their robot.
 
 ## Handling Team Departures
 
