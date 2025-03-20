@@ -53,7 +53,15 @@ If it seems like the timing does not work out (teams waiting for a long time for
 
 The responsibility of the guard is to open and close the staging area at appropriate times and control entry to this area.
 
-More specifically the guard should not allow anyone into the staging area unless they are a blueshirt or staging for the next match. Only one person from each team is allowed in the staging area and they must wear a high-vis vest showing their team name, indicating that they have passed the safety test. When letting a team (=person with a robot) into the staging area the guard should tell them which corner they will stage for, ideally mentioning the colour and approximate location of the staging desk if possible. We recommend that the guard keeps a record of which teams have already been admitted for a particular match. If the guard sees a team leaving the staging area with robot markers still attached to their robot, she should request that the team return the markers before leaving the staging area.
+More specifically the guard should not allow anyone into the staging area unless they are a blueshirt or staging for the next match. Only one person from each team is allowed in the staging area and they must wear a high-vis vest showing their team name, indicating that they have passed the safety and regulations checks. If they do not have a high-vis, they may not compete.
+
+!!! warning
+  If a robot no longer meets the safety or regulations checks, confiscate their battery or hi-viz respectively and suggest they contact helpdesk immediately.
+
+  Robots which do not meet the safety or regulations requirements may not compete.
+
+When letting a team (i.e. competitor with a robot) into the staging area, the guard should tell them which zone they are in, ideally by saying the colour and number of the zone (e.g. yellow 3). We recommend that the guard keeps a record of which teams have already been admitted for a particular match. If the guard sees a team leaving the staging area with a robot flag or competition mode USB still attached to their robot, they should try to stop them and get the flag and USB back as soon as possible.
+
 
 #### Badgers
 
