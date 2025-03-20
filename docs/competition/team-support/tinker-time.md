@@ -4,13 +4,17 @@ Tinker Time is time allocated in the schedule to allow teams to test their robot
 
 Each 'slot' is usually 10 minutes, depending on how much time is scheduled and how many teams are expected. For each slot, a team may book a single corner (without preference). Teams should be considerate of other teams and robots in the arena, using the space around the arena to watch rather than all trying to be in the arena at once. Shepherds will not be used to fetch teams for tinker time slot - they will need to remember.
 
-After their slot has elapsed, the team should vacate the arena (even if there isn't another team to replace them). Depending on the number of available slots, teams may be prevented from booking multiple slots.
-
-Tinker time can be booked at either [Helpdesk](./helpdesk.md) or Staging. Teams are free to cancel or postpone their slots as necessary, however they may risk losing their chance to test.
+After their slot has elapsed, the team should vacate the arena (even if there isn't another team to replace them).
 
 Robots must be Safety checked (denoted by a high-vis) before they can enter the arena for Tinker Time, however do not necessarily need to pass the Regulations check. Teams which have not had a Safety check yet should be sent to helpdesk.
 
 Unless otherwise authorised by the Event Director, Tinker Time will not run during Lunch.
+
+## Booking slots
+
+Tinker time can be booked at either [Helpdesk](./helpdesk.md) or Staging. Teams are free to cancel or postpone their slots as necessary, however they may risk losing their chance to test.
+
+Depending on the number of available slots in the schedule, teams may be prevented from booking multiple slots.
 
 ## Test Arena
 

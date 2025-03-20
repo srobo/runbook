@@ -5,12 +5,12 @@ At the end of the competition (or before if the team wishes to leave early), tea
 !!! note
     Teams wishing to leave the event early (before the closing ceremony) should return their kit to helpdesk instead.
 
-The Kit Return List ([example][kit-return-list]) should be used to ensure all the items are present and correct. One form should be used per team, and this form should be kept to prove the kit was returned correctly. Once completed, keep the form with its respective kit.
+The Kit Return Form ([example][kit-return-form]) should be used to ensure all the items are present and correct. One form should be used per team, and this form should be kept to prove the kit was returned correctly. Once completed, keep the form with its respective kit.
 
 !!! tip
     Some of the boards can be hard to distinguish. Use the [Kit Cheat Sheet][kit-cheat-sheet] to help.
 
-When fully checked, the supervisor should fill out the [Kit Return Form][kit-return-form] to confirm everything is complete.
+When fully checked, the supervisor should fill out the Kit Return Form on the back of the Kit Return Form to confirm everything is complete.
 
 If a team has received a replacement part throughout the year, they may have an additional item. Teams with additional kit should be known in advance.
 
@@ -30,7 +30,7 @@ As we handle charging during the competition, teams will have 1 Battery. We don'
 
 ## Missing Items
 
-If a kit is not complete, the [Missing Kit Form](https://docs.google.com/document/d/1G9Rv0hWHamecVhk1saslqfMxlYuAg5miJwzOg4GCpVo/edit?usp=sharing) should be completed noting which items of kit have not been returned.
+If a kit is not complete, the Missing Kit Form ([example](https://docs.google.com/document/d/1G9Rv0hWHamecVhk1saslqfMxlYuAg5miJwzOg4GCpVo/edit?usp=sharing)) should be completed noting which items of kit have not been returned.
 
 !!! tip
     Ask the team to search their pits again to confirm they haven't missed the forgotten  item
@@ -41,6 +41,5 @@ After the competition, these forms are tabulated and the teams contacted to ensu
 
 If the team cannot find the item of kit, a like-for-like replacement (or as close as possible) should be ordered and shipped to us.
 
-[kit-return-list]: https://docs.google.com/document/d/11W2pB2FzoIncv22DgOUHnk_hH0bLkGInXoIL7pCbwOA/edit?usp=sharing
-[kit-return-form]: https://docs.google.com/document/d/1eegZOBdhhDcwjxq9rwLbtxBbY3gxckNpkNXDLWMA8Yo/edit?usp=sharing
+[kit-return-form]: https://docs.google.com/document/d/133C3IvHPXv8UMeuQSROYATsZDNsVlfGtCk80iDFr7ZE/edit?usp=sharing
 [kit-cheat-sheet]: https://docs.google.com/document/d/1FnMTGaeSnH9Q2ZTSHW3QgiSVpV4Iv32oJCpvGKDADLs/edit?usp=sharing
