@@ -1,6 +1,6 @@
 # Kit Return
 
-At the end of the competition (or before if the team wishes to leave early), teams are asked to return their kits to reception. [The docs](https://studentrobotics.org/docs/kit/) notes the list of items issued in the kit, most of which we expect back. A list was also included with kits when they were shipped. At reception, the contents of the RUB should be checked to ensure it contains at least all the items on the Kit Return list. Ensure there is nothing else left in the RUB the team may want back.
+At the end of the competition (or before if the team wishes to leave early), teams are asked to return their kits to reception. [The docs](https://studentrobotics.org/docs/kit/) notes the list of items issued in the kit, most of which we expect back. A list was also included with kits when they were shipped. At reception, the contents of the RUB (Really Useful Box, the white box their kits came in) should be checked to ensure it contains at least all the items on the Kit Return list. Ensure there is nothing else left in the RUB the team may want back.
 
 !!! note
     Teams wishing to leave the event early (before the closing ceremony) should return their kit to helpdesk instead.
