@@ -112,7 +112,7 @@ Test steps:
 
 ### Arduino
 
-Here we are testing that all the pins on the arduino are funtional.
+Here we are testing that all the pins on the Arduino are functional.
 
 For this test you will need:
 - The Arduino test shield
@@ -149,7 +149,7 @@ Test steps:
 ### USB Cable Testing
 
 As of SR2024, the vast majority of kit issues reported throughout the year and to the helpdesks are due to faulty USB cables.
-For SR2025's Kit Testing we are using a [Treedix USB cable tester](https://www.amazon.co.uk/dp/B0CDP7SJZ1) to try and reduce the numbe rof faulty cables we give out.
+For SR2025's Kit Testing we are using a [Treedix USB cable tester](https://www.amazon.co.uk/dp/B0CDP7SJZ1) to try and reduce the number of faulty cables we give out.
 
 ## Additional Notes
 
