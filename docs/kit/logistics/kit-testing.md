@@ -26,6 +26,48 @@ Screw shields | Count only
 
 ### Brain Board
 
+Here we are testing that the KCH power circuit and that the Pi can boot and execute robot code.
+
+For this test you will need:
+
+- A 12 volt power supply with adapter to Camcon.
+- A USB stick
+
+```python
+from pathlib import Path
+import RPi.GPIO as GPIO
+asset_file = Path("/proc/device-tree/hat/custom_0")
+if asset_file.exists():
+    asset = asset_file.read_text()
+    # append code to seen file
+    with open("tested_KCHs.txt", "a") as f:
+        f.write(asset)
+        f.write("\n")
+
+    GPIO.setmode(GPIO.BCM)
+    GPIO.setup([10, 23, 18], GPIO.OUT, initial=GPIO.HIGH)
+else:
+    raise RuntimeError("No KCH found")
+```
+
+Test steps:
+
+1. Copy the above block of code into a file called `robot.py`. This should be the only file on the USB stick.
+2. Check that the Pi has an SD card inserted. Otherwise use an SD card from another Pi.
+3. Plug the USB stick into the Pi.
+4. Connect the 12V power supply to the brain board's Camcon connector.
+5. 3 Green LEDs on the Camcon end of the board will light.
+    - If they don't light immediately this board has failed, go to step 8.
+6. The 5 boot LEDs will light in order.
+    - If the first LED has not lit within 20 seconds this board has failed, go to step 8.
+    - If all 5 LEDs have not lit within approximately a minute this board has failed, go to step 8.
+7. The OK LED should then light a few colours before stabilising on green.
+    - If the LED stabilises on red this board has failed, go to step 8.
+    - If the LED has not lit within 20 seconds try replugging the USB stick. If it continues to not light this board has failed, go to step 8.
+8. Remove board making a separate pile for boards that failed.
+9. Repeat steps 2-8 for the next board.
+10. Copy the `tested_KCHs.txt` file off the USB stick. This is the KCH asset codes of all the passing brain boards.
+
 ### Power Board
 
 Here we are testing all outputs can be enabled and current sense is functioning.
@@ -115,9 +157,11 @@ Test steps:
 Here we are testing that all the pins on the Arduino are functional.
 
 For this test you will need:
+
 - The Arduino test shield
 
 Test steps:
+
 1. Attach the test shield to the Arduino.
 2. Connect a USB cable to the Arduino.
 3. Run the script and follow its instructions:<br>
@@ -131,6 +175,7 @@ Test steps:
 Here we are testing that the camera is accessible and can capture undistorted images.
 
 For this test you will need:
+
 - A printed [test marker](./test-marker.pdf)
 
 !!! note
@@ -138,6 +183,7 @@ For this test you will need:
     For SR2025 we also need to include the `--collect-asset` option since we have not recorded currently recorded all the serial numbers of the cameras.
 
 Test steps:
+
 1. Connect the webcam to the computer
 2. Run the script and follow its instructions:<br>
    `kit_test camera --log camera_testing.csv`
