@@ -208,7 +208,7 @@ Prior to any testing, the batteries and chargers need to have their asset codes 
 
 Next the IMAX B6 Chargers are used to storage charge the batteries.
 This will be the test for both the battery and the charger.
-To access storage charge follow the [competitor documentation](https://studentrobotics.org/docs/kit/batteries/imax_b6_charger#ChargingChecklist) except when reaching the "LiPo BALANCE" screen continue pressing `Inc.` unitl the screen reads "LiPo STORAGE".
+To access storage charge follow the [competitor documentation](https://studentrobotics.org/docs/kit/batteries/imax_b6_charger#ChargingChecklist) except when reaching the "LiPo BALANCE" screen continue pressing `Inc.` until the screen reads "LiPo STORAGE".
 
 ### USB Cable Testing
 
