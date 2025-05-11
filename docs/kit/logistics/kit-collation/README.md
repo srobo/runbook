@@ -5,6 +5,10 @@ original:
 ---
 # Kit Collation
 
+!!! note
+
+    This refers to how Kit Collation was done prior to SR2025. The updated procedure is at [Kit Testing](../kit-testing.md).
+
 The purpose of Kit Collation is to gather together all kit parts from the previous Competition Programme year, test them and store them ready for packing at the [Kit Packing](../kit-packing.md) Event. See [SR2017 Kit Collation Plan](./sr2017-kit-collation-plan.md) for a detailed plan.
 
 ## Process
