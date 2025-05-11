@@ -218,4 +218,4 @@ For SR2025's Kit Testing we are using a [Treedix USB cable tester](https://www.a
 ## Additional Notes
 
 In order to run all the tests in parallel you would need more power supplies than we have.
-The brain board test can be performed using a brain board and battery instead of the power supply.
+The brain board test can be performed using a power board and battery instead of the power supply.
