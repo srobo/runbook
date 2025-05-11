@@ -1,5 +1,14 @@
 # Kit Testing
 
+Prior to SR2025, Kit Collation and Kit Testing were separate events.
+From SR2025, we have combined the two events to reduce the number of times that volunteers need to travel for kit events over the summer.
+The key improvements that have allowed for this are the increased automation of the test scripts and the included functionality of recording board asset codes during testing.
+This allows for the removal of the manual collation step.
+
+All the automated test scripts are included in the [kit-test-scripts package](https://github.com/srobo/kit-test-scripts) the wheel file can be downloaded from [the latest release](https://github.com/srobo/.
+kit-test-scripts/releases/latest/).
+
+
 Item | Testing Step
 --- | ---
 Brain Board | [Brain Board test below](#brain-board)
