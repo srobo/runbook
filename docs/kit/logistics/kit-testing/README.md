@@ -68,7 +68,7 @@ Screwdriver | Count only
 Screw shields | Count only
 
 Once this step is completed each type of item will be grouped into a box.
-This is the box they will remain in for the rest of testing unnless they fail a step.
+This is the box they will remain in for the rest of testing unless they fail a step.
 
 ## Visual Inspection
 
