@@ -13,6 +13,7 @@ For this test you will need:
 
 - A 12 volt power supply with adapter to Camcon.
 - A USB stick
+- An SD card flashed with the current [robot image](https://github.com/srobo/robot-image/releases/latest).
 
 ```python
 from pathlib import Path
@@ -34,7 +35,7 @@ else:
 Test steps:
 
 1. Copy the above block of code into a file called `robot.py`. This should be the only file on the USB stick.
-2. Check that the Pi has an SD card inserted. Otherwise use an SD card from another Pi.
+2. Insert the test SD card.
 3. Plug the USB stick into the Pi.
 4. Connect the 12V power supply to the brain board's Camcon connector.
 5. 3 Green LEDs on the Camcon end of the board will light.
@@ -46,8 +47,8 @@ Test steps:
     - If the LED stabilises on red this board has failed, go to step 9.
     - If the LED has not lit within 20 seconds try replugging the USB stick. If it continues to not light this board has failed, go to step 9.
 8. The A, B & C LEDs should now all be lit white. If they are not this board has failed.
-9. Remove board making a separate pile for boards that failed.
-10. Repeat steps 2-8 for the next board.
+9. Disconnect the board and remove the USB stick and SD card, making a separate pile for boards that failed.
+10. Repeat steps 2-9 for the next board.
 11. Copy the `tested_KCHs.txt` file off the USB stick. This is the KCH asset codes of all the passing brain boards.
 
 ## Power Board
