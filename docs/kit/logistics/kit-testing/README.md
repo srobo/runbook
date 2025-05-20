@@ -65,7 +65,7 @@ Battery bag | Manually inventoried
 USB Memory Stick | Count & wipe
 USB A to B cable | [Count and cable test](./test-procedures.md#usb-cable-testing)
 Micro USB cable | [Count and cable test](./test-procedures.md#usb-cable-testing)
-USB Hub | Count only
+USB Hub | Manually inventoried
 CamCon (7.5mm) | Count only
 MiniCamCon (5mm) | Count only
 MicroCamCon (3.81mm) | Count only
