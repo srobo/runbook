@@ -18,18 +18,27 @@ For this test you will need:
 ```python
 from pathlib import Path
 import RPi.GPIO as GPIO
-asset_file = Path("/proc/device-tree/hat/custom_0")
-if asset_file.exists():
-    asset = asset_file.read_text()
-    # append code to seen file
-    with open("tested_KCHs.txt", "a") as f:
-        f.write(asset)
-        f.write("\n")
 
-    GPIO.setmode(GPIO.BCM)
-    GPIO.setup([24, 10, 25, 27, 23, 22, 4, 18, 17], GPIO.OUT, initial=GPIO.HIGH)
-else:
-    raise RuntimeError("No KCH found")
+asset_file = Path("/proc/device-tree/hat/custom_0")
+serial_file = Path("/sys/firmware/devicetree/base/serial-number")
+results = {}
+fieldnames = ['asset', 'passed', 'serial', 'kch_asset']
+logfile = Path('tested_kchs.csv')
+new_log = not logfile.exists()
+
+with open(logfile, 'a', newline='') as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    if new_log:
+        writer.writeheader()
+    try:
+        results['passed'] = False  # default to failure
+        results['serial'] = serial_file.read_text()
+        results['kch_asset'] = asset_file.read_text()
+        GPIO.setmode(GPIO.BCM)
+        GPIO.setup([24, 10, 25, 27, 23, 22, 4, 18, 17], GPIO.OUT, initial=GPIO.HIGH)
+        results['passed'] = True
+    finally:
+        output_writer.writerow(results)
 ```
 
 Test steps:
