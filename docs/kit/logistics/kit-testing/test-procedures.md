@@ -15,6 +15,7 @@ For this test you will need:
 - A USB stick
 - An SD card flashed with the current [robot image](https://github.com/srobo/robot-image/releases/latest).
 
+<!-- cspell:disable -->
 ```python
 from pathlib import Path
 import RPi.GPIO as GPIO
@@ -40,6 +41,7 @@ with open(logfile, 'a', newline='') as csvfile:
     finally:
         output_writer.writerow(results)
 ```
+<!-- cspell:enable -->
 
 Test steps:
 
