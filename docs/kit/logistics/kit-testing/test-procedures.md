@@ -17,6 +17,7 @@ For this test you will need:
 
 <!-- cspell:disable -->
 ```python
+import csv
 from pathlib import Path
 import RPi.GPIO as GPIO
 
@@ -28,13 +29,13 @@ logfile = Path('tested_kchs.csv')
 new_log = not logfile.exists()
 
 with open(logfile, 'a', newline='') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    output_writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     if new_log:
-        writer.writeheader()
+        output_writer.writeheader()
     try:
         results['passed'] = False  # default to failure
-        results['serial'] = serial_file.read_text()
-        results['kch_asset'] = asset_file.read_text()
+        results['serial'] = serial_file.read_text().strip()
+        results['kch_asset'] = asset_file.read_text().strip()
         GPIO.setmode(GPIO.BCM)
         GPIO.setup([24, 10, 25, 27, 23, 22, 4, 18, 17], GPIO.OUT, initial=GPIO.HIGH)
         results['passed'] = True
