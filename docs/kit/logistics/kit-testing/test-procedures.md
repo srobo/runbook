@@ -61,6 +61,7 @@ Test steps:
 9. Disconnect the board and remove the USB stick and SD card, making a separate pile for boards that failed.
 10. Repeat steps 2-9 for the next board.
 11. Copy the `tested_KCHs.txt` file off the USB stick. This is the KCH asset codes of all the passing brain boards.
+12. Boards that failed then need to be manually inventoried.
 
 ## Power Board
 
