@@ -6,6 +6,7 @@ coördination
 flaily
 misogynism
 offboarding
+replugging
 signups
 FNAME
 LNAME
@@ -22,6 +23,7 @@ compstate
 compstates
 floorplan
 helpdesk
+helpdesks
 helpdesker
 LKEC
 kchd
@@ -49,11 +51,14 @@ Startech
 Stormpress
 StudentRobotics
 SUSU
+Tenma
+Treedix
 Turnigy
 Unicol
 Sainsbury's
 
 # Technical things
+Arduinos
 Arenanet
 Aruco
 CamCon
@@ -89,6 +94,7 @@ udevadm
 udiskie
 udisks
 undervoltage
+uvlo
 venv
 VESA
 WEEE
