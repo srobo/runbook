@@ -34,7 +34,7 @@ with open(logfile, 'a', newline='') as csvfile:
         output_writer.writeheader()
     try:
         results['passed'] = False  # default to failure
-        results['serial'] = serial_file.read_text().strip()
+        results['serial'] = serial_file.read_text().strip().strip('\0')
         results['kch_asset'] = asset_file.read_text().strip()
         GPIO.setmode(GPIO.BCM)
         GPIO.setup([24, 10, 25, 27, 23, 22, 4, 18, 17], GPIO.OUT, initial=GPIO.HIGH)
