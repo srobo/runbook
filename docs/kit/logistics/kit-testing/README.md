@@ -30,7 +30,7 @@ For this you will want:
 
 !!! note
 
-    A single box can contain more than one type of item (i.e. boards and servo boards) but all of one type of item should be in a single box.
+    A single box can contain more than one type of item (for example motor boards and servo boards) but all of one type of item should be in a single box.
 
 ## Testing Steps
 
@@ -94,6 +94,7 @@ Items that pass visual inspection can be returned to the box they were stored in
 ## Cleaning
 
 Where adhesives have been used to attach the kit to the robot there will be sticky residue that needs to be cleaned off.
+If a case looks dirty, but is not sticky or mucky to the touch, it's ok to pass it to prioritise other tasks.
 Since we have started recommending alternative fixing methods to teams the number of boards returning with residue has decreased greatly.
 
 Any remaining sticky chunks can be scraped off flat surfaces using a flat metal scrapper.
@@ -102,3 +103,5 @@ After this a wipe down with isopropyl alcohol can remove the remaining residue.
 ## Case Repairs
 
 Where time allows, a first pass can be taken at replacing broken or missing cases by removing cases from boards that failed the functionality tests and spare case parts.
+
+If more case parts need manufacturing, the exact items and quantities should be noted down.
