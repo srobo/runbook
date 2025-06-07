@@ -1,10 +1,14 @@
 {% extends "base.html" %}
 
-What follows is an horrific hack to have a consistent License & Attribution
-section on page which have been merged in from other sources. Ideally we'd have
-something a bit more "proper", but this works for now.
+{% block content %}
+  {{ super() }}
 
-{% block source %}
+  {#
+    Include additional attribution and license information on relevant pages
+    after the content.
+    Note that this will not appear in the Table of Contents.
+  #}
+
   {% if page.meta.original %}
     <h2>Attribution</h2>
     <p>
@@ -24,10 +28,4 @@ something a bit more "proper", but this works for now.
       <p>{{ page.meta.original.extra }}</p>
     {% endif %}
   {% endif %}
-  {#
-    Finally, include the actual 'source' block -- this is the link to GitHub
-    pages. This block was chosen because it's the first one after the content
-    section in the theme template.
-  #}
-  {{ super() }}
 {% endblock %}
