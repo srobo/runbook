@@ -6,7 +6,8 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   icon:
-    logo: fontawesome/solid/book
+    logo: fontawesome/solid/book-open-reader
+    repo: fontawesome/brands/github
   favicon: favicon.ico
   palette:
     # Palette toggle for automatic mode
