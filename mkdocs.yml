@@ -65,13 +65,11 @@ extra:
 
 # Extensions
 markdown_extensions:
-  # Note: the mermaid2 plugin also relies on code blocks for graphs, which isn't
-  # completely compatible with the following extensions, so we keep them
-  # disabled. If we turn out to need code blocks in this project, we can
-  # solve this then. See https://github.com/fralau/mkdocs-mermaid2-plugin#using-mermaid-and-code-highlighting-at-the-same-time.
-  # - markdown.extensions.codehilite
-  # - pymdownx.superfences
-
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid
   - footnotes
   - markdown.extensions.admonition
   - markdown.extensions.def_list
