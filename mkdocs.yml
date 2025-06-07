@@ -14,7 +14,7 @@ theme:
   custom_dir: theme
   features:
     - navigation.tabs
-    - navigation.index
+    - navigation.indexes
     - content.action.edit
     - content.action.view
   font:
