@@ -17,6 +17,8 @@ theme:
     - navigation.index
     - content.action.edit
     - content.action.view
+  font:
+    text: Open Sans
 copyright: |
   Copyright &copy; Student Robotics contributors
   <br>
