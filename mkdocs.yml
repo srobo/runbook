@@ -17,6 +17,7 @@ theme:
     - navigation.indexes
     - content.action.edit
     - content.action.view
+    - search.suggest
   font:
     text: Open Sans
 copyright: |
