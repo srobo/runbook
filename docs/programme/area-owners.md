@@ -101,7 +101,7 @@ Team Support are not responsible for sending update emails to team supervisors. 
 
 ## Areas at the competition
 
-At the competition, the remit of some areas are so closely linked that it makes sense to merge them.
+At the competition, the remit of some areas are so closely linked that it makes sense to merge them. Areas are responsible for a number of [roles at the competition](../competition/competition-roles.md).
 
 The following additional areas are present at the competition:
 
@@ -110,13 +110,19 @@ The following additional areas are present at the competition:
 - Merged from [Livestream](#livestream--production) and [Marketing](#marketing)
 - Coordinator of Media chosen by the Livestream and Media Leads
 
-### Match Ops
+[Media roles](../competition/competition-roles.md#media)
+
+### Match Operations ("Match Ops")
 
 - [Game](#game) becomes Match Ops at the competition
 - Coordinator of Match Ops must be the Lead or Deputy of Game
 - Also includes managing the production side of things, including Opening/Closing Ceremonies.
 
+[Match Ops roles](../competition/competition-roles.md#match-operations)
+
 ### Team & Kit Support
 
 - Merged from [Team Support](#team-support) and [Kit Maintenance](#kit-maintenance)
 - Coordinator of Team and Kit Support should be chosen by the Team Support and Kit Maintenance Leads
+
+[Team & Kit Support roles](../competition/competition-roles.md#team-and-kit-support)
