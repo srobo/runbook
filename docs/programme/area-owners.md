@@ -109,6 +109,8 @@ The following additional areas are present at the competition:
 
 - Merged from [Livestream](#livestream--production) and [Marketing](#marketing)
 - Coordinator of Media chosen by the Livestream and Media Leads
+- Also includes managing the production side of things, including Opening/Closing Ceremonies.
+
 
 [Media roles](../competition/competition-roles.md#media)
 
@@ -116,7 +118,6 @@ The following additional areas are present at the competition:
 
 - [Game](#game) becomes Match Ops at the competition
 - Coordinator of Match Ops must be the Lead or Deputy of Game
-- Also includes managing the production side of things, including Opening/Closing Ceremonies.
 
 [Match Ops roles](../competition/competition-roles.md#match-operations)
 
