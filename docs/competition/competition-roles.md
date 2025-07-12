@@ -10,16 +10,12 @@ Depending on the nature of the event, some of these roles may not be applicable.
 ## Match Operations
 
 - [Tinker Time Coordinator](./team-support/tinker-time.md)
-- [Commentators](./matches/commentating.md)
 - [Judge](./matches/judging.md)
 - [Match Scorer](./matches/match-scoring.md)
 - [Head Shepherd](./matches/shepherding.md#head-shepherd)
 - [Team Shepherds](./matches/shepherding.md#team-shepherds)
 - [Badger](./matches/shepherding.md#badgers)
 - [Roving Shepherd](./matches/shepherding.md#roving-shepherd)
-- [Intro Briefer](./event/intro-brief.md)
-- Closing Ceremony presenter
-- [Robot Regulations Inspector](./team-support/regulations-inspector.md)
 - [Marshal](./matches/match-scoring.md#match-marshal)
 - [Arena Resetter](./matches/match-scoring.md#match-marshal)
 - [Score Entry](./matches/match-scoring.md#match-score-entry)
@@ -33,6 +29,7 @@ Depending on the nature of the event, some of these roles may not be applicable.
 - [Roving Helper](./team-support/roving-helper.md)
 - [Kit Return](./team-support/kit-return.md)
 - [Reception](./teams/role-descriptions/reception.md)
+- [Robot Regulations Inspector](./team-support/regulations-inspector.md)
 
 ## Media
 
@@ -40,6 +37,9 @@ Depending on the nature of the event, some of these roles may not be applicable.
 - [Photo Studio Assistant](./teams/photo-studio.md#photo-studio-assistant)
 - Group Photo Photographer
 - [Livestream Producer](../programme/livestream/README.md)
+- [Intro Briefer](./event/intro-brief.md)
+- Closing Ceremony presenter
+- [Commentators](./matches/commentating.md)
 
 ## Named roles
 
