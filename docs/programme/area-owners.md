@@ -14,9 +14,9 @@ area.
 ### Livestream & Production
 
 - Responsible for any [livestreams](./livestream/README.md); particularly:
-  - Kickstart
-  - Virtual League
-  - Main Competition
+    - Kickstart
+    - Virtual League
+    - Main Competition
 - Decides on presenters/commentators for all of their livestreams
 - Responsible for compiling any presentations, but individual areas should provide the content where required
 
@@ -24,10 +24,10 @@ area.
 
 - Manages recruitment, retention, welfare, and off-boarding of volunteers
 - Recruitment:
-  - Both for the competition year as a whole and the competition itself
+    - Both for the competition year as a whole and the competition itself
 - Welfare:
-  - Open to listen to any and all volunteer concerns
-  - More serious concerns should be raised directly with the Trustees
+    - Open to listen to any and all volunteer concerns
+    - More serious concerns should be raised directly with the Trustees
 - Responsible for planning and organising other volunteer related activities, including the volunteer meal at the competition and social events
 - Assigns to volunteers to an area for the competition
 
@@ -51,12 +51,12 @@ The Kit Maintenance team are not responsible for developing completely new kit, 
 ### Game
 
 - Before the competition, responsible for:
-  - Designing and creating the game
-  - Keep the competition software up-to-date with team dropouts and league points
+    - Designing and creating the game
+    - Keep the competition software up-to-date with team dropouts and league points
 - Responsible for implementing and managing things related to the game (e.g. scoring challenges, planning the virtual league)
 - During the competition:
-  - Responsible for planning and training match ops
-  - Appointing a Head Judge for the competition who decides on any judging decisions
+    - Responsible for planning and training match ops
+    - Appointing a Head Judge for the competition who decides on any judging decisions
 
 ### Team Support
 
@@ -75,29 +75,29 @@ Team Support are not responsible for sending update emails to team supervisors. 
 - Responsible for anything social media and website related
 - Responsible for maintaining and updating the style guide
 - Designs and/or procures:
-  - Volunteer t-shirts for the competition
-  - Banner for the competition
-  - Competitor booklet
-  - Competitor goodie-bags, including any SR branded swag
+    - Volunteer t-shirts for the competition
+    - Banner for the competition
+    - Competitor booklet
+    - Competitor goodie-bags, including any SR branded swag
 
 ### Fundraising
 
 - Responsible for raising funds from existing and new sponsors for the charity to operate
 - Contacting sponsors for:
-  - Logo for banner/booklet/t-shirt
-  - Spiel in the booklet
+    - Logo for banner/booklet/t-shirt
+    - Spiel in the booklet
 - Manages sponsor perks
 
 ### Infrastructure admins
 
 - Responsible for maintaining SR’s infrastructure
 - Responds to infrastructure requests from other areas in a timely manner:
-  - Changes to GitHub permissions
-  - Creation of Google Workspace accounts for new volunteers
-  - Deployment of new infrastructure
-  - Modification to existing infrastructure
-  - Slack administration
-  - Access continuity sheet
+    - Changes to GitHub permissions
+    - Creation of Google Workspace accounts for new volunteers
+    - Deployment of new infrastructure
+    - Modification to existing infrastructure
+    - Slack administration
+    - Access continuity sheet
 
 ## Areas at the competition
 
