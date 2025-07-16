@@ -10,8 +10,6 @@ This is the documentation for the competition team coordinator role.
 There are various subordinate roles at the event, each of which is described
 in the following documents:
 
-* [Crimper](./role-descriptions/crimper.md)
-* [Door Guard](./role-descriptions/door-guard.md)
 * [Kit Return](../team-support/kit-return.md)
 * [Reception](./role-descriptions/reception.md)
 * [Tinker Time](../team-support/tinker-time.md)
