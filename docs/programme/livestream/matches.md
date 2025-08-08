@@ -29,4 +29,4 @@ In a simulator-based competition, matches are pre-recorded. To assist with the a
 
 [In-match commentary](../../competition/matches/commentating.md) is usually provided by separate commentators to those handling commentary between matches, to give them a break.
 
-The in-match commentators will likely start introducing a match at 20 seconds. For the finals, this may be increased to 30 seconds or a minute.
+The in-match commentators will likely start introducing a match at 20 seconds. For the finals, this will be increased to a minute to allow for longer introductions. When transitioning to hosts, it's better to transition a few seconds early rather than late. This might result in a few seconds of dead air, but ensures everything the commentators say is broadcast.
