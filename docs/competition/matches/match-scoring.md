@@ -22,6 +22,7 @@ Your responsibilities are:
 - Ensuring no team members touch a robot after it has first moved. (see 'Teams touching robots').
 - Switching off robots when a team requests that you do so, or if they do not automatically turn off after a match ends.
 - Resetting the arena by moving props (tokens, for example) back to the correct place after you and your partner have both recorded the end-state of the match. There is no mechanism for delaying the matches, so please request extra help if you are struggling to make the deadlines.
+- Enforcing the relevant sections of the [match arrival process](./match-arrival.md).
 
 You are not responsible for:
 
