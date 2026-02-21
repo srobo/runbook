@@ -26,7 +26,9 @@ This is only allowed for veteran international teams, and must be approved by a 
 
 ## Batteries
 
-As we handle charging during the competition, teams will have 1 Battery. We don't want to keep those in the kits as we want to discharge them and place them with all other batteries. Please remove the battery from the kits, check it off the checklist, and place them in a container to be taken back to helpdesk to be storage charged.
+As we handle charging during the competition, teams will have 1 Battery. We don't want to keep those in the kits as we want to discharge them and place them with all other batteries. Please remove the battery from the kits, check it off the checklist, and place them in a container.
+
+For teams leaving early, there may be time to start storage charging batteries. After the closing ceremony, it's unlikely there is enough time to sufficiently storage charge batteries
 
 ## Missing Items
 
