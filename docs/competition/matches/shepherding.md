@@ -51,23 +51,22 @@ If it seems like the timing does not work out (teams waiting for a long time for
 
 #### Guard
 
-The responsibility of the guard is to open and close the staging area at appropriate times and control entry to this area.
+The responsibility of the guard is to open and close the staging area according to the [match arrival process](./match-arrival.md) and control entry to this area.
 
 More specifically the guard should not allow anyone into the staging area unless they are a blueshirt or staging for the next match. Only one person from each team is allowed in the staging area and they must wear a high-vis vest showing their team name, indicating that they have passed the safety and regulations checks. If they do not have a high-vis, they may not compete.
 
 !!! warning
-  If a robot no longer meets the safety or regulations checks, confiscate their battery or hi-viz respectively and suggest they contact helpdesk immediately.
+    If a robot no longer meets the safety or regulations checks, confiscate their battery or hi-viz respectively and suggest they contact helpdesk immediately.
 
-  Robots which do not meet the safety or regulations requirements may not compete.
+    Robots which do not meet the safety or regulations requirements may not compete.
 
 When letting a team (i.e. competitor with a robot) into the staging area, the guard should tell them which zone they are in, ideally by saying the colour and number of the zone (e.g. yellow 3). We recommend that the guard keeps a record of which teams have already been admitted for a particular match. If the guard sees a team leaving the staging area with a robot flag or competition mode USB still attached to their robot, they should try to stop them and get the flag and USB back as soon as possible.
 
-
 #### Badgers
 
-The responsibility of the badgers is to supervise the staging as well as to hand out and return robot badges and USB-keys.
+The responsibility of the badgers is to supervise the staging according to the [match arrival process](), as well as to hand out and return robot badges and USB-keys.
 
-More specifically, the badgers should make sure that teams follow the direction of travel through the staging area. Once the teams have entered staging the badgers then hand out the robot badges and match keys to the teams, making sure that a team has staged in the correct slot and is receiving the correct badges. The teams leaving the arena should be advised to place their robots on the de-staging desks for badge and USB key removal. The badgers need to collect the badges and keys and sort them, ready to be handed out in the next round of staging. The badgers need to ensure that teams do not leave the staging area with markers or USB-keys. The badgers should also clear any items left on the staging tables at this point to prepare for the next round of staging.
+Badgers will ensure that there are enough competition mode USBs and flags on the staging desks. The badgers need to ensure that teams do not leave the staging area with markers or USB-keys. The badgers should also clear any items left on the staging tables at this point to prepare for the next round of staging.
 
 ### Roving Shepherd
 
