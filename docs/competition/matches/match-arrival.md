@@ -36,7 +36,7 @@ The robot is in a ready state when the "comp" LED on the brain board is lit up. 
 
 ## 3. Placing robots in the arena
 
-Once the previous match is scored, Marshals will reset the arena and competitors are instructed to place their robot in the corresponding starting zone.
+Once the previous match is scored, Scorers will reset the arena and competitors are instructed to place their robot in the corresponding starting zone.
 
 Where possible, competitors should travel around the arena rather than through it, to stay out of the way of volunteers resetting the arena.
 
@@ -58,11 +58,11 @@ At the end of a match, the arena should be filled with a red glow.
 
 Competitors should not move from the waiting area.
 
-At this point, Marshals will score the match.
+At this point, Scorers will score the match.
 
 ## 6. Collecting robots
 
-Once scoring has finished, Marshals will instruct competitors to leave the waiting area and collect their robot. Once collected, the robot should be placed on the _out_ staging desk.
+Once scoring has finished, Scorers will instruct competitors to leave the waiting area and collect their robot. Once collected, the robot should be placed on the _out_ staging desk.
 
 At the _out_ staging desk, the flag and competition mode USB should be removed and left on the table.
 
