@@ -50,7 +50,7 @@ When the clock hits 0, teams should start their robot. Commentators and screens 
 
 If a robot doesn't start immediately, competitors may repeatedly press the start button. Competitors may not restart their robot. Restarting a robot may result in disqualification. If the robot does not start after a few seconds, it must be left.
 
-Once a robot has started successfully, competitors should move to the designated waiting area. If may be necessary to remind competitors to move once their robot starts.
+Once a robot has started successfully, competitors should move to the designated waiting area. It may be necessary for the arena-side volunteers to remind competitors to move once their robot starts.
 
 ## 5. End of match
 
