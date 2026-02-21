@@ -71,4 +71,4 @@ At the _out_ staging desk, the flag and competition mode USB should be removed a
 Once teams have returned the flag and competition mode USB, competitors may leave staging. Competitors should not hang around staging after their match has finished.
 
 !!! warning
-    Robots should be checked for flags and competition mode USBs before leaving staging, to avoid needing to search for them and impacting competition matches.
+    Badgers should check for flags and competition mode USBs before the robots leave staging, to avoid needing to search for them and impacting competition matches.
