@@ -6,17 +6,45 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   icon:
-    logo: fontawesome/solid/book
+    logo: fontawesome/solid/book-open-reader
+    repo: fontawesome/brands/github
   favicon: favicon.ico
   palette:
-    primary: 'blue'
-    accent: 'blue'
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
   custom_dir: theme
   features:
     - navigation.tabs
-    - navigation.index
+    - navigation.indexes
     - content.action.edit
     - content.action.view
+    - search.suggest
+  font:
+    text: Open Sans
 copyright: |
   Copyright &copy; Student Robotics contributors
   <br>
@@ -37,13 +65,11 @@ extra:
 
 # Extensions
 markdown_extensions:
-  # Note: the mermaid2 plugin also relies on code blocks for graphs, which isn't
-  # completely compatible with the following extensions, so we keep them
-  # disabled. If we turn out to need code blocks in this project, we can
-  # solve this then. See https://github.com/fralau/mkdocs-mermaid2-plugin#using-mermaid-and-code-highlighting-at-the-same-time.
-  # - markdown.extensions.codehilite
-  # - pymdownx.superfences
-
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid
   - footnotes
   - markdown.extensions.admonition
   - markdown.extensions.def_list
@@ -68,8 +94,14 @@ markdown_extensions:
       base_path: docs
   - attr_list
 
+extra_css:
+  - assets/runbook.css
+
 
 plugins:
   - search
   - markdownextradata
   - mermaid2
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
