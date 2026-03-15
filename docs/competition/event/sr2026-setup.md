@@ -2,6 +2,8 @@
 
 The event logistics area is responsible for the setup at the SR2026 competition. Volunteers will be split into teams with a plan for the day, and each team will have a leader.
 
+To aid in teardown, boxes containing items used in a single location should be stored in its vicinity for the duration of the event.
+
 The number following each team is the number of people that team should ideally have.
 
 ## Thursday
@@ -94,3 +96,10 @@ gantt
     Setup venue screens :setupVenueScreensSUSU, 11:30, 1h
     Lunch :lunchSUSU, 12:30, 45m
 ```
+
+## Teardown
+
+Area leads are responsible for packing down their own area.
+For the first stage of teardown, each location should be packed back into the boxes stored at their location.
+Only once packed are the boxes moved to the volunteer room where the boxes will be stored until transported to the container.
+For the items whose boxes are shared across locations, these should be brought to the volunteer room where they will be collated into their boxes.
