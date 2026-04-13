@@ -80,7 +80,7 @@ This checklist enumerates the tasks that need to be completed to run a virtual c
 
 - Archive the livestream so that it can be watched as a Video on Demand (VOD)
 - Cut down the VOD on YouTube to remove the countdown
-- Add chapters to the VOD
+- Add chapters to the VOD (SRComp has a [`youtube-chapters` command](https://srcomp-cli.readthedocs.io/en/latest/commands/youtube-chapters.html) which may be useful for this)
 - Distribute logs and animation files to teams
 - Schedule a Retro after a brief break
 - Announce the final scores, VOD, and next competition time to the teams
