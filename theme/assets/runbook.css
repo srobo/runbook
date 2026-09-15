@@ -1,0 +1,7 @@
+div.mermaid svg {
+  /*
+    Force mermaid diagrams to have a light background
+  */
+  background-color: white;
+  color: black;
+}
